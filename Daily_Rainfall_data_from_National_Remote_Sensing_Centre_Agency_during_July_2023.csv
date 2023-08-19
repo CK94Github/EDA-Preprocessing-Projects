@@ -1,0 +1,2895 @@
+﻿State,District,Date,Year,Avg_rainfall,,,,,,
+Andhra Pradesh,Anantapur,7/1/2023,2023,0.1,,,,,Row Labels,Sum of Avg_rainfall
+Andhra Pradesh,Anantapur,7/2/2023,2023,0.68,,,,,Andhra Pradesh,62.45
+Andhra Pradesh,Anantapur,7/3/2023,2023,2.43,,,,,Anantapur,3.21
+Andhra Pradesh,Chittoor,7/1/2023,2023,0.18,,,,,7/1/2023,0.1
+Andhra Pradesh,Chittoor,7/2/2023,2023,1.15,,,,,7/2/2023,0.68
+Andhra Pradesh,Chittoor,7/3/2023,2023,4.95,,,,,7/3/2023,2.43
+Andhra Pradesh,East Godavari,7/1/2023,2023,0,,,,,Chittoor,6.28
+Andhra Pradesh,East Godavari,7/2/2023,2023,0.01,,,,,7/1/2023,0.18
+Andhra Pradesh,East Godavari,7/3/2023,2023,1.08,,,,,7/2/2023,1.15
+Andhra Pradesh,Guntur,7/1/2023,2023,0.06,,,,,7/3/2023,4.95
+Andhra Pradesh,Guntur,7/2/2023,2023,1.23,,,,,East Godavari,1.09
+Andhra Pradesh,Guntur,7/3/2023,2023,2.51,,,,,7/1/2023,0
+Andhra Pradesh,Krishna,7/1/2023,2023,0,,,,,7/2/2023,0.01
+Andhra Pradesh,Krishna,7/2/2023,2023,0.13,,,,,7/3/2023,1.08
+Andhra Pradesh,Krishna,7/3/2023,2023,0.17,,,,,Guntur,3.8
+Andhra Pradesh,Kurnool,7/1/2023,2023,0,,,,,7/1/2023,0.06
+Andhra Pradesh,Kurnool,7/2/2023,2023,2.32,,,,,7/2/2023,1.23
+Andhra Pradesh,Kurnool,7/3/2023,2023,8.3,,,,,7/3/2023,2.51
+Andhra Pradesh,Prakasam,7/1/2023,2023,0,,,,,Krishna,0.3
+Andhra Pradesh,Prakasam,7/2/2023,2023,0.14,,,,,7/1/2023,0
+Andhra Pradesh,Prakasam,7/3/2023,2023,1.78,,,,,7/2/2023,0.13
+Andhra Pradesh,SPSR Nellore,7/1/2023,2023,0.04,,,,,7/3/2023,0.17
+Andhra Pradesh,SPSR Nellore,7/2/2023,2023,1.63,,,,,Kurnool,10.62
+Andhra Pradesh,SPSR Nellore,7/3/2023,2023,2.27,,,,,7/1/2023,0
+Andhra Pradesh,Srikakulam,7/1/2023,2023,0,,,,,7/2/2023,2.32
+Andhra Pradesh,Srikakulam,7/2/2023,2023,5.05,,,,,7/3/2023,8.3
+Andhra Pradesh,Srikakulam,7/3/2023,2023,1,,,,,Prakasam,1.92
+Andhra Pradesh,Visakhapatanam,7/1/2023,2023,0.01,,,,,7/1/2023,0
+Andhra Pradesh,Visakhapatanam,7/2/2023,2023,1.6,,,,,7/2/2023,0.14
+Andhra Pradesh,Visakhapatanam,7/3/2023,2023,5.84,,,,,7/3/2023,1.78
+Andhra Pradesh,Vizianagaram,7/1/2023,2023,0,,,,,SPSR Nellore,3.94
+Andhra Pradesh,Vizianagaram,7/2/2023,2023,2.31,,,,,7/1/2023,0.04
+Andhra Pradesh,Vizianagaram,7/3/2023,2023,6.85,,,,,7/2/2023,1.63
+Andhra Pradesh,West Godavari,7/1/2023,2023,0,,,,,7/3/2023,2.27
+Andhra Pradesh,West Godavari,7/2/2023,2023,0.03,,,,,Srikakulam,6.05
+Andhra Pradesh,West Godavari,7/3/2023,2023,0.02,,,,,7/1/2023,0
+Andhra Pradesh,Y.S.R.,7/1/2023,2023,0.05,,,,,7/2/2023,5.05
+Andhra Pradesh,Y.S.R.,7/2/2023,2023,2.58,,,,,7/3/2023,1
+Andhra Pradesh,Y.S.R.,7/3/2023,2023,5.95,,,,,Visakhapatanam,7.45
+Arunachal Pradesh,Anjaw,7/1/2023,2023,0.22,,,,,7/1/2023,0.01
+Arunachal Pradesh,Anjaw,7/2/2023,2023,0.02,,,,,7/2/2023,1.6
+Arunachal Pradesh,Anjaw,7/3/2023,2023,0.18,,,,,7/3/2023,5.84
+Arunachal Pradesh,Changlang,7/1/2023,2023,0.15,,,,,Vizianagaram,9.16
+Arunachal Pradesh,Changlang,7/2/2023,2023,3.61,,,,,7/1/2023,0
+Arunachal Pradesh,Changlang,7/3/2023,2023,4.54,,,,,7/2/2023,2.31
+Arunachal Pradesh,Dibang Valley,7/1/2023,2023,1.1,,,,,7/3/2023,6.85
+Arunachal Pradesh,Dibang Valley,7/2/2023,2023,0.48,,,,,West Godavari,0.05
+Arunachal Pradesh,Dibang Valley,7/3/2023,2023,0.44,,,,,7/1/2023,0
+Arunachal Pradesh,East Kameng,7/1/2023,2023,2.84,,,,,7/2/2023,0.03
+Arunachal Pradesh,East Kameng,7/2/2023,2023,2.17,,,,,7/3/2023,0.02
+Arunachal Pradesh,East Kameng,7/3/2023,2023,2.96,,,,,Y.S.R.,8.58
+Arunachal Pradesh,East Siang,7/1/2023,2023,13.19,,,,,7/1/2023,0.05
+Arunachal Pradesh,East Siang,7/2/2023,2023,6.47,,,,,7/2/2023,2.58
+Arunachal Pradesh,East Siang,7/3/2023,2023,3.63,,,,,7/3/2023,5.95
+Arunachal Pradesh,Kamle,7/1/2023,2023,3.05,,,,,Arunachal Pradesh,280.54
+Arunachal Pradesh,Kamle,7/2/2023,2023,4.34,,,,,Anjaw,0.42
+Arunachal Pradesh,Kamle,7/3/2023,2023,3.69,,,,,7/1/2023,0.22
+Arunachal Pradesh,Kra Daadi,7/1/2023,2023,1.09,,,,,7/2/2023,0.02
+Arunachal Pradesh,Kra Daadi,7/2/2023,2023,1.17,,,,,7/3/2023,0.18
+Arunachal Pradesh,Kra Daadi,7/3/2023,2023,0.28,,,,,Changlang,8.3
+Arunachal Pradesh,Kurung Kumey,7/1/2023,2023,0.24,,,,,7/1/2023,0.15
+Arunachal Pradesh,Kurung Kumey,7/2/2023,2023,1.83,,,,,7/2/2023,3.61
+Arunachal Pradesh,Kurung Kumey,7/3/2023,2023,0.07,,,,,7/3/2023,4.54
+Arunachal Pradesh,Leparada,7/1/2023,2023,7.1,,,,,Dibang Valley,2.02
+Arunachal Pradesh,Leparada,7/2/2023,2023,5.75,,,,,7/1/2023,1.1
+Arunachal Pradesh,Leparada,7/3/2023,2023,19.81,,,,,7/2/2023,0.48
+Arunachal Pradesh,Lohit,7/1/2023,2023,2.81,,,,,7/3/2023,0.44
+Arunachal Pradesh,Lohit,7/2/2023,2023,0.68,,,,,East Kameng,7.97
+Arunachal Pradesh,Lohit,7/3/2023,2023,4.52,,,,,7/1/2023,2.84
+Arunachal Pradesh,Longding,7/1/2023,2023,6.97,,,,,7/2/2023,2.17
+Arunachal Pradesh,Longding,7/2/2023,2023,10.41,,,,,7/3/2023,2.96
+Arunachal Pradesh,Longding,7/3/2023,2023,1.41,,,,,East Siang,23.29
+Arunachal Pradesh,Lower Dibang Valley,7/1/2023,2023,8.75,,,,,7/1/2023,13.19
+Arunachal Pradesh,Lower Dibang Valley,7/2/2023,2023,1.54,,,,,7/2/2023,6.47
+Arunachal Pradesh,Lower Dibang Valley,7/3/2023,2023,5.52,,,,,7/3/2023,3.63
+Arunachal Pradesh,Lower Siang,7/1/2023,2023,1.99,,,,,Kamle,11.08
+Arunachal Pradesh,Lower Siang,7/2/2023,2023,4.73,,,,,7/1/2023,3.05
+Arunachal Pradesh,Lower Siang,7/3/2023,2023,6.43,,,,,7/2/2023,4.34
+Arunachal Pradesh,Lower Subansiri,7/1/2023,2023,1.12,,,,,7/3/2023,3.69
+Arunachal Pradesh,Lower Subansiri,7/2/2023,2023,2.92,,,,,Kra Daadi,2.54
+Arunachal Pradesh,Lower Subansiri,7/3/2023,2023,8.96,,,,,7/1/2023,1.09
+Arunachal Pradesh,Namsai,7/1/2023,2023,2.48,,,,,7/2/2023,1.17
+Arunachal Pradesh,Namsai,7/2/2023,2023,1.41,,,,,7/3/2023,0.28
+Arunachal Pradesh,Namsai,7/3/2023,2023,5.41,,,,,Kurung Kumey,2.14
+Arunachal Pradesh,Pakke Kessang,7/1/2023,2023,7.57,,,,,7/1/2023,0.24
+Arunachal Pradesh,Pakke Kessang,7/2/2023,2023,11.6,,,,,7/2/2023,1.83
+Arunachal Pradesh,Pakke Kessang,7/3/2023,2023,16.86,,,,,7/3/2023,0.07
+Arunachal Pradesh,Papum Pare,7/1/2023,2023,2.93,,,,,Leparada,32.66
+Arunachal Pradesh,Papum Pare,7/2/2023,2023,7.07,,,,,7/1/2023,7.1
+Arunachal Pradesh,Papum Pare,7/3/2023,2023,5.49,,,,,7/2/2023,5.75
+Arunachal Pradesh,Shi Yomi,7/1/2023,2023,0,,,,,7/3/2023,19.81
+Arunachal Pradesh,Shi Yomi,7/2/2023,2023,0.22,,,,,Lohit,8.01
+Arunachal Pradesh,Shi Yomi,7/3/2023,2023,0.27,,,,,7/1/2023,2.81
+Arunachal Pradesh,Siang,7/1/2023,2023,2.02,,,,,7/2/2023,0.68
+Arunachal Pradesh,Siang,7/2/2023,2023,1.06,,,,,7/3/2023,4.52
+Arunachal Pradesh,Siang,7/3/2023,2023,1.72,,,,,Longding,18.79
+Arunachal Pradesh,Tawang,7/1/2023,2023,0.1,,,,,7/1/2023,6.97
+Arunachal Pradesh,Tawang,7/2/2023,2023,0.71,,,,,7/2/2023,10.41
+Arunachal Pradesh,Tawang,7/3/2023,2023,0.44,,,,,7/3/2023,1.41
+Arunachal Pradesh,Tirap,7/1/2023,2023,2.08,,,,,Lower Dibang Valley,15.81
+Arunachal Pradesh,Tirap,7/2/2023,2023,10.26,,,,,7/1/2023,8.75
+Arunachal Pradesh,Tirap,7/3/2023,2023,6.58,,,,,7/2/2023,1.54
+Arunachal Pradesh,Upper Siang,7/1/2023,2023,5.89,,,,,7/3/2023,5.52
+Arunachal Pradesh,Upper Siang,7/2/2023,2023,3.99,,,,,Lower Siang,13.15
+Arunachal Pradesh,Upper Siang,7/3/2023,2023,3.47,,,,,7/1/2023,1.99
+Arunachal Pradesh,Upper Subansiri,7/1/2023,2023,0.3,,,,,7/2/2023,4.73
+Arunachal Pradesh,Upper Subansiri,7/2/2023,2023,1.88,,,,,7/3/2023,6.43
+Arunachal Pradesh,Upper Subansiri,7/3/2023,2023,1.11,,,,,Lower Subansiri,13
+Arunachal Pradesh,West Kameng,7/1/2023,2023,1.28,,,,,7/1/2023,1.12
+Arunachal Pradesh,West Kameng,7/2/2023,2023,2.41,,,,,7/2/2023,2.92
+Arunachal Pradesh,West Kameng,7/3/2023,2023,1.36,,,,,7/3/2023,8.96
+Arunachal Pradesh,West Siang,7/1/2023,2023,3.22,,,,,Namsai,9.3
+Arunachal Pradesh,West Siang,7/2/2023,2023,1.67,,,,,7/1/2023,2.48
+Arunachal Pradesh,West Siang,7/3/2023,2023,8.5,,,,,7/2/2023,1.41
+Assam,Baksa,7/1/2023,2023,11.66,,,,,7/3/2023,5.41
+Assam,Baksa,7/2/2023,2023,39.01,,,,,Pakke Kessang,36.03
+Assam,Baksa,7/3/2023,2023,21.99,,,,,7/1/2023,7.57
+Assam,Barpeta,7/1/2023,2023,47.93,,,,,7/2/2023,11.6
+Assam,Barpeta,7/2/2023,2023,20.21,,,,,7/3/2023,16.86
+Assam,Barpeta,7/3/2023,2023,18.32,,,,,Papum Pare,15.49
+Assam,Biswanath,7/1/2023,2023,6.24,,,,,7/1/2023,2.93
+Assam,Biswanath,7/2/2023,2023,4.17,,,,,7/2/2023,7.07
+Assam,Biswanath,7/3/2023,2023,2.45,,,,,7/3/2023,5.49
+Assam,Bongaigaon,7/1/2023,2023,31.84,,,,,Shi Yomi,0.49
+Assam,Bongaigaon,7/2/2023,2023,22.74,,,,,7/1/2023,0
+Assam,Bongaigaon,7/3/2023,2023,16.68,,,,,7/2/2023,0.22
+Assam,Cachar,7/1/2023,2023,16.19,,,,,7/3/2023,0.27
+Assam,Cachar,7/2/2023,2023,7.55,,,,,Siang,4.8
+Assam,Cachar,7/3/2023,2023,6.57,,,,,7/1/2023,2.02
+Assam,Charaideo,7/1/2023,2023,18.31,,,,,7/2/2023,1.06
+Assam,Charaideo,7/2/2023,2023,12.63,,,,,7/3/2023,1.72
+Assam,Charaideo,7/3/2023,2023,9.22,,,,,Tawang,1.25
+Assam,Chirang,7/1/2023,2023,21.72,,,,,7/1/2023,0.1
+Assam,Chirang,7/2/2023,2023,46.44,,,,,7/2/2023,0.71
+Assam,Chirang,7/3/2023,2023,34.09,,,,,7/3/2023,0.44
+Assam,Darrang,7/1/2023,2023,3.69,,,,,Tirap,18.92
+Assam,Darrang,7/2/2023,2023,3.36,,,,,7/1/2023,2.08
+Assam,Darrang,7/3/2023,2023,4.38,,,,,7/2/2023,10.26
+Assam,Dhemaji,7/1/2023,2023,6.33,,,,,7/3/2023,6.58
+Assam,Dhemaji,7/2/2023,2023,21.78,,,,,Upper Siang,13.35
+Assam,Dhemaji,7/3/2023,2023,23.93,,,,,7/1/2023,5.89
+Assam,Dhubri,7/1/2023,2023,35.71,,,,,7/2/2023,3.99
+Assam,Dhubri,7/2/2023,2023,62.32,,,,,7/3/2023,3.47
+Assam,Dhubri,7/3/2023,2023,14.39,,,,,Upper Subansiri,3.29
+Assam,Dibrugarh,7/1/2023,2023,18.87,,,,,7/1/2023,0.3
+Assam,Dibrugarh,7/2/2023,2023,14.71,,,,,7/2/2023,1.88
+Assam,Dibrugarh,7/3/2023,2023,9.75,,,,,7/3/2023,1.11
+Assam,Dima Hasao,7/1/2023,2023,3.1,,,,,West Kameng,5.05
+Assam,Dima Hasao,7/2/2023,2023,3.22,,,,,7/1/2023,1.28
+Assam,Dima Hasao,7/3/2023,2023,4.03,,,,,7/2/2023,2.41
+Assam,Goalpara,7/1/2023,2023,32.01,,,,,7/3/2023,1.36
+Assam,Goalpara,7/2/2023,2023,20.51,,,,,West Siang,13.39
+Assam,Goalpara,7/3/2023,2023,8.06,,,,,7/1/2023,3.22
+Assam,Golaghat,7/1/2023,2023,4.87,,,,,7/2/2023,1.67
+Assam,Golaghat,7/2/2023,2023,0.95,,,,,7/3/2023,8.5
+Assam,Golaghat,7/3/2023,2023,2.02,,,,,Assam,1313.71
+Assam,Hailakandi,7/1/2023,2023,26.32,,,,,Baksa,72.66
+Assam,Hailakandi,7/2/2023,2023,9.45,,,,,7/1/2023,11.66
+Assam,Hailakandi,7/3/2023,2023,10.64,,,,,7/2/2023,39.01
+Assam,Hojai,7/1/2023,2023,11.25,,,,,7/3/2023,21.99
+Assam,Hojai,7/2/2023,2023,3.66,,,,,Barpeta,86.46
+Assam,Hojai,7/3/2023,2023,2.47,,,,,7/1/2023,47.93
+Assam,Jorhat,7/1/2023,2023,2.98,,,,,7/2/2023,20.21
+Assam,Jorhat,7/2/2023,2023,0.73,,,,,7/3/2023,18.32
+Assam,Jorhat,7/3/2023,2023,2.84,,,,,Biswanath,12.86
+Assam,Kamrup,7/1/2023,2023,4.92,,,,,7/1/2023,6.24
+Assam,Kamrup,7/2/2023,2023,8.91,,,,,7/2/2023,4.17
+Assam,Kamrup,7/3/2023,2023,7.01,,,,,7/3/2023,2.45
+Assam,Kamrup Metro,7/1/2023,2023,5.23,,,,,Bongaigaon,71.26
+Assam,Kamrup Metro,7/2/2023,2023,11.29,,,,,7/1/2023,31.84
+Assam,Kamrup Metro,7/3/2023,2023,4.71,,,,,7/2/2023,22.74
+Assam,Karbi Anglong,7/1/2023,2023,1.56,,,,,7/3/2023,16.68
+Assam,Karbi Anglong,7/2/2023,2023,1.05,,,,,Cachar,30.31
+Assam,Karbi Anglong,7/3/2023,2023,1.12,,,,,7/1/2023,16.19
+Assam,Karimganj,7/1/2023,2023,18.13,,,,,7/2/2023,7.55
+Assam,Karimganj,7/2/2023,2023,19.76,,,,,7/3/2023,6.57
+Assam,Karimganj,7/3/2023,2023,15.17,,,,,Charaideo,40.16
+Assam,Kokrajhar,7/1/2023,2023,28.41,,,,,7/1/2023,18.31
+Assam,Kokrajhar,7/2/2023,2023,52.3,,,,,7/2/2023,12.63
+Assam,Kokrajhar,7/3/2023,2023,29.9,,,,,7/3/2023,9.22
+Assam,Lakhimpur,7/1/2023,2023,8.28,,,,,Chirang,102.25
+Assam,Lakhimpur,7/2/2023,2023,9.9,,,,,7/1/2023,21.72
+Assam,Lakhimpur,7/3/2023,2023,10.24,,,,,7/2/2023,46.44
+Assam,Majuli,7/1/2023,2023,4.81,,,,,7/3/2023,34.09
+Assam,Majuli,7/2/2023,2023,9.43,,,,,Darrang,11.43
+Assam,Majuli,7/3/2023,2023,1.36,,,,,7/1/2023,3.69
+Assam,Marigaon,7/1/2023,2023,11.29,,,,,7/2/2023,3.36
+Assam,Marigaon,7/2/2023,2023,9.67,,,,,7/3/2023,4.38
+Assam,Marigaon,7/3/2023,2023,1.62,,,,,Dhemaji,52.04
+Assam,Nagaon,7/1/2023,2023,18.85,,,,,7/1/2023,6.33
+Assam,Nagaon,7/2/2023,2023,3.38,,,,,7/2/2023,21.78
+Assam,Nagaon,7/3/2023,2023,4.13,,,,,7/3/2023,23.93
+Assam,Nalbari,7/1/2023,2023,8.28,,,,,Dhubri,112.42
+Assam,Nalbari,7/2/2023,2023,6.81,,,,,7/1/2023,35.71
+Assam,Nalbari,7/3/2023,2023,15.03,,,,,7/2/2023,62.32
+Assam,Sivasagar,7/1/2023,2023,14.83,,,,,7/3/2023,14.39
+Assam,Sivasagar,7/2/2023,2023,3.08,,,,,Dibrugarh,43.33
+Assam,Sivasagar,7/3/2023,2023,12.29,,,,,7/1/2023,18.87
+Assam,Sonitpur,7/1/2023,2023,4.85,,,,,7/2/2023,14.71
+Assam,Sonitpur,7/2/2023,2023,10.4,,,,,7/3/2023,9.75
+Assam,Sonitpur,7/3/2023,2023,15.86,,,,,Dima Hasao,10.35
+Assam,South Salmara Mancachar,7/1/2023,2023,33.26,,,,,7/1/2023,3.1
+Assam,South Salmara Mancachar,7/2/2023,2023,3.86,,,,,7/2/2023,3.22
+Assam,South Salmara Mancachar,7/3/2023,2023,5,,,,,7/3/2023,4.03
+Assam,Tinsukia,7/1/2023,2023,8.86,,,,,Goalpara,60.58
+Assam,Tinsukia,7/2/2023,2023,9.81,,,,,7/1/2023,32.01
+Assam,Tinsukia,7/3/2023,2023,7.12,,,,,7/2/2023,20.51
+Assam,Udalguri,7/1/2023,2023,0.66,,,,,7/3/2023,8.06
+Assam,Udalguri,7/2/2023,2023,17.08,,,,,Golaghat,7.84
+Assam,Udalguri,7/3/2023,2023,5.47,,,,,7/1/2023,4.87
+Assam,West Karbi Anglong,7/1/2023,2023,7.19,,,,,7/2/2023,0.95
+Assam,West Karbi Anglong,7/2/2023,2023,31.91,,,,,7/3/2023,2.02
+Assam,West Karbi Anglong,7/3/2023,2023,5.34,,,,,Hailakandi,46.41
+Bihar,Araria,7/1/2023,2023,58.81,,,,,7/1/2023,26.32
+Bihar,Araria,7/2/2023,2023,1.92,,,,,7/2/2023,9.45
+Bihar,Araria,7/3/2023,2023,6.39,,,,,7/3/2023,10.64
+Bihar,Arwal,7/1/2023,2023,42.94,,,,,Hojai,17.38
+Bihar,Arwal,7/2/2023,2023,43.67,,,,,7/1/2023,11.25
+Bihar,Arwal,7/3/2023,2023,17.46,,,,,7/2/2023,3.66
+Bihar,Aurangabad,7/1/2023,2023,66.62,,,,,7/3/2023,2.47
+Bihar,Aurangabad,7/2/2023,2023,44.78,,,,,Jorhat,6.55
+Bihar,Aurangabad,7/3/2023,2023,15.62,,,,,7/1/2023,2.98
+Bihar,Banka,7/1/2023,2023,3.17,,,,,7/2/2023,0.73
+Bihar,Banka,7/2/2023,2023,6.08,,,,,7/3/2023,2.84
+Bihar,Banka,7/3/2023,2023,65.84,,,,,Kamrup,20.84
+Bihar,Begusarai,7/1/2023,2023,40.91,,,,,7/1/2023,4.92
+Bihar,Begusarai,7/2/2023,2023,9.81,,,,,7/2/2023,8.91
+Bihar,Begusarai,7/3/2023,2023,26.02,,,,,7/3/2023,7.01
+Bihar,Bhagalpur,7/1/2023,2023,16.19,,,,,Kamrup Metro,21.23
+Bihar,Bhagalpur,7/2/2023,2023,19.32,,,,,7/1/2023,5.23
+Bihar,Bhagalpur,7/3/2023,2023,33.63,,,,,7/2/2023,11.29
+Bihar,Bhojpur,7/1/2023,2023,33.14,,,,,7/3/2023,4.71
+Bihar,Bhojpur,7/2/2023,2023,31.85,,,,,Karbi Anglong,3.73
+Bihar,Bhojpur,7/3/2023,2023,16.32,,,,,7/1/2023,1.56
+Bihar,Buxar,7/1/2023,2023,47.13,,,,,7/2/2023,1.05
+Bihar,Buxar,7/2/2023,2023,43.16,,,,,7/3/2023,1.12
+Bihar,Buxar,7/3/2023,2023,21.39,,,,,Karimganj,53.06
+Bihar,Darbhanga,7/1/2023,2023,15.35,,,,,7/1/2023,18.13
+Bihar,Darbhanga,7/2/2023,2023,55.56,,,,,7/2/2023,19.76
+Bihar,Darbhanga,7/3/2023,2023,10.72,,,,,7/3/2023,15.17
+Bihar,Gaya,7/1/2023,2023,34.29,,,,,Kokrajhar,110.61
+Bihar,Gaya,7/2/2023,2023,27.72,,,,,7/1/2023,28.41
+Bihar,Gaya,7/3/2023,2023,35.81,,,,,7/2/2023,52.3
+Bihar,Gopalganj,7/1/2023,2023,28.59,,,,,7/3/2023,29.9
+Bihar,Gopalganj,7/2/2023,2023,31.71,,,,,Lakhimpur,28.42
+Bihar,Gopalganj,7/3/2023,2023,21.65,,,,,7/1/2023,8.28
+Bihar,Jamui,7/1/2023,2023,8.13,,,,,7/2/2023,9.9
+Bihar,Jamui,7/2/2023,2023,6.85,,,,,7/3/2023,10.24
+Bihar,Jamui,7/3/2023,2023,58.2,,,,,Majuli,15.6
+Bihar,Jehanabad,7/1/2023,2023,36.76,,,,,7/1/2023,4.81
+Bihar,Jehanabad,7/2/2023,2023,36.34,,,,,7/2/2023,9.43
+Bihar,Jehanabad,7/3/2023,2023,14.77,,,,,7/3/2023,1.36
+Bihar,Kaimur (Bhabua),7/1/2023,2023,26.39,,,,,Marigaon,22.58
+Bihar,Kaimur (Bhabua),7/2/2023,2023,16.65,,,,,7/1/2023,11.29
+Bihar,Kaimur (Bhabua),7/3/2023,2023,4.49,,,,,7/2/2023,9.67
+Bihar,Katihar,7/1/2023,2023,26.8,,,,,7/3/2023,1.62
+Bihar,Katihar,7/2/2023,2023,19.84,,,,,Nagaon,26.36
+Bihar,Katihar,7/3/2023,2023,33.95,,,,,7/1/2023,18.85
+Bihar,Khagaria,7/1/2023,2023,14.01,,,,,7/2/2023,3.38
+Bihar,Khagaria,7/2/2023,2023,10.04,,,,,7/3/2023,4.13
+Bihar,Khagaria,7/3/2023,2023,25.07,,,,,Nalbari,30.12
+Bihar,Kishanganj,7/1/2023,2023,9.64,,,,,7/1/2023,8.28
+Bihar,Kishanganj,7/2/2023,2023,0.37,,,,,7/2/2023,6.81
+Bihar,Kishanganj,7/3/2023,2023,25,,,,,7/3/2023,15.03
+Bihar,Lakhisarai,7/1/2023,2023,25.93,,,,,Sivasagar,30.2
+Bihar,Lakhisarai,7/2/2023,2023,18.12,,,,,7/1/2023,14.83
+Bihar,Lakhisarai,7/3/2023,2023,30.03,,,,,7/2/2023,3.08
+Bihar,Madhepura,7/1/2023,2023,8.78,,,,,7/3/2023,12.29
+Bihar,Madhepura,7/2/2023,2023,17.52,,,,,Sonitpur,31.11
+Bihar,Madhepura,7/3/2023,2023,16.38,,,,,7/1/2023,4.85
+Bihar,Madhubani,7/1/2023,2023,6.33,,,,,7/2/2023,10.4
+Bihar,Madhubani,7/2/2023,2023,72.94,,,,,7/3/2023,15.86
+Bihar,Madhubani,7/3/2023,2023,9,,,,,South Salmara Mancachar,42.12
+Bihar,Munger,7/1/2023,2023,11.46,,,,,7/1/2023,33.26
+Bihar,Munger,7/2/2023,2023,6.05,,,,,7/2/2023,3.86
+Bihar,Munger,7/3/2023,2023,20.93,,,,,7/3/2023,5
+Bihar,Muzaffarpur,7/1/2023,2023,29.88,,,,,Tinsukia,25.79
+Bihar,Muzaffarpur,7/2/2023,2023,21.83,,,,,7/1/2023,8.86
+Bihar,Muzaffarpur,7/3/2023,2023,3.31,,,,,7/2/2023,9.81
+Bihar,Nalanda,7/1/2023,2023,46.89,,,,,7/3/2023,7.12
+Bihar,Nalanda,7/2/2023,2023,8.22,,,,,Udalguri,23.21
+Bihar,Nalanda,7/3/2023,2023,15.48,,,,,7/1/2023,0.66
+Bihar,Nawada,7/1/2023,2023,16.19,,,,,7/2/2023,17.08
+Bihar,Nawada,7/2/2023,2023,14.18,,,,,7/3/2023,5.47
+Bihar,Nawada,7/3/2023,2023,46.37,,,,,West Karbi Anglong,44.44
+Bihar,Pashchim Champaran,7/1/2023,2023,18.52,,,,,7/1/2023,7.19
+Bihar,Pashchim Champaran,7/2/2023,2023,16.93,,,,,7/2/2023,31.91
+Bihar,Pashchim Champaran,7/3/2023,2023,10.43,,,,,7/3/2023,5.34
+Bihar,Patna,7/1/2023,2023,26.14,,,,,Bihar,2592.71
+Bihar,Patna,7/2/2023,2023,24.81,,,,,Araria,67.12
+Bihar,Patna,7/3/2023,2023,18.05,,,,,7/1/2023,58.81
+Bihar,Purbi Champaran,7/1/2023,2023,22.18,,,,,7/2/2023,1.92
+Bihar,Purbi Champaran,7/2/2023,2023,26.28,,,,,7/3/2023,6.39
+Bihar,Purbi Champaran,7/3/2023,2023,2.37,,,,,Arwal,104.07
+Bihar,Purnia,7/1/2023,2023,14.51,,,,,7/1/2023,42.94
+Bihar,Purnia,7/2/2023,2023,7.77,,,,,7/2/2023,43.67
+Bihar,Purnia,7/3/2023,2023,31.58,,,,,7/3/2023,17.46
+Bihar,Rohtas,7/1/2023,2023,45.23,,,,,Aurangabad,127.02
+Bihar,Rohtas,7/2/2023,2023,40.13,,,,,7/1/2023,66.62
+Bihar,Rohtas,7/3/2023,2023,14.18,,,,,7/2/2023,44.78
+Bihar,Saharsa,7/1/2023,2023,6.03,,,,,7/3/2023,15.62
+Bihar,Saharsa,7/2/2023,2023,21.84,,,,,Banka,75.09
+Bihar,Saharsa,7/3/2023,2023,10.31,,,,,7/1/2023,3.17
+Bihar,Samastipur,7/1/2023,2023,19.98,,,,,7/2/2023,6.08
+Bihar,Samastipur,7/2/2023,2023,19.22,,,,,7/3/2023,65.84
+Bihar,Samastipur,7/3/2023,2023,14.98,,,,,Begusarai,76.74
+Bihar,Saran,7/1/2023,2023,24.79,,,,,7/1/2023,40.91
+Bihar,Saran,7/2/2023,2023,30.36,,,,,7/2/2023,9.81
+Bihar,Saran,7/3/2023,2023,7.93,,,,,7/3/2023,26.02
+Bihar,Sheikhpura,7/1/2023,2023,31.84,,,,,Bhagalpur,69.14
+Bihar,Sheikhpura,7/2/2023,2023,10.37,,,,,7/1/2023,16.19
+Bihar,Sheikhpura,7/3/2023,2023,25.18,,,,,7/2/2023,19.32
+Bihar,Sheohar,7/1/2023,2023,6.43,,,,,7/3/2023,33.63
+Bihar,Sheohar,7/2/2023,2023,2.49,,,,,Bhojpur,81.31
+Bihar,Sheohar,7/3/2023,2023,0.05,,,,,7/1/2023,33.14
+Bihar,Sitamarhi,7/1/2023,2023,10.52,,,,,7/2/2023,31.85
+Bihar,Sitamarhi,7/2/2023,2023,20.56,,,,,7/3/2023,16.32
+Bihar,Sitamarhi,7/3/2023,2023,9.25,,,,,Buxar,111.68
+Bihar,Siwan,7/1/2023,2023,16.07,,,,,7/1/2023,47.13
+Bihar,Siwan,7/2/2023,2023,77.68,,,,,7/2/2023,43.16
+Bihar,Siwan,7/3/2023,2023,19.28,,,,,7/3/2023,21.39
+Bihar,Supaul,7/1/2023,2023,5.73,,,,,Darbhanga,81.63
+Bihar,Supaul,7/2/2023,2023,26.25,,,,,7/1/2023,15.35
+Bihar,Supaul,7/3/2023,2023,13.03,,,,,7/2/2023,55.56
+Bihar,Vaishali,7/1/2023,2023,19.6,,,,,7/3/2023,10.72
+Bihar,Vaishali,7/2/2023,2023,26.79,,,,,Gaya,97.82
+Bihar,Vaishali,7/3/2023,2023,4.35,,,,,7/1/2023,34.29
+Chandigarh,Chandigarh,7/1/2023,2023,12.87,,,,,7/2/2023,27.72
+Chandigarh,Chandigarh,7/2/2023,2023,13.73,,,,,7/3/2023,35.81
+Chandigarh,Chandigarh,7/3/2023,2023,1.36,,,,,Gopalganj,81.95
+Chhattisgarh,Balod,7/1/2023,2023,0.1,,,,,7/1/2023,28.59
+Chhattisgarh,Balod,7/2/2023,2023,0,,,,,7/2/2023,31.71
+Chhattisgarh,Baloda Bazar,7/1/2023,2023,0.85,,,,,7/3/2023,21.65
+Chhattisgarh,Baloda Bazar,7/2/2023,2023,0,,,,,Jamui,73.18
+Chhattisgarh,Baloda Bazar,7/3/2023,2023,0.01,,,,,7/1/2023,8.13
+Chhattisgarh,Balrampur,7/1/2023,2023,4.1,,,,,7/2/2023,6.85
+Chhattisgarh,Balrampur,7/2/2023,2023,1.39,,,,,7/3/2023,58.2
+Chhattisgarh,Balrampur,7/3/2023,2023,5.08,,,,,Jehanabad,87.87
+Chhattisgarh,Bastar,7/1/2023,2023,0.65,,,,,7/1/2023,36.76
+Chhattisgarh,Bastar,7/2/2023,2023,0.61,,,,,7/2/2023,36.34
+Chhattisgarh,Bastar,7/3/2023,2023,0.03,,,,,7/3/2023,14.77
+Chhattisgarh,Bemetara,7/1/2023,2023,0.18,,,,,Kaimur (Bhabua),47.53
+Chhattisgarh,Bemetara,7/3/2023,2023,0.05,,,,,7/1/2023,26.39
+Chhattisgarh,Bijapur,7/1/2023,2023,0.02,,,,,7/2/2023,16.65
+Chhattisgarh,Bijapur,7/2/2023,2023,0.27,,,,,7/3/2023,4.49
+Chhattisgarh,Bijapur,7/3/2023,2023,0.03,,,,,Katihar,80.59
+Chhattisgarh,Bilapur,7/1/2023,2023,0.03,,,,,7/1/2023,26.8
+Chhattisgarh,Bilapur,7/2/2023,2023,0,,,,,7/2/2023,19.84
+Chhattisgarh,Bilapur,7/3/2023,2023,0.03,,,,,7/3/2023,33.95
+Chhattisgarh,Dantewada,7/1/2023,2023,0.3,,,,,Khagaria,49.12
+Chhattisgarh,Dantewada,7/2/2023,2023,0.71,,,,,7/1/2023,14.01
+Chhattisgarh,Dantewada,7/3/2023,2023,0,,,,,7/2/2023,10.04
+Chhattisgarh,Dhamtari,7/1/2023,2023,0.42,,,,,7/3/2023,25.07
+Chhattisgarh,Dhamtari,7/2/2023,2023,0,,,,,Kishanganj,35.01
+Chhattisgarh,Durg,7/1/2023,2023,0.44,,,,,7/1/2023,9.64
+Chhattisgarh,Durg,7/3/2023,2023,0,,,,,7/2/2023,0.37
+Chhattisgarh,Gariyaband,7/1/2023,2023,0.1,,,,,7/3/2023,25
+Chhattisgarh,Gariyaband,7/2/2023,2023,0,,,,,Lakhisarai,74.08
+Chhattisgarh,Gariyaband,7/3/2023,2023,0,,,,,7/1/2023,25.93
+Chhattisgarh,Gaurella Pendra Marwahi,7/1/2023,2023,0.06,,,,,7/2/2023,18.12
+Chhattisgarh,Gaurella Pendra Marwahi,7/2/2023,2023,0.47,,,,,7/3/2023,30.03
+Chhattisgarh,Gaurella Pendra Marwahi,7/3/2023,2023,4.1,,,,,Madhepura,42.68
+Chhattisgarh,Janjgir-Champa,7/1/2023,2023,0.01,,,,,7/1/2023,8.78
+Chhattisgarh,Janjgir-Champa,7/2/2023,2023,0,,,,,7/2/2023,17.52
+Chhattisgarh,Janjgir-Champa,7/3/2023,2023,0.09,,,,,7/3/2023,16.38
+Chhattisgarh,Jashpur,7/1/2023,2023,2.9,,,,,Madhubani,88.27
+Chhattisgarh,Jashpur,7/2/2023,2023,0.25,,,,,7/1/2023,6.33
+Chhattisgarh,Jashpur,7/3/2023,2023,3.22,,,,,7/2/2023,72.94
+Chhattisgarh,Kabirdham,7/1/2023,2023,0.01,,,,,7/3/2023,9
+Chhattisgarh,Kabirdham,7/2/2023,2023,0,,,,,Munger,38.44
+Chhattisgarh,Kabirdham,7/3/2023,2023,0.32,,,,,7/1/2023,11.46
+Chhattisgarh,Kanker,7/1/2023,2023,1.17,,,,,7/2/2023,6.05
+Chhattisgarh,Kanker,7/2/2023,2023,0,,,,,7/3/2023,20.93
+Chhattisgarh,Kondagaon,7/1/2023,2023,0.04,,,,,Muzaffarpur,55.02
+Chhattisgarh,Kondagaon,7/2/2023,2023,0,,,,,7/1/2023,29.88
+Chhattisgarh,Kondagaon,7/3/2023,2023,0,,,,,7/2/2023,21.83
+Chhattisgarh,Korba,7/1/2023,2023,0.09,,,,,7/3/2023,3.31
+Chhattisgarh,Korba,7/2/2023,2023,0.04,,,,,Nalanda,70.59
+Chhattisgarh,Korba,7/3/2023,2023,0.4,,,,,7/1/2023,46.89
+Chhattisgarh,Korea,7/1/2023,2023,6.2,,,,,7/2/2023,8.22
+Chhattisgarh,Korea,7/2/2023,2023,2.71,,,,,7/3/2023,15.48
+Chhattisgarh,Korea,7/3/2023,2023,0.43,,,,,Nawada,76.74
+Chhattisgarh,Mahasamund,7/1/2023,2023,1.2,,,,,7/1/2023,16.19
+Chhattisgarh,Mahasamund,7/2/2023,2023,0,,,,,7/2/2023,14.18
+Chhattisgarh,Mahasamund,7/3/2023,2023,0,,,,,7/3/2023,46.37
+Chhattisgarh,Mungeli,7/1/2023,2023,0,,,,,Pashchim Champaran,45.88
+Chhattisgarh,Mungeli,7/2/2023,2023,0.03,,,,,7/1/2023,18.52
+Chhattisgarh,Mungeli,7/3/2023,2023,0.61,,,,,7/2/2023,16.93
+Chhattisgarh,Narayanpur,7/1/2023,2023,1.61,,,,,7/3/2023,10.43
+Chhattisgarh,Narayanpur,7/2/2023,2023,0.02,,,,,Patna,69
+Chhattisgarh,Raigarh,7/1/2023,2023,0.56,,,,,7/1/2023,26.14
+Chhattisgarh,Raigarh,7/2/2023,2023,0.05,,,,,7/2/2023,24.81
+Chhattisgarh,Raigarh,7/3/2023,2023,0.03,,,,,7/3/2023,18.05
+Chhattisgarh,Raipur,7/1/2023,2023,0.44,,,,,Purbi Champaran,50.83
+Chhattisgarh,Raipur,7/3/2023,2023,0,,,,,7/1/2023,22.18
+Chhattisgarh,Rajnandgaon,7/1/2023,2023,0.27,,,,,7/2/2023,26.28
+Chhattisgarh,Rajnandgaon,7/2/2023,2023,0,,,,,7/3/2023,2.37
+Chhattisgarh,Rajnandgaon,7/3/2023,2023,0.08,,,,,Purnia,53.86
+Chhattisgarh,Sukma,7/1/2023,2023,0.44,,,,,7/1/2023,14.51
+Chhattisgarh,Sukma,7/2/2023,2023,0.1,,,,,7/2/2023,7.77
+Chhattisgarh,Sukma,7/3/2023,2023,0.25,,,,,7/3/2023,31.58
+Chhattisgarh,Surajpur,7/1/2023,2023,8.47,,,,,Rohtas,99.54
+Chhattisgarh,Surajpur,7/2/2023,2023,1.27,,,,,7/1/2023,45.23
+Chhattisgarh,Surajpur,7/3/2023,2023,0.96,,,,,7/2/2023,40.13
+Chhattisgarh,Surguja,7/1/2023,2023,0.32,,,,,7/3/2023,14.18
+Chhattisgarh,Surguja,7/2/2023,2023,0.08,,,,,Saharsa,38.18
+Chhattisgarh,Surguja,7/3/2023,2023,2.15,,,,,7/1/2023,6.03
+Dadra & Nagar Haveli,Dadra And Nagar Haveli,7/1/2023,2023,145.19,,,,,7/2/2023,21.84
+Dadra & Nagar Haveli,Dadra And Nagar Haveli,7/2/2023,2023,145.78,,,,,7/3/2023,10.31
+Dadra & Nagar Haveli,Dadra And Nagar Haveli,7/3/2023,2023,18.81,,,,,Samastipur,54.18
+Daman & Diu,Daman,7/1/2023,2023,111.58,,,,,7/1/2023,19.98
+Daman & Diu,Daman,7/2/2023,2023,84.34,,,,,7/2/2023,19.22
+Daman & Diu,Daman,7/3/2023,2023,8.52,,,,,7/3/2023,14.98
+Daman & Diu,Diu,7/1/2023,2023,55.03,,,,,Saran,63.08
+Daman & Diu,Diu,7/2/2023,2023,34.71,,,,,7/1/2023,24.79
+Daman & Diu,Diu,7/3/2023,2023,4.36,,,,,7/2/2023,30.36
+Delhi,Central,7/1/2023,2023,1.05,,,,,7/3/2023,7.93
+Delhi,East,7/1/2023,2023,2.19,,,,,Sheikhpura,67.39
+Delhi,New Delhi,7/1/2023,2023,15.13,,,,,7/1/2023,31.84
+Delhi,New Delhi,7/2/2023,2023,0,,,,,7/2/2023,10.37
+Delhi,North,7/1/2023,2023,0.6,,,,,7/3/2023,25.18
+Delhi,North,7/2/2023,2023,0,,,,,Sheohar,8.97
+Delhi,North West,7/1/2023,2023,1.01,,,,,7/1/2023,6.43
+Delhi,North West,7/2/2023,2023,0,,,,,7/2/2023,2.49
+Delhi,South,7/1/2023,2023,26.78,,,,,7/3/2023,0.05
+Delhi,South East,7/1/2023,2023,26.28,,,,,Sitamarhi,40.33
+Delhi,South West,7/1/2023,2023,0.58,,,,,7/1/2023,10.52
+Delhi,South West,7/2/2023,2023,0,,,,,7/2/2023,20.56
+Delhi,West,7/1/2023,2023,0.97,,,,,7/3/2023,9.25
+Delhi,West,7/2/2023,2023,0,,,,,Siwan,113.03
+Goa,North Goa,7/1/2023,2023,56.94,,,,,7/1/2023,16.07
+Goa,North Goa,7/2/2023,2023,42.63,,,,,7/2/2023,77.68
+Goa,North Goa,7/3/2023,2023,96.61,,,,,7/3/2023,19.28
+Goa,South Goa,7/1/2023,2023,76.89,,,,,Supaul,45.01
+Goa,South Goa,7/2/2023,2023,60.41,,,,,7/1/2023,5.73
+Goa,South Goa,7/3/2023,2023,115.66,,,,,7/2/2023,26.25
+Gujarat,Ahmadabad,7/1/2023,2023,39.2,,,,,7/3/2023,13.03
+Gujarat,Ahmadabad,7/2/2023,2023,43.99,,,,,Vaishali,50.74
+Gujarat,Ahmadabad,7/3/2023,2023,0.18,,,,,7/1/2023,19.6
+Gujarat,Amreli,7/1/2023,2023,102.65,,,,,7/2/2023,26.79
+Gujarat,Amreli,7/2/2023,2023,40.54,,,,,7/3/2023,4.35
+Gujarat,Amreli,7/3/2023,2023,8.94,,,,,Chandigarh,27.96
+Gujarat,Anand,7/1/2023,2023,8.52,,,,,Chandigarh,27.96
+Gujarat,Anand,7/2/2023,2023,30.83,,,,,7/1/2023,12.87
+Gujarat,Anand,7/3/2023,2023,0.33,,,,,7/2/2023,13.73
+Gujarat,Arvalli,7/1/2023,2023,1.48,,,,,7/3/2023,1.36
+Gujarat,Arvalli,7/2/2023,2023,22.46,,,,,Chhattisgarh,56.85
+Gujarat,Arvalli,7/3/2023,2023,0.21,,,,,Balod,0.1
+Gujarat,Banas Kantha,7/1/2023,2023,14.21,,,,,7/1/2023,0.1
+Gujarat,Banas Kantha,7/2/2023,2023,6.13,,,,,7/2/2023,0
+Gujarat,Banas Kantha,7/3/2023,2023,0.15,,,,,Baloda Bazar,0.86
+Gujarat,Bharuch,7/1/2023,2023,18.56,,,,,7/1/2023,0.85
+Gujarat,Bharuch,7/2/2023,2023,44.94,,,,,7/2/2023,0
+Gujarat,Bharuch,7/3/2023,2023,3.32,,,,,7/3/2023,0.01
+Gujarat,Bhavnagar,7/1/2023,2023,32.63,,,,,Balrampur,10.57
+Gujarat,Bhavnagar,7/2/2023,2023,40.4,,,,,7/1/2023,4.1
+Gujarat,Bhavnagar,7/3/2023,2023,2.5,,,,,7/2/2023,1.39
+Gujarat,Botad,7/1/2023,2023,38.14,,,,,7/3/2023,5.08
+Gujarat,Botad,7/2/2023,2023,44.6,,,,,Bastar,1.29
+Gujarat,Botad,7/3/2023,2023,6.53,,,,,7/1/2023,0.65
+Gujarat,Chhotaudepur,7/1/2023,2023,2.98,,,,,7/2/2023,0.61
+Gujarat,Chhotaudepur,7/2/2023,2023,38.63,,,,,7/3/2023,0.03
+Gujarat,Chhotaudepur,7/3/2023,2023,0.73,,,,,Bemetara,0.23
+Gujarat,Dang,7/1/2023,2023,131.09,,,,,7/1/2023,0.18
+Gujarat,Dang,7/2/2023,2023,64.02,,,,,7/3/2023,0.05
+Gujarat,Dang,7/3/2023,2023,21.32,,,,,Bijapur,0.32
+Gujarat,Devbhumi Dwarka,7/1/2023,2023,25.74,,,,,7/1/2023,0.02
+Gujarat,Devbhumi Dwarka,7/2/2023,2023,0.84,,,,,7/2/2023,0.27
+Gujarat,Devbhumi Dwarka,7/3/2023,2023,5.46,,,,,7/3/2023,0.03
+Gujarat,Dohad,7/1/2023,2023,10.18,,,,,Bilapur,0.06
+Gujarat,Dohad,7/2/2023,2023,9.53,,,,,7/1/2023,0.03
+Gujarat,Dohad,7/3/2023,2023,6.04,,,,,7/2/2023,0
+Gujarat,Gandhinagar,7/1/2023,2023,10.79,,,,,7/3/2023,0.03
+Gujarat,Gandhinagar,7/2/2023,2023,23.06,,,,,Dantewada,1.01
+Gujarat,Gandhinagar,7/3/2023,2023,0.16,,,,,7/1/2023,0.3
+Gujarat,Gir Somnath,7/1/2023,2023,69.27,,,,,7/2/2023,0.71
+Gujarat,Gir Somnath,7/2/2023,2023,32.28,,,,,7/3/2023,0
+Gujarat,Gir Somnath,7/3/2023,2023,17.36,,,,,Dhamtari,0.42
+Gujarat,Jamnagar,7/1/2023,2023,71.87,,,,,7/1/2023,0.42
+Gujarat,Jamnagar,7/2/2023,2023,5.44,,,,,7/2/2023,0
+Gujarat,Jamnagar,7/3/2023,2023,2.21,,,,,Durg,0.44
+Gujarat,Junagadh,7/1/2023,2023,152.13,,,,,7/1/2023,0.44
+Gujarat,Junagadh,7/2/2023,2023,63.69,,,,,7/3/2023,0
+Gujarat,Junagadh,7/3/2023,2023,28.78,,,,,Gariyaband,0.1
+Gujarat,Kachchh,7/1/2023,2023,24.28,,,,,7/1/2023,0.1
+Gujarat,Kachchh,7/2/2023,2023,4.76,,,,,7/2/2023,0
+Gujarat,Kachchh,7/3/2023,2023,0.33,,,,,7/3/2023,0
+Gujarat,Kheda,7/1/2023,2023,16.22,,,,,Gaurella Pendra Marwahi,4.63
+Gujarat,Kheda,7/2/2023,2023,26.32,,,,,7/1/2023,0.06
+Gujarat,Kheda,7/3/2023,2023,0.1,,,,,7/2/2023,0.47
+Gujarat,Mahesana,7/1/2023,2023,43.51,,,,,7/3/2023,4.1
+Gujarat,Mahesana,7/2/2023,2023,11.65,,,,,Janjgir-Champa,0.1
+Gujarat,Mahesana,7/3/2023,2023,0.71,,,,,7/1/2023,0.01
+Gujarat,Mahisagar,7/1/2023,2023,5.04,,,,,7/2/2023,0
+Gujarat,Mahisagar,7/2/2023,2023,32.2,,,,,7/3/2023,0.09
+Gujarat,Mahisagar,7/3/2023,2023,0.1,,,,,Jashpur,6.37
+Gujarat,Morbi,7/1/2023,2023,7.91,,,,,7/1/2023,2.9
+Gujarat,Morbi,7/2/2023,2023,16.8,,,,,7/2/2023,0.25
+Gujarat,Morbi,7/3/2023,2023,0.94,,,,,7/3/2023,3.22
+Gujarat,Narmada,7/1/2023,2023,28.67,,,,,Kabirdham,0.33
+Gujarat,Narmada,7/2/2023,2023,22.15,,,,,7/1/2023,0.01
+Gujarat,Narmada,7/3/2023,2023,1.37,,,,,7/2/2023,0
+Gujarat,Navsari,7/1/2023,2023,136.32,,,,,7/3/2023,0.32
+Gujarat,Navsari,7/2/2023,2023,99.02,,,,,Kanker,1.17
+Gujarat,Navsari,7/3/2023,2023,4.64,,,,,7/1/2023,1.17
+Gujarat,Panch Mahals,7/1/2023,2023,3.56,,,,,7/2/2023,0
+Gujarat,Panch Mahals,7/2/2023,2023,10.09,,,,,Kondagaon,0.04
+Gujarat,Panch Mahals,7/3/2023,2023,0.07,,,,,7/1/2023,0.04
+Gujarat,Patan,7/1/2023,2023,32.68,,,,,7/2/2023,0
+Gujarat,Patan,7/2/2023,2023,5.98,,,,,7/3/2023,0
+Gujarat,Patan,7/3/2023,2023,0.09,,,,,Korba,0.53
+Gujarat,Porbandar,7/1/2023,2023,17.64,,,,,7/1/2023,0.09
+Gujarat,Porbandar,7/2/2023,2023,2.36,,,,,7/2/2023,0.04
+Gujarat,Porbandar,7/3/2023,2023,6.76,,,,,7/3/2023,0.4
+Gujarat,Rajkot,7/1/2023,2023,53.13,,,,,Korea,9.34
+Gujarat,Rajkot,7/2/2023,2023,12.25,,,,,7/1/2023,6.2
+Gujarat,Rajkot,7/3/2023,2023,3.87,,,,,7/2/2023,2.71
+Gujarat,Sabar Kantha,7/1/2023,2023,6.59,,,,,7/3/2023,0.43
+Gujarat,Sabar Kantha,7/2/2023,2023,26.59,,,,,Mahasamund,1.2
+Gujarat,Sabar Kantha,7/3/2023,2023,0.35,,,,,7/1/2023,1.2
+Gujarat,Surat,7/1/2023,2023,52.47,,,,,7/2/2023,0
+Gujarat,Surat,7/2/2023,2023,47.01,,,,,7/3/2023,0
+Gujarat,Surat,7/3/2023,2023,6.99,,,,,Mungeli,0.64
+Gujarat,Surendranagar,7/1/2023,2023,27.58,,,,,7/1/2023,0
+Gujarat,Surendranagar,7/2/2023,2023,34.43,,,,,7/2/2023,0.03
+Gujarat,Surendranagar,7/3/2023,2023,1.27,,,,,7/3/2023,0.61
+Gujarat,Tapi,7/1/2023,2023,66.23,,,,,Narayanpur,1.63
+Gujarat,Tapi,7/2/2023,2023,24.41,,,,,7/1/2023,1.61
+Gujarat,Tapi,7/3/2023,2023,5.94,,,,,7/2/2023,0.02
+Gujarat,Vadodara,7/1/2023,2023,24.53,,,,,Raigarh,0.64
+Gujarat,Vadodara,7/2/2023,2023,12.21,,,,,7/1/2023,0.56
+Gujarat,Vadodara,7/3/2023,2023,1.21,,,,,7/2/2023,0.05
+Gujarat,Valsad,7/1/2023,2023,149.48,,,,,7/3/2023,0.03
+Gujarat,Valsad,7/2/2023,2023,152.6,,,,,Raipur,0.44
+Gujarat,Valsad,7/3/2023,2023,16.04,,,,,7/1/2023,0.44
+Haryana,Ambala,7/1/2023,2023,1.09,,,,,7/3/2023,0
+Haryana,Ambala,7/2/2023,2023,3.87,,,,,Rajnandgaon,0.35
+Haryana,Ambala,7/3/2023,2023,0.78,,,,,7/1/2023,0.27
+Haryana,Bhiwani,7/1/2023,2023,0.05,,,,,7/2/2023,0
+Haryana,Bhiwani,7/2/2023,2023,9.29,,,,,7/3/2023,0.08
+Haryana,Bhiwani,7/3/2023,2023,0,,,,,Sukma,0.79
+Haryana,Charki Dadri,7/1/2023,2023,0.04,,,,,7/1/2023,0.44
+Haryana,Charki Dadri,7/2/2023,2023,1.37,,,,,7/2/2023,0.1
+Haryana,Charki Dadri,7/3/2023,2023,0,,,,,7/3/2023,0.25
+Haryana,Faridabad,7/1/2023,2023,8.12,,,,,Surajpur,10.7
+Haryana,Fatehabad,7/1/2023,2023,7.33,,,,,7/1/2023,8.47
+Haryana,Fatehabad,7/2/2023,2023,0.85,,,,,7/2/2023,1.27
+Haryana,Fatehabad,7/3/2023,2023,0,,,,,7/3/2023,0.96
+Haryana,Gurugram,7/1/2023,2023,0.93,,,,,Surguja,2.55
+Haryana,Gurugram,7/2/2023,2023,0,,,,,7/1/2023,0.32
+Haryana,Hisar,7/1/2023,2023,0.87,,,,,7/2/2023,0.08
+Haryana,Hisar,7/2/2023,2023,0.68,,,,,7/3/2023,2.15
+Haryana,Hisar,7/3/2023,2023,0,,,,,Dadra & Nagar Haveli,309.78
+Haryana,Jhajjar,7/1/2023,2023,0.08,,,,,Dadra And Nagar Haveli,309.78
+Haryana,Jhajjar,7/2/2023,2023,0.09,,,,,7/1/2023,145.19
+Haryana,Jind,7/1/2023,2023,0.58,,,,,7/2/2023,145.78
+Haryana,Jind,7/2/2023,2023,0.04,,,,,7/3/2023,18.81
+Haryana,Jind,7/3/2023,2023,0.01,,,,,Daman & Diu,298.54
+Haryana,Kaithal,7/1/2023,2023,1.82,,,,,Daman,204.44
+Haryana,Kaithal,7/2/2023,2023,0.44,,,,,7/1/2023,111.58
+Haryana,Kaithal,7/3/2023,2023,0.28,,,,,7/2/2023,84.34
+Haryana,Karnal,7/1/2023,2023,3.01,,,,,7/3/2023,8.52
+Haryana,Karnal,7/2/2023,2023,0.94,,,,,Diu,94.1
+Haryana,Karnal,7/3/2023,2023,0.6,,,,,7/1/2023,55.03
+Haryana,Kurukshetra,7/1/2023,2023,1.16,,,,,7/2/2023,34.71
+Haryana,Kurukshetra,7/2/2023,2023,0.13,,,,,7/3/2023,4.36
+Haryana,Kurukshetra,7/3/2023,2023,0.07,,,,,Delhi,74.59
+Haryana,Mahendragarh,7/1/2023,2023,0.12,,,,,Central,1.05
+Haryana,Mahendragarh,7/2/2023,2023,0.54,,,,,7/1/2023,1.05
+Haryana,Mahendragarh,7/3/2023,2023,0,,,,,East,2.19
+Haryana,Nuh,7/1/2023,2023,8.85,,,,,7/1/2023,2.19
+Haryana,Nuh,7/2/2023,2023,0,,,,,New Delhi,15.13
+Haryana,Palwal,7/1/2023,2023,2.34,,,,,7/1/2023,15.13
+Haryana,Palwal,7/2/2023,2023,0.03,,,,,7/2/2023,0
+Haryana,Panchkula,7/1/2023,2023,11.54,,,,,North,0.6
+Haryana,Panchkula,7/2/2023,2023,4.29,,,,,7/1/2023,0.6
+Haryana,Panchkula,7/3/2023,2023,1.81,,,,,7/2/2023,0
+Haryana,Panipat,7/1/2023,2023,1.32,,,,,North West,1.01
+Haryana,Panipat,7/2/2023,2023,0.12,,,,,7/1/2023,1.01
+Haryana,Panipat,7/3/2023,2023,0.02,,,,,7/2/2023,0
+Haryana,Rewari,7/1/2023,2023,0.18,,,,,South,26.78
+Haryana,Rewari,7/2/2023,2023,0.07,,,,,7/1/2023,26.78
+Haryana,Rohtak,7/1/2023,2023,0.7,,,,,South East,26.28
+Haryana,Rohtak,7/2/2023,2023,0.05,,,,,7/1/2023,26.28
+Haryana,Rohtak,7/3/2023,2023,0,,,,,South West,0.58
+Haryana,Sirsa,7/1/2023,2023,0.01,,,,,7/1/2023,0.58
+Haryana,Sirsa,7/2/2023,2023,2.93,,,,,7/2/2023,0
+Haryana,Sonipat,7/1/2023,2023,2.83,,,,,West,0.97
+Haryana,Sonipat,7/2/2023,2023,0.04,,,,,7/1/2023,0.97
+Haryana,Sonipat,7/3/2023,2023,0,,,,,7/2/2023,0
+Haryana,Yamunanagar,7/1/2023,2023,3.05,,,,,Goa,449.14
+Haryana,Yamunanagar,7/2/2023,2023,3.73,,,,,North Goa,196.18
+Haryana,Yamunanagar,7/3/2023,2023,4.23,,,,,7/1/2023,56.94
+Himachal Pradesh,Bilaspur,7/1/2023,2023,3.19,,,,,7/2/2023,42.63
+Himachal Pradesh,Bilaspur,7/2/2023,2023,3.14,,,,,7/3/2023,96.61
+Himachal Pradesh,Bilaspur,7/3/2023,2023,1.24,,,,,South Goa,252.96
+Himachal Pradesh,Chamba,7/1/2023,2023,2.06,,,,,7/1/2023,76.89
+Himachal Pradesh,Chamba,7/2/2023,2023,0.45,,,,,7/2/2023,60.41
+Himachal Pradesh,Chamba,7/3/2023,2023,0.84,,,,,7/3/2023,115.66
+Himachal Pradesh,Hamirpur,7/1/2023,2023,1.64,,,,,Gujarat,2632.49
+Himachal Pradesh,Hamirpur,7/2/2023,2023,2.46,,,,,Ahmadabad,83.37
+Himachal Pradesh,Hamirpur,7/3/2023,2023,0.43,,,,,7/1/2023,39.2
+Himachal Pradesh,Kangra,7/1/2023,2023,1.71,,,,,7/2/2023,43.99
+Himachal Pradesh,Kangra,7/2/2023,2023,0.48,,,,,7/3/2023,0.18
+Himachal Pradesh,Kangra,7/3/2023,2023,8.13,,,,,Amreli,152.13
+Himachal Pradesh,Kinnaur,7/1/2023,2023,0.29,,,,,7/1/2023,102.65
+Himachal Pradesh,Kinnaur,7/2/2023,2023,0.9,,,,,7/2/2023,40.54
+Himachal Pradesh,Kinnaur,7/3/2023,2023,1.74,,,,,7/3/2023,8.94
+Himachal Pradesh,Kullu,7/1/2023,2023,3.18,,,,,Anand,39.68
+Himachal Pradesh,Kullu,7/2/2023,2023,1.11,,,,,7/1/2023,8.52
+Himachal Pradesh,Kullu,7/3/2023,2023,3,,,,,7/2/2023,30.83
+Himachal Pradesh,Lahul & Spiti,7/1/2023,2023,0.71,,,,,7/3/2023,0.33
+Himachal Pradesh,Lahul & Spiti,7/2/2023,2023,0.25,,,,,Arvalli,24.15
+Himachal Pradesh,Lahul & Spiti,7/3/2023,2023,1.95,,,,,7/1/2023,1.48
+Himachal Pradesh,Mandi,7/1/2023,2023,3.45,,,,,7/2/2023,22.46
+Himachal Pradesh,Mandi,7/2/2023,2023,1.66,,,,,7/3/2023,0.21
+Himachal Pradesh,Mandi,7/3/2023,2023,1.27,,,,,Banas Kantha,20.49
+Himachal Pradesh,Shimla,7/1/2023,2023,5.66,,,,,7/1/2023,14.21
+Himachal Pradesh,Shimla,7/2/2023,2023,2.95,,,,,7/2/2023,6.13
+Himachal Pradesh,Shimla,7/3/2023,2023,0.23,,,,,7/3/2023,0.15
+Himachal Pradesh,Sirmaur,7/1/2023,2023,31.06,,,,,Bharuch,66.82
+Himachal Pradesh,Sirmaur,7/2/2023,2023,10.94,,,,,7/1/2023,18.56
+Himachal Pradesh,Sirmaur,7/3/2023,2023,4.38,,,,,7/2/2023,44.94
+Himachal Pradesh,Solan,7/1/2023,2023,11.16,,,,,7/3/2023,3.32
+Himachal Pradesh,Solan,7/2/2023,2023,1.1,,,,,Bhavnagar,75.53
+Himachal Pradesh,Solan,7/3/2023,2023,0.4,,,,,7/1/2023,32.63
+Himachal Pradesh,Una,7/1/2023,2023,1.54,,,,,7/2/2023,40.4
+Himachal Pradesh,Una,7/2/2023,2023,0.03,,,,,7/3/2023,2.5
+Himachal Pradesh,Una,7/3/2023,2023,1.01,,,,,Botad,89.27
+Jammu & Kashmir,Anantnag,7/1/2023,2023,0.06,,,,,7/1/2023,38.14
+Jammu & Kashmir,Anantnag,7/2/2023,2023,0.19,,,,,7/2/2023,44.6
+Jammu & Kashmir,Anantnag,7/3/2023,2023,0.33,,,,,7/3/2023,6.53
+Jammu & Kashmir,Bandipora,7/1/2023,2023,0.02,,,,,Chhotaudepur,42.34
+Jammu & Kashmir,Bandipora,7/2/2023,2023,0.18,,,,,7/1/2023,2.98
+Jammu & Kashmir,Bandipora,7/3/2023,2023,0.69,,,,,7/2/2023,38.63
+Jammu & Kashmir,Baramulla,7/1/2023,2023,0.02,,,,,7/3/2023,0.73
+Jammu & Kashmir,Baramulla,7/2/2023,2023,0.14,,,,,Dang,216.43
+Jammu & Kashmir,Baramulla,7/3/2023,2023,0.01,,,,,7/1/2023,131.09
+Jammu & Kashmir,Budgam,7/1/2023,2023,0.06,,,,,7/2/2023,64.02
+Jammu & Kashmir,Budgam,7/2/2023,2023,0.58,,,,,7/3/2023,21.32
+Jammu & Kashmir,Budgam,7/3/2023,2023,0.43,,,,,Devbhumi Dwarka,32.04
+Jammu & Kashmir,Doda,7/1/2023,2023,2.89,,,,,7/1/2023,25.74
+Jammu & Kashmir,Doda,7/2/2023,2023,0.25,,,,,7/2/2023,0.84
+Jammu & Kashmir,Doda,7/3/2023,2023,0.1,,,,,7/3/2023,5.46
+Jammu & Kashmir,Ganderbal,7/1/2023,2023,0,,,,,Dohad,25.75
+Jammu & Kashmir,Ganderbal,7/2/2023,2023,0.2,,,,,7/1/2023,10.18
+Jammu & Kashmir,Ganderbal,7/3/2023,2023,0.16,,,,,7/2/2023,9.53
+Jammu & Kashmir,Jammu,7/1/2023,2023,14.05,,,,,7/3/2023,6.04
+Jammu & Kashmir,Jammu,7/2/2023,2023,0.06,,,,,Gandhinagar,34.01
+Jammu & Kashmir,Jammu,7/3/2023,2023,0.47,,,,,7/1/2023,10.79
+Jammu & Kashmir,Kathua,7/1/2023,2023,5.1,,,,,7/2/2023,23.06
+Jammu & Kashmir,Kathua,7/2/2023,2023,0.02,,,,,7/3/2023,0.16
+Jammu & Kashmir,Kathua,7/3/2023,2023,1.76,,,,,Gir Somnath,118.91
+Jammu & Kashmir,Kishtwar,7/1/2023,2023,1.98,,,,,7/1/2023,69.27
+Jammu & Kashmir,Kishtwar,7/2/2023,2023,0.31,,,,,7/2/2023,32.28
+Jammu & Kashmir,Kishtwar,7/3/2023,2023,1.71,,,,,7/3/2023,17.36
+Jammu & Kashmir,Kulgam,7/1/2023,2023,0.42,,,,,Jamnagar,79.52
+Jammu & Kashmir,Kulgam,7/2/2023,2023,0.14,,,,,7/1/2023,71.87
+Jammu & Kashmir,Kulgam,7/3/2023,2023,0.45,,,,,7/2/2023,5.44
+Jammu & Kashmir,Kupwara,7/1/2023,2023,0.06,,,,,7/3/2023,2.21
+Jammu & Kashmir,Kupwara,7/2/2023,2023,0.22,,,,,Junagadh,244.6
+Jammu & Kashmir,Kupwara,7/3/2023,2023,0.03,,,,,7/1/2023,152.13
+Jammu & Kashmir,Mirpur,7/1/2023,2023,1.45,,,,,7/2/2023,63.69
+Jammu & Kashmir,Mirpur,7/3/2023,2023,0.02,,,,,7/3/2023,28.78
+Jammu & Kashmir,Muzaffarabad,7/1/2023,2023,0.03,,,,,Kachchh,29.37
+Jammu & Kashmir,Muzaffarabad,7/2/2023,2023,0.22,,,,,7/1/2023,24.28
+Jammu & Kashmir,Muzaffarabad,7/3/2023,2023,0.97,,,,,7/2/2023,4.76
+Jammu & Kashmir,Poonch,7/1/2023,2023,0.03,,,,,7/3/2023,0.33
+Jammu & Kashmir,Poonch,7/2/2023,2023,0.12,,,,,Kheda,42.64
+Jammu & Kashmir,Poonch,7/3/2023,2023,0.1,,,,,7/1/2023,16.22
+Jammu & Kashmir,Pulwama,7/1/2023,2023,0.02,,,,,7/2/2023,26.32
+Jammu & Kashmir,Pulwama,7/2/2023,2023,0.01,,,,,7/3/2023,0.1
+Jammu & Kashmir,Pulwama,7/3/2023,2023,0.02,,,,,Mahesana,55.87
+Jammu & Kashmir,Rajouri,7/1/2023,2023,1.62,,,,,7/1/2023,43.51
+Jammu & Kashmir,Rajouri,7/2/2023,2023,0,,,,,7/2/2023,11.65
+Jammu & Kashmir,Rajouri,7/3/2023,2023,0.64,,,,,7/3/2023,0.71
+Jammu & Kashmir,Ramban,7/1/2023,2023,0.93,,,,,Mahisagar,37.34
+Jammu & Kashmir,Ramban,7/2/2023,2023,0.06,,,,,7/1/2023,5.04
+Jammu & Kashmir,Ramban,7/3/2023,2023,0.07,,,,,7/2/2023,32.2
+Jammu & Kashmir,Reasi,7/1/2023,2023,2.71,,,,,7/3/2023,0.1
+Jammu & Kashmir,Reasi,7/2/2023,2023,0.01,,,,,Morbi,25.65
+Jammu & Kashmir,Reasi,7/3/2023,2023,0.84,,,,,7/1/2023,7.91
+Jammu & Kashmir,Samba,7/1/2023,2023,12.04,,,,,7/2/2023,16.8
+Jammu & Kashmir,Samba,7/2/2023,2023,0.22,,,,,7/3/2023,0.94
+Jammu & Kashmir,Samba,7/3/2023,2023,0.37,,,,,Narmada,52.19
+Jammu & Kashmir,Shopian,7/1/2023,2023,0.12,,,,,7/1/2023,28.67
+Jammu & Kashmir,Shopian,7/2/2023,2023,0.07,,,,,7/2/2023,22.15
+Jammu & Kashmir,Shopian,7/3/2023,2023,0.14,,,,,7/3/2023,1.37
+Jammu & Kashmir,Srinagar,7/1/2023,2023,0,,,,,Navsari,239.98
+Jammu & Kashmir,Srinagar,7/2/2023,2023,0.03,,,,,7/1/2023,136.32
+Jammu & Kashmir,Srinagar,7/3/2023,2023,0,,,,,7/2/2023,99.02
+Jammu & Kashmir,Udhampur,7/1/2023,2023,8.9,,,,,7/3/2023,4.64
+Jammu & Kashmir,Udhampur,7/2/2023,2023,0.3,,,,,Panch Mahals,13.72
+Jammu & Kashmir,Udhampur,7/3/2023,2023,0.78,,,,,7/1/2023,3.56
+Jharkhand,Bokaro,7/1/2023,2023,1.5,,,,,7/2/2023,10.09
+Jharkhand,Bokaro,7/2/2023,2023,1.66,,,,,7/3/2023,0.07
+Jharkhand,Bokaro,7/3/2023,2023,9.69,,,,,Patan,38.75
+Jharkhand,Chatra,7/1/2023,2023,6.83,,,,,7/1/2023,32.68
+Jharkhand,Chatra,7/2/2023,2023,21.46,,,,,7/2/2023,5.98
+Jharkhand,Chatra,7/3/2023,2023,37.34,,,,,7/3/2023,0.09
+Jharkhand,Deoghar,7/1/2023,2023,2.87,,,,,Porbandar,26.76
+Jharkhand,Deoghar,7/2/2023,2023,6.12,,,,,7/1/2023,17.64
+Jharkhand,Deoghar,7/3/2023,2023,73.34,,,,,7/2/2023,2.36
+Jharkhand,Dhanbad,7/1/2023,2023,1.77,,,,,7/3/2023,6.76
+Jharkhand,Dhanbad,7/2/2023,2023,1.91,,,,,Rajkot,69.25
+Jharkhand,Dhanbad,7/3/2023,2023,15.25,,,,,7/1/2023,53.13
+Jharkhand,Dumka,7/1/2023,2023,7.22,,,,,7/2/2023,12.25
+Jharkhand,Dumka,7/2/2023,2023,17.13,,,,,7/3/2023,3.87
+Jharkhand,Dumka,7/3/2023,2023,66.23,,,,,Sabar Kantha,33.53
+Jharkhand,East Singhbum,7/1/2023,2023,4.13,,,,,7/1/2023,6.59
+Jharkhand,East Singhbum,7/2/2023,2023,7.89,,,,,7/2/2023,26.59
+Jharkhand,East Singhbum,7/3/2023,2023,0.48,,,,,7/3/2023,0.35
+Jharkhand,Garhwa,7/1/2023,2023,25.96,,,,,Surat,106.47
+Jharkhand,Garhwa,7/2/2023,2023,19.47,,,,,7/1/2023,52.47
+Jharkhand,Garhwa,7/3/2023,2023,4.01,,,,,7/2/2023,47.01
+Jharkhand,Giridih,7/1/2023,2023,1.51,,,,,7/3/2023,6.99
+Jharkhand,Giridih,7/2/2023,2023,14.95,,,,,Surendranagar,63.28
+Jharkhand,Giridih,7/3/2023,2023,66.17,,,,,7/1/2023,27.58
+Jharkhand,Godda,7/1/2023,2023,5.98,,,,,7/2/2023,34.43
+Jharkhand,Godda,7/2/2023,2023,16.42,,,,,7/3/2023,1.27
+Jharkhand,Godda,7/3/2023,2023,109.93,,,,,Tapi,96.58
+Jharkhand,Gumla,7/1/2023,2023,2.44,,,,,7/1/2023,66.23
+Jharkhand,Gumla,7/2/2023,2023,1.03,,,,,7/2/2023,24.41
+Jharkhand,Gumla,7/3/2023,2023,5.15,,,,,7/3/2023,5.94
+Jharkhand,Hazaribagh,7/1/2023,2023,1.77,,,,,Vadodara,37.95
+Jharkhand,Hazaribagh,7/2/2023,2023,7.6,,,,,7/1/2023,24.53
+Jharkhand,Hazaribagh,7/3/2023,2023,27.95,,,,,7/2/2023,12.21
+Jharkhand,Jamtara,7/1/2023,2023,2.73,,,,,7/3/2023,1.21
+Jharkhand,Jamtara,7/2/2023,2023,4.21,,,,,Valsad,318.12
+Jharkhand,Jamtara,7/3/2023,2023,43.84,,,,,7/1/2023,149.48
+Jharkhand,Khunti,7/1/2023,2023,1.05,,,,,7/2/2023,152.6
+Jharkhand,Khunti,7/2/2023,2023,8.02,,,,,7/3/2023,16.04
+Jharkhand,Khunti,7/3/2023,2023,0.37,,,,,Haryana,93.32
+Jharkhand,Koderma,7/1/2023,2023,6.67,,,,,Ambala,5.74
+Jharkhand,Koderma,7/2/2023,2023,8.23,,,,,7/1/2023,1.09
+Jharkhand,Koderma,7/3/2023,2023,51.19,,,,,7/2/2023,3.87
+Jharkhand,Latehar,7/1/2023,2023,0.81,,,,,7/3/2023,0.78
+Jharkhand,Latehar,7/2/2023,2023,7.12,,,,,Bhiwani,9.34
+Jharkhand,Latehar,7/3/2023,2023,9.6,,,,,7/1/2023,0.05
+Jharkhand,Lohardaga,7/1/2023,2023,0.89,,,,,7/2/2023,9.29
+Jharkhand,Lohardaga,7/2/2023,2023,1.53,,,,,7/3/2023,0
+Jharkhand,Lohardaga,7/3/2023,2023,11.02,,,,,Charki Dadri,1.41
+Jharkhand,Pakur,7/1/2023,2023,12.28,,,,,7/1/2023,0.04
+Jharkhand,Pakur,7/2/2023,2023,13.37,,,,,7/2/2023,1.37
+Jharkhand,Pakur,7/3/2023,2023,59.57,,,,,7/3/2023,0
+Jharkhand,Palamu,7/1/2023,2023,43.81,,,,,Faridabad,8.12
+Jharkhand,Palamu,7/2/2023,2023,47.06,,,,,7/1/2023,8.12
+Jharkhand,Palamu,7/3/2023,2023,15.92,,,,,Fatehabad,8.18
+Jharkhand,Ramgarh,7/1/2023,2023,2.33,,,,,7/1/2023,7.33
+Jharkhand,Ramgarh,7/2/2023,2023,2.33,,,,,7/2/2023,0.85
+Jharkhand,Ramgarh,7/3/2023,2023,12.17,,,,,7/3/2023,0
+Jharkhand,Ranchi,7/1/2023,2023,3.27,,,,,Gurugram,0.93
+Jharkhand,Ranchi,7/2/2023,2023,5.38,,,,,7/1/2023,0.93
+Jharkhand,Ranchi,7/3/2023,2023,8.72,,,,,7/2/2023,0
+Jharkhand,Sahebganj,7/1/2023,2023,14.74,,,,,Hisar,1.55
+Jharkhand,Sahebganj,7/2/2023,2023,82.7,,,,,7/1/2023,0.87
+Jharkhand,Sahebganj,7/3/2023,2023,79.71,,,,,7/2/2023,0.68
+Jharkhand,Saraikela Kharsawan,7/1/2023,2023,3.53,,,,,7/3/2023,0
+Jharkhand,Saraikela Kharsawan,7/2/2023,2023,7.74,,,,,Jhajjar,0.17
+Jharkhand,Saraikela Kharsawan,7/3/2023,2023,2.03,,,,,7/1/2023,0.08
+Jharkhand,Simdega,7/1/2023,2023,4.9,,,,,7/2/2023,0.09
+Jharkhand,Simdega,7/2/2023,2023,3.64,,,,,Jind,0.63
+Jharkhand,Simdega,7/3/2023,2023,0.76,,,,,7/1/2023,0.58
+Jharkhand,West Singhbhum,7/1/2023,2023,2.16,,,,,7/2/2023,0.04
+Jharkhand,West Singhbhum,7/2/2023,2023,18.66,,,,,7/3/2023,0.01
+Jharkhand,West Singhbhum,7/3/2023,2023,1.65,,,,,Kaithal,2.54
+Karnataka,Bagalkote,7/1/2023,2023,0.42,,,,,7/1/2023,1.82
+Karnataka,Bagalkote,7/2/2023,2023,0.72,,,,,7/2/2023,0.44
+Karnataka,Bagalkote,7/3/2023,2023,2.49,,,,,7/3/2023,0.28
+Karnataka,Ballari,7/1/2023,2023,0.23,,,,,Karnal,4.55
+Karnataka,Ballari,7/2/2023,2023,1.86,,,,,7/1/2023,3.01
+Karnataka,Ballari,7/3/2023,2023,2,,,,,7/2/2023,0.94
+Karnataka,Belagavi,7/1/2023,2023,2.4,,,,,7/3/2023,0.6
+Karnataka,Belagavi,7/2/2023,2023,2.82,,,,,Kurukshetra,1.36
+Karnataka,Belagavi,7/3/2023,2023,5.18,,,,,7/1/2023,1.16
+Karnataka,Bengaluru Rural,7/1/2023,2023,1.19,,,,,7/2/2023,0.13
+Karnataka,Bengaluru Rural,7/2/2023,2023,1.23,,,,,7/3/2023,0.07
+Karnataka,Bengaluru Rural,7/3/2023,2023,1.8,,,,,Mahendragarh,0.66
+Karnataka,Bengaluru Urban,7/1/2023,2023,0.13,,,,,7/1/2023,0.12
+Karnataka,Bengaluru Urban,7/2/2023,2023,1.97,,,,,7/2/2023,0.54
+Karnataka,Bengaluru Urban,7/3/2023,2023,3.69,,,,,7/3/2023,0
+Karnataka,Bidar,7/1/2023,2023,0,,,,,Nuh,8.85
+Karnataka,Bidar,7/2/2023,2023,0.15,,,,,7/1/2023,8.85
+Karnataka,Bidar,7/3/2023,2023,26.31,,,,,7/2/2023,0
+Karnataka,Chamarajanagara,7/1/2023,2023,0.1,,,,,Palwal,2.37
+Karnataka,Chamarajanagara,7/2/2023,2023,0.08,,,,,7/1/2023,2.34
+Karnataka,Chamarajanagara,7/3/2023,2023,0.23,,,,,7/2/2023,0.03
+Karnataka,Chikkaballapura,7/1/2023,2023,1.41,,,,,Panchkula,17.64
+Karnataka,Chikkaballapura,7/2/2023,2023,1.13,,,,,7/1/2023,11.54
+Karnataka,Chikkaballapura,7/3/2023,2023,2.16,,,,,7/2/2023,4.29
+Karnataka,Chikkamagaluru,7/1/2023,2023,6.15,,,,,7/3/2023,1.81
+Karnataka,Chikkamagaluru,7/2/2023,2023,5.96,,,,,Panipat,1.46
+Karnataka,Chikkamagaluru,7/3/2023,2023,10.03,,,,,7/1/2023,1.32
+Karnataka,Chitradurga,7/1/2023,2023,0.63,,,,,7/2/2023,0.12
+Karnataka,Chitradurga,7/2/2023,2023,3.86,,,,,7/3/2023,0.02
+Karnataka,Chitradurga,7/3/2023,2023,1.3,,,,,Rewari,0.25
+Karnataka,Dakshina Kannada,7/1/2023,2023,25.6,,,,,7/1/2023,0.18
+Karnataka,Dakshina Kannada,7/2/2023,2023,9.68,,,,,7/2/2023,0.07
+Karnataka,Dakshina Kannada,7/3/2023,2023,33.94,,,,,Rohtak,0.75
+Karnataka,Davangere,7/1/2023,2023,1.07,,,,,7/1/2023,0.7
+Karnataka,Davangere,7/2/2023,2023,3.69,,,,,7/2/2023,0.05
+Karnataka,Davangere,7/3/2023,2023,3.56,,,,,7/3/2023,0
+Karnataka,Dharwad,7/1/2023,2023,1.02,,,,,Sirsa,2.94
+Karnataka,Dharwad,7/2/2023,2023,3.3,,,,,7/1/2023,0.01
+Karnataka,Dharwad,7/3/2023,2023,12.72,,,,,7/2/2023,2.93
+Karnataka,Gadag,7/1/2023,2023,0.88,,,,,Sonipat,2.87
+Karnataka,Gadag,7/2/2023,2023,0.11,,,,,7/1/2023,2.83
+Karnataka,Gadag,7/3/2023,2023,11.05,,,,,7/2/2023,0.04
+Karnataka,Hassan,7/1/2023,2023,3.4,,,,,7/3/2023,0
+Karnataka,Hassan,7/2/2023,2023,0.55,,,,,Yamunanagar,11.01
+Karnataka,Hassan,7/3/2023,2023,0.95,,,,,7/1/2023,3.05
+Karnataka,Haveri,7/1/2023,2023,1.74,,,,,7/2/2023,3.73
+Karnataka,Haveri,7/2/2023,2023,1.95,,,,,7/3/2023,4.23
+Karnataka,Haveri,7/3/2023,2023,14.06,,,,,Himachal Pradesh,115.74
+Karnataka,Kalaburagi,7/2/2023,2023,1.05,,,,,Bilaspur,7.57
+Karnataka,Kalaburagi,7/3/2023,2023,8.45,,,,,7/1/2023,3.19
+Karnataka,Kodagu,7/1/2023,2023,10.23,,,,,7/2/2023,3.14
+Karnataka,Kodagu,7/2/2023,2023,1.58,,,,,7/3/2023,1.24
+Karnataka,Kodagu,7/3/2023,2023,16,,,,,Chamba,3.35
+Karnataka,Kolar,7/1/2023,2023,1.6,,,,,7/1/2023,2.06
+Karnataka,Kolar,7/2/2023,2023,0.32,,,,,7/2/2023,0.45
+Karnataka,Kolar,7/3/2023,2023,2.85,,,,,7/3/2023,0.84
+Karnataka,Koppal,7/1/2023,2023,0.11,,,,,Hamirpur,4.53
+Karnataka,Koppal,7/2/2023,2023,3.18,,,,,7/1/2023,1.64
+Karnataka,Koppal,7/3/2023,2023,1.24,,,,,7/2/2023,2.46
+Karnataka,Mandya,7/1/2023,2023,5.83,,,,,7/3/2023,0.43
+Karnataka,Mandya,7/2/2023,2023,3.5,,,,,Kangra,10.32
+Karnataka,Mandya,7/3/2023,2023,7.22,,,,,7/1/2023,1.71
+Karnataka,Mysuru,7/1/2023,2023,1.14,,,,,7/2/2023,0.48
+Karnataka,Mysuru,7/2/2023,2023,0.54,,,,,7/3/2023,8.13
+Karnataka,Mysuru,7/3/2023,2023,2.45,,,,,Kinnaur,2.93
+Karnataka,Raichur,7/1/2023,2023,0.1,,,,,7/1/2023,0.29
+Karnataka,Raichur,7/2/2023,2023,3.64,,,,,7/2/2023,0.9
+Karnataka,Raichur,7/3/2023,2023,3.54,,,,,7/3/2023,1.74
+Karnataka,Ramanagara,7/1/2023,2023,0.03,,,,,Kullu,7.29
+Karnataka,Ramanagara,7/2/2023,2023,3.86,,,,,7/1/2023,3.18
+Karnataka,Ramanagara,7/3/2023,2023,0.48,,,,,7/2/2023,1.11
+Karnataka,Shivamogga,7/1/2023,2023,8.7,,,,,7/3/2023,3
+Karnataka,Shivamogga,7/2/2023,2023,12.49,,,,,Lahul & Spiti,2.91
+Karnataka,Shivamogga,7/3/2023,2023,19.65,,,,,7/1/2023,0.71
+Karnataka,Tumakuru,7/1/2023,2023,0.44,,,,,7/2/2023,0.25
+Karnataka,Tumakuru,7/2/2023,2023,1.66,,,,,7/3/2023,1.95
+Karnataka,Tumakuru,7/3/2023,2023,1.27,,,,,Mandi,6.38
+Karnataka,Udupi,7/1/2023,2023,33.79,,,,,7/1/2023,3.45
+Karnataka,Udupi,7/2/2023,2023,20.95,,,,,7/2/2023,1.66
+Karnataka,Udupi,7/3/2023,2023,65.48,,,,,7/3/2023,1.27
+Karnataka,Uttara Kannada,7/1/2023,2023,19.14,,,,,Shimla,8.84
+Karnataka,Uttara Kannada,7/2/2023,2023,28.15,,,,,7/1/2023,5.66
+Karnataka,Uttara Kannada,7/3/2023,2023,38.48,,,,,7/2/2023,2.95
+Karnataka,Vijayapura,7/1/2023,2023,0.02,,,,,7/3/2023,0.23
+Karnataka,Vijayapura,7/2/2023,2023,0.53,,,,,Sirmaur,46.38
+Karnataka,Vijayapura,7/3/2023,2023,2.48,,,,,7/1/2023,31.06
+Karnataka,Yadgir,7/1/2023,2023,0,,,,,7/2/2023,10.94
+Karnataka,Yadgir,7/2/2023,2023,1.23,,,,,7/3/2023,4.38
+Karnataka,Yadgir,7/3/2023,2023,3.29,,,,,Solan,12.66
+Kerala,Alappuzha,7/1/2023,2023,5.66,,,,,7/1/2023,11.16
+Kerala,Alappuzha,7/2/2023,2023,6.57,,,,,7/2/2023,1.1
+Kerala,Alappuzha,7/3/2023,2023,42.62,,,,,7/3/2023,0.4
+Kerala,Ernakulam,7/1/2023,2023,3.12,,,,,Una,2.58
+Kerala,Ernakulam,7/2/2023,2023,2.84,,,,,7/1/2023,1.54
+Kerala,Ernakulam,7/3/2023,2023,42.23,,,,,7/2/2023,0.03
+Kerala,Idukki,7/1/2023,2023,3.13,,,,,7/3/2023,1.01
+Kerala,Idukki,7/2/2023,2023,2.76,,,,,Jammu & Kashmir,65.93
+Kerala,Idukki,7/3/2023,2023,21.94,,,,,Anantnag,0.58
+Kerala,Kannur,7/1/2023,2023,10.95,,,,,7/1/2023,0.06
+Kerala,Kannur,7/2/2023,2023,4.06,,,,,7/2/2023,0.19
+Kerala,Kannur,7/3/2023,2023,26.78,,,,,7/3/2023,0.33
+Kerala,Kasaragod,7/1/2023,2023,11.54,,,,,Bandipora,0.89
+Kerala,Kasaragod,7/2/2023,2023,5.1,,,,,7/1/2023,0.02
+Kerala,Kasaragod,7/3/2023,2023,41.95,,,,,7/2/2023,0.18
+Kerala,Kollam,7/1/2023,2023,0.3,,,,,7/3/2023,0.69
+Kerala,Kollam,7/2/2023,2023,3.07,,,,,Baramulla,0.17
+Kerala,Kollam,7/3/2023,2023,14.65,,,,,7/1/2023,0.02
+Kerala,Kottayam,7/1/2023,2023,3.09,,,,,7/2/2023,0.14
+Kerala,Kottayam,7/2/2023,2023,3.53,,,,,7/3/2023,0.01
+Kerala,Kottayam,7/3/2023,2023,44.11,,,,,Budgam,1.07
+Kerala,Kozhikode,7/1/2023,2023,3.95,,,,,7/1/2023,0.06
+Kerala,Kozhikode,7/2/2023,2023,10.51,,,,,7/2/2023,0.58
+Kerala,Kozhikode,7/3/2023,2023,22.01,,,,,7/3/2023,0.43
+Kerala,Malappuram,7/1/2023,2023,8.9,,,,,Doda,3.24
+Kerala,Malappuram,7/2/2023,2023,7.43,,,,,7/1/2023,2.89
+Kerala,Malappuram,7/3/2023,2023,22.6,,,,,7/2/2023,0.25
+Kerala,Palakkad,7/1/2023,2023,2.63,,,,,7/3/2023,0.1
+Kerala,Palakkad,7/2/2023,2023,2,,,,,Ganderbal,0.36
+Kerala,Palakkad,7/3/2023,2023,13.92,,,,,7/1/2023,0
+Kerala,Pathanamthitta,7/1/2023,2023,2.22,,,,,7/2/2023,0.2
+Kerala,Pathanamthitta,7/2/2023,2023,4.73,,,,,7/3/2023,0.16
+Kerala,Pathanamthitta,7/3/2023,2023,20.75,,,,,Jammu,14.58
+Kerala,Thiruvananthapuram,7/1/2023,2023,0.02,,,,,7/1/2023,14.05
+Kerala,Thiruvananthapuram,7/2/2023,2023,0.96,,,,,7/2/2023,0.06
+Kerala,Thiruvananthapuram,7/3/2023,2023,7.5,,,,,7/3/2023,0.47
+Kerala,Thrissur,7/1/2023,2023,3.53,,,,,Kathua,6.88
+Kerala,Thrissur,7/2/2023,2023,3.63,,,,,7/1/2023,5.1
+Kerala,Thrissur,7/3/2023,2023,37.63,,,,,7/2/2023,0.02
+Kerala,Wayanad,7/1/2023,2023,7.22,,,,,7/3/2023,1.76
+Kerala,Wayanad,7/2/2023,2023,6.19,,,,,Kishtwar,4
+Kerala,Wayanad,7/3/2023,2023,24.03,,,,,7/1/2023,1.98
+Ladakh,Kargil,7/1/2023,2023,1.05,,,,,7/2/2023,0.31
+Ladakh,Kargil,7/2/2023,2023,0.02,,,,,7/3/2023,1.71
+Ladakh,Kargil,7/3/2023,2023,1.33,,,,,Kulgam,1.01
+Ladakh,Leh Ladakh,7/1/2023,2023,0.12,,,,,7/1/2023,0.42
+Ladakh,Leh Ladakh,7/2/2023,2023,0.06,,,,,7/2/2023,0.14
+Ladakh,Leh Ladakh,7/3/2023,2023,0.55,,,,,7/3/2023,0.45
+Madhya Pradesh,Agar Malwa,7/1/2023,2023,4.18,,,,,Kupwara,0.31
+Madhya Pradesh,Agar Malwa,7/2/2023,2023,45.29,,,,,7/1/2023,0.06
+Madhya Pradesh,Agar Malwa,7/3/2023,2023,22.25,,,,,7/2/2023,0.22
+Madhya Pradesh,Alirajpur,7/1/2023,2023,1.98,,,,,7/3/2023,0.03
+Madhya Pradesh,Alirajpur,7/2/2023,2023,36.58,,,,,Mirpur,1.47
+Madhya Pradesh,Alirajpur,7/3/2023,2023,4.75,,,,,7/1/2023,1.45
+Madhya Pradesh,Anuppur,7/1/2023,2023,2.32,,,,,7/3/2023,0.02
+Madhya Pradesh,Anuppur,7/2/2023,2023,5.13,,,,,Muzaffarabad,1.22
+Madhya Pradesh,Anuppur,7/3/2023,2023,6.35,,,,,7/1/2023,0.03
+Madhya Pradesh,Ashoknagar,7/1/2023,2023,0.37,,,,,7/2/2023,0.22
+Madhya Pradesh,Ashoknagar,7/2/2023,2023,7.76,,,,,7/3/2023,0.97
+Madhya Pradesh,Ashoknagar,7/3/2023,2023,0.12,,,,,Poonch,0.25
+Madhya Pradesh,Balaghat,7/1/2023,2023,0.3,,,,,7/1/2023,0.03
+Madhya Pradesh,Balaghat,7/2/2023,2023,0.05,,,,,7/2/2023,0.12
+Madhya Pradesh,Balaghat,7/3/2023,2023,0.9,,,,,7/3/2023,0.1
+Madhya Pradesh,Barwani,7/1/2023,2023,10.02,,,,,Pulwama,0.05
+Madhya Pradesh,Barwani,7/2/2023,2023,4.74,,,,,7/1/2023,0.02
+Madhya Pradesh,Barwani,7/3/2023,2023,2.59,,,,,7/2/2023,0.01
+Madhya Pradesh,Betul,7/1/2023,2023,1.55,,,,,7/3/2023,0.02
+Madhya Pradesh,Betul,7/2/2023,2023,0.99,,,,,Rajouri,2.26
+Madhya Pradesh,Betul,7/3/2023,2023,0.02,,,,,7/1/2023,1.62
+Madhya Pradesh,Bhind,7/1/2023,2023,15.27,,,,,7/2/2023,0
+Madhya Pradesh,Bhind,7/2/2023,2023,6.93,,,,,7/3/2023,0.64
+Madhya Pradesh,Bhind,7/3/2023,2023,3.37,,,,,Ramban,1.06
+Madhya Pradesh,Bhopal,7/1/2023,2023,14.8,,,,,7/1/2023,0.93
+Madhya Pradesh,Bhopal,7/2/2023,2023,4.64,,,,,7/2/2023,0.06
+Madhya Pradesh,Bhopal,7/3/2023,2023,0.28,,,,,7/3/2023,0.07
+Madhya Pradesh,Burhanpur,7/1/2023,2023,0.59,,,,,Reasi,3.56
+Madhya Pradesh,Burhanpur,7/2/2023,2023,0.92,,,,,7/1/2023,2.71
+Madhya Pradesh,Burhanpur,7/3/2023,2023,1.2,,,,,7/2/2023,0.01
+Madhya Pradesh,Chhatarpur,7/1/2023,2023,7.38,,,,,7/3/2023,0.84
+Madhya Pradesh,Chhatarpur,7/2/2023,2023,6.78,,,,,Samba,12.63
+Madhya Pradesh,Chhatarpur,7/3/2023,2023,1.93,,,,,7/1/2023,12.04
+Madhya Pradesh,Chhindwara,7/1/2023,2023,4.85,,,,,7/2/2023,0.22
+Madhya Pradesh,Chhindwara,7/2/2023,2023,1.27,,,,,7/3/2023,0.37
+Madhya Pradesh,Chhindwara,7/3/2023,2023,0.28,,,,,Shopian,0.33
+Madhya Pradesh,Damoh,7/1/2023,2023,1.65,,,,,7/1/2023,0.12
+Madhya Pradesh,Damoh,7/2/2023,2023,3.79,,,,,7/2/2023,0.07
+Madhya Pradesh,Damoh,7/3/2023,2023,0.83,,,,,7/3/2023,0.14
+Madhya Pradesh,Datia,7/1/2023,2023,19.46,,,,,Srinagar,0.03
+Madhya Pradesh,Datia,7/2/2023,2023,18.61,,,,,7/1/2023,0
+Madhya Pradesh,Datia,7/3/2023,2023,0.07,,,,,7/2/2023,0.03
+Madhya Pradesh,Dewas,7/1/2023,2023,13.57,,,,,7/3/2023,0
+Madhya Pradesh,Dewas,7/2/2023,2023,9.79,,,,,Udhampur,9.98
+Madhya Pradesh,Dewas,7/3/2023,2023,0.27,,,,,7/1/2023,8.9
+Madhya Pradesh,Dhar,7/1/2023,2023,4.5,,,,,7/2/2023,0.3
+Madhya Pradesh,Dhar,7/2/2023,2023,7.94,,,,,7/3/2023,0.78
+Madhya Pradesh,Dhar,7/3/2023,2023,5.67,,,,,Jharkhand,1198.87
+Madhya Pradesh,Dindori,7/1/2023,2023,10.61,,,,,Bokaro,12.85
+Madhya Pradesh,Dindori,7/2/2023,2023,1.88,,,,,7/1/2023,1.5
+Madhya Pradesh,Dindori,7/3/2023,2023,1.25,,,,,7/2/2023,1.66
+Madhya Pradesh,East Nimar,7/1/2023,2023,7.03,,,,,7/3/2023,9.69
+Madhya Pradesh,East Nimar,7/2/2023,2023,4.77,,,,,Chatra,65.63
+Madhya Pradesh,East Nimar,7/3/2023,2023,0.19,,,,,7/1/2023,6.83
+Madhya Pradesh,Guna,7/1/2023,2023,11.72,,,,,7/2/2023,21.46
+Madhya Pradesh,Guna,7/2/2023,2023,8.21,,,,,7/3/2023,37.34
+Madhya Pradesh,Guna,7/3/2023,2023,0.33,,,,,Deoghar,82.33
+Madhya Pradesh,Gwalior,7/1/2023,2023,17.09,,,,,7/1/2023,2.87
+Madhya Pradesh,Gwalior,7/2/2023,2023,11.32,,,,,7/2/2023,6.12
+Madhya Pradesh,Gwalior,7/3/2023,2023,0.06,,,,,7/3/2023,73.34
+Madhya Pradesh,Harda,7/1/2023,2023,3.94,,,,,Dhanbad,18.93
+Madhya Pradesh,Harda,7/2/2023,2023,2.74,,,,,7/1/2023,1.77
+Madhya Pradesh,Harda,7/3/2023,2023,0.19,,,,,7/2/2023,1.91
+Madhya Pradesh,Hoshangabad,7/1/2023,2023,5.98,,,,,7/3/2023,15.25
+Madhya Pradesh,Hoshangabad,7/2/2023,2023,2.08,,,,,Dumka,90.58
+Madhya Pradesh,Hoshangabad,7/3/2023,2023,0.02,,,,,7/1/2023,7.22
+Madhya Pradesh,Indore,7/1/2023,2023,8.31,,,,,7/2/2023,17.13
+Madhya Pradesh,Indore,7/2/2023,2023,11.23,,,,,7/3/2023,66.23
+Madhya Pradesh,Indore,7/3/2023,2023,8.95,,,,,East Singhbum,12.5
+Madhya Pradesh,Jabalpur,7/1/2023,2023,10.44,,,,,7/1/2023,4.13
+Madhya Pradesh,Jabalpur,7/2/2023,2023,0.51,,,,,7/2/2023,7.89
+Madhya Pradesh,Jabalpur,7/3/2023,2023,1.24,,,,,7/3/2023,0.48
+Madhya Pradesh,Jhabua,7/1/2023,2023,7.94,,,,,Garhwa,49.44
+Madhya Pradesh,Jhabua,7/2/2023,2023,8.27,,,,,7/1/2023,25.96
+Madhya Pradesh,Jhabua,7/3/2023,2023,10.42,,,,,7/2/2023,19.47
+Madhya Pradesh,Katni,7/1/2023,2023,1.59,,,,,7/3/2023,4.01
+Madhya Pradesh,Katni,7/2/2023,2023,8.57,,,,,Giridih,82.63
+Madhya Pradesh,Katni,7/3/2023,2023,0.14,,,,,7/1/2023,1.51
+Madhya Pradesh,Khargone,7/1/2023,2023,6.31,,,,,7/2/2023,14.95
+Madhya Pradesh,Khargone,7/2/2023,2023,6.09,,,,,7/3/2023,66.17
+Madhya Pradesh,Khargone,7/3/2023,2023,0.89,,,,,Godda,132.33
+Madhya Pradesh,Mandla,7/1/2023,2023,5.47,,,,,7/1/2023,5.98
+Madhya Pradesh,Mandla,7/2/2023,2023,3,,,,,7/2/2023,16.42
+Madhya Pradesh,Mandla,7/3/2023,2023,0.2,,,,,7/3/2023,109.93
+Madhya Pradesh,Mandsaur,7/1/2023,2023,18.04,,,,,Gumla,8.62
+Madhya Pradesh,Mandsaur,7/2/2023,2023,25.25,,,,,7/1/2023,2.44
+Madhya Pradesh,Mandsaur,7/3/2023,2023,8.4,,,,,7/2/2023,1.03
+Madhya Pradesh,Morena,7/1/2023,2023,10.89,,,,,7/3/2023,5.15
+Madhya Pradesh,Morena,7/2/2023,2023,5.25,,,,,Hazaribagh,37.32
+Madhya Pradesh,Morena,7/3/2023,2023,0.3,,,,,7/1/2023,1.77
+Madhya Pradesh,Narsinghpur,7/1/2023,2023,4.78,,,,,7/2/2023,7.6
+Madhya Pradesh,Narsinghpur,7/2/2023,2023,2.29,,,,,7/3/2023,27.95
+Madhya Pradesh,Narsinghpur,7/3/2023,2023,0,,,,,Jamtara,50.78
+Madhya Pradesh,Neemuch,7/1/2023,2023,45.07,,,,,7/1/2023,2.73
+Madhya Pradesh,Neemuch,7/2/2023,2023,11.66,,,,,7/2/2023,4.21
+Madhya Pradesh,Neemuch,7/3/2023,2023,11.49,,,,,7/3/2023,43.84
+Madhya Pradesh,Niwari,7/1/2023,2023,5.98,,,,,Khunti,9.44
+Madhya Pradesh,Niwari,7/2/2023,2023,5.47,,,,,7/1/2023,1.05
+Madhya Pradesh,Niwari,7/3/2023,2023,0.13,,,,,7/2/2023,8.02
+Madhya Pradesh,Panna,7/1/2023,2023,2.25,,,,,7/3/2023,0.37
+Madhya Pradesh,Panna,7/2/2023,2023,9.39,,,,,Koderma,66.09
+Madhya Pradesh,Panna,7/3/2023,2023,1.38,,,,,7/1/2023,6.67
+Madhya Pradesh,Raisen,7/1/2023,2023,6.82,,,,,7/2/2023,8.23
+Madhya Pradesh,Raisen,7/2/2023,2023,6.7,,,,,7/3/2023,51.19
+Madhya Pradesh,Raisen,7/3/2023,2023,2.68,,,,,Latehar,17.53
+Madhya Pradesh,Rajgarh,7/1/2023,2023,13.02,,,,,7/1/2023,0.81
+Madhya Pradesh,Rajgarh,7/2/2023,2023,17.27,,,,,7/2/2023,7.12
+Madhya Pradesh,Rajgarh,7/3/2023,2023,7.85,,,,,7/3/2023,9.6
+Madhya Pradesh,Ratlam,7/1/2023,2023,17.82,,,,,Lohardaga,13.44
+Madhya Pradesh,Ratlam,7/2/2023,2023,15.06,,,,,7/1/2023,0.89
+Madhya Pradesh,Ratlam,7/3/2023,2023,10.82,,,,,7/2/2023,1.53
+Madhya Pradesh,Rewa,7/1/2023,2023,6.37,,,,,7/3/2023,11.02
+Madhya Pradesh,Rewa,7/2/2023,2023,4.84,,,,,Pakur,85.22
+Madhya Pradesh,Rewa,7/3/2023,2023,0.32,,,,,7/1/2023,12.28
+Madhya Pradesh,Sagar,7/1/2023,2023,3.32,,,,,7/2/2023,13.37
+Madhya Pradesh,Sagar,7/2/2023,2023,4.7,,,,,7/3/2023,59.57
+Madhya Pradesh,Sagar,7/3/2023,2023,0.26,,,,,Palamu,106.79
+Madhya Pradesh,Satna,7/1/2023,2023,1.67,,,,,7/1/2023,43.81
+Madhya Pradesh,Satna,7/2/2023,2023,5.04,,,,,7/2/2023,47.06
+Madhya Pradesh,Satna,7/3/2023,2023,5.27,,,,,7/3/2023,15.92
+Madhya Pradesh,Sehore,7/1/2023,2023,11.73,,,,,Ramgarh,16.83
+Madhya Pradesh,Sehore,7/2/2023,2023,7.8,,,,,7/1/2023,2.33
+Madhya Pradesh,Sehore,7/3/2023,2023,0.12,,,,,7/2/2023,2.33
+Madhya Pradesh,Seoni,7/1/2023,2023,4.4,,,,,7/3/2023,12.17
+Madhya Pradesh,Seoni,7/2/2023,2023,4.69,,,,,Ranchi,17.37
+Madhya Pradesh,Seoni,7/3/2023,2023,0.22,,,,,7/1/2023,3.27
+Madhya Pradesh,Shahdol,7/1/2023,2023,6.78,,,,,7/2/2023,5.38
+Madhya Pradesh,Shahdol,7/2/2023,2023,2.12,,,,,7/3/2023,8.72
+Madhya Pradesh,Shahdol,7/3/2023,2023,2.58,,,,,Sahebganj,177.15
+Madhya Pradesh,Shajapur,7/1/2023,2023,8.13,,,,,7/1/2023,14.74
+Madhya Pradesh,Shajapur,7/2/2023,2023,25,,,,,7/2/2023,82.7
+Madhya Pradesh,Shajapur,7/3/2023,2023,7.76,,,,,7/3/2023,79.71
+Madhya Pradesh,Sheopur,7/1/2023,2023,34.66,,,,,Saraikela Kharsawan,13.3
+Madhya Pradesh,Sheopur,7/2/2023,2023,7.8,,,,,7/1/2023,3.53
+Madhya Pradesh,Sheopur,7/3/2023,2023,2.21,,,,,7/2/2023,7.74
+Madhya Pradesh,Shivpuri,7/1/2023,2023,6.57,,,,,7/3/2023,2.03
+Madhya Pradesh,Shivpuri,7/2/2023,2023,19.05,,,,,Simdega,9.3
+Madhya Pradesh,Shivpuri,7/3/2023,2023,0.52,,,,,7/1/2023,4.9
+Madhya Pradesh,Sidhi,7/1/2023,2023,4.14,,,,,7/2/2023,3.64
+Madhya Pradesh,Sidhi,7/2/2023,2023,5.13,,,,,7/3/2023,0.76
+Madhya Pradesh,Sidhi,7/3/2023,2023,0.36,,,,,West Singhbhum,22.47
+Madhya Pradesh,Singrauli,7/1/2023,2023,2.29,,,,,7/1/2023,2.16
+Madhya Pradesh,Singrauli,7/2/2023,2023,6.49,,,,,7/2/2023,18.66
+Madhya Pradesh,Singrauli,7/3/2023,2023,1.8,,,,,7/3/2023,1.65
+Madhya Pradesh,Tikamgarh,7/1/2023,2023,6.07,,,,,Karnataka,553.59
+Madhya Pradesh,Tikamgarh,7/2/2023,2023,14,,,,,Bagalkote,3.63
+Madhya Pradesh,Tikamgarh,7/3/2023,2023,1.01,,,,,7/1/2023,0.42
+Madhya Pradesh,Ujjain,7/1/2023,2023,3.09,,,,,7/2/2023,0.72
+Madhya Pradesh,Ujjain,7/2/2023,2023,26.37,,,,,7/3/2023,2.49
+Madhya Pradesh,Ujjain,7/3/2023,2023,4.03,,,,,Ballari,4.09
+Madhya Pradesh,Umaria,7/1/2023,2023,9.12,,,,,7/1/2023,0.23
+Madhya Pradesh,Umaria,7/2/2023,2023,8.47,,,,,7/2/2023,1.86
+Madhya Pradesh,Umaria,7/3/2023,2023,0.44,,,,,7/3/2023,2
+Madhya Pradesh,Vidisha,7/1/2023,2023,11.62,,,,,Belagavi,10.4
+Madhya Pradesh,Vidisha,7/2/2023,2023,2.74,,,,,7/1/2023,2.4
+Madhya Pradesh,Vidisha,7/3/2023,2023,1.02,,,,,7/2/2023,2.82
+Maharashtra,Ahmednagar,7/1/2023,2023,6.3,,,,,7/3/2023,5.18
+Maharashtra,Ahmednagar,7/2/2023,2023,1.84,,,,,Bengaluru Rural,4.22
+Maharashtra,Ahmednagar,7/3/2023,2023,6.49,,,,,7/1/2023,1.19
+Maharashtra,Akola,7/1/2023,2023,0.79,,,,,7/2/2023,1.23
+Maharashtra,Akola,7/2/2023,2023,1.28,,,,,7/3/2023,1.8
+Maharashtra,Akola,7/3/2023,2023,0.36,,,,,Bengaluru Urban,5.79
+Maharashtra,Amravati,7/1/2023,2023,2.03,,,,,7/1/2023,0.13
+Maharashtra,Amravati,7/2/2023,2023,0.89,,,,,7/2/2023,1.97
+Maharashtra,Amravati,7/3/2023,2023,0.69,,,,,7/3/2023,3.69
+Maharashtra,Aurangabad,7/1/2023,2023,0.52,,,,,Bidar,26.46
+Maharashtra,Aurangabad,7/2/2023,2023,1.05,,,,,7/1/2023,0
+Maharashtra,Aurangabad,7/3/2023,2023,12.55,,,,,7/2/2023,0.15
+Maharashtra,Beed,7/1/2023,2023,4.96,,,,,7/3/2023,26.31
+Maharashtra,Beed,7/2/2023,2023,0.06,,,,,Chamarajanagara,0.41
+Maharashtra,Beed,7/3/2023,2023,10.96,,,,,7/1/2023,0.1
+Maharashtra,Bhandara,7/1/2023,2023,0.01,,,,,7/2/2023,0.08
+Maharashtra,Bhandara,7/2/2023,2023,0.33,,,,,7/3/2023,0.23
+Maharashtra,Bhandara,7/3/2023,2023,0.04,,,,,Chikkaballapura,4.7
+Maharashtra,Buldhana,7/1/2023,2023,0.48,,,,,7/1/2023,1.41
+Maharashtra,Buldhana,7/2/2023,2023,1.62,,,,,7/2/2023,1.13
+Maharashtra,Buldhana,7/3/2023,2023,0.99,,,,,7/3/2023,2.16
+Maharashtra,Chandrapur,7/1/2023,2023,1.22,,,,,Chikkamagaluru,22.14
+Maharashtra,Chandrapur,7/2/2023,2023,0.05,,,,,7/1/2023,6.15
+Maharashtra,Chandrapur,7/3/2023,2023,0.02,,,,,7/2/2023,5.96
+Maharashtra,Dhule,7/1/2023,2023,11.68,,,,,7/3/2023,10.03
+Maharashtra,Dhule,7/2/2023,2023,3.36,,,,,Chitradurga,5.79
+Maharashtra,Dhule,7/3/2023,2023,1.05,,,,,7/1/2023,0.63
+Maharashtra,Gadchiroli,7/1/2023,2023,0.44,,,,,7/2/2023,3.86
+Maharashtra,Gadchiroli,7/2/2023,2023,0.04,,,,,7/3/2023,1.3
+Maharashtra,Gadchiroli,7/3/2023,2023,0.01,,,,,Dakshina Kannada,69.22
+Maharashtra,Gondia,7/1/2023,2023,0.42,,,,,7/1/2023,25.6
+Maharashtra,Gondia,7/2/2023,2023,0.04,,,,,7/2/2023,9.68
+Maharashtra,Gondia,7/3/2023,2023,0.51,,,,,7/3/2023,33.94
+Maharashtra,Hingoli,7/1/2023,2023,0.96,,,,,Davangere,8.32
+Maharashtra,Hingoli,7/2/2023,2023,0.21,,,,,7/1/2023,1.07
+Maharashtra,Hingoli,7/3/2023,2023,2.33,,,,,7/2/2023,3.69
+Maharashtra,Jalgaon,7/1/2023,2023,1.22,,,,,7/3/2023,3.56
+Maharashtra,Jalgaon,7/2/2023,2023,2.23,,,,,Dharwad,17.04
+Maharashtra,Jalgaon,7/3/2023,2023,8.73,,,,,7/1/2023,1.02
+Maharashtra,Jalna,7/1/2023,2023,0.09,,,,,7/2/2023,3.3
+Maharashtra,Jalna,7/2/2023,2023,0.22,,,,,7/3/2023,12.72
+Maharashtra,Jalna,7/3/2023,2023,3.94,,,,,Gadag,12.04
+Maharashtra,Kolhapur,7/1/2023,2023,20.95,,,,,7/1/2023,0.88
+Maharashtra,Kolhapur,7/2/2023,2023,19.68,,,,,7/2/2023,0.11
+Maharashtra,Kolhapur,7/3/2023,2023,17.35,,,,,7/3/2023,11.05
+Maharashtra,Latur,7/1/2023,2023,0.09,,,,,Hassan,4.9
+Maharashtra,Latur,7/2/2023,2023,0.09,,,,,7/1/2023,3.4
+Maharashtra,Latur,7/3/2023,2023,17.09,,,,,7/2/2023,0.55
+Maharashtra,Mumbai City,7/1/2023,2023,56.62,,,,,7/3/2023,0.95
+Maharashtra,Mumbai City,7/2/2023,2023,8.95,,,,,Haveri,17.75
+Maharashtra,Mumbai City,7/3/2023,2023,20.17,,,,,7/1/2023,1.74
+Maharashtra,Mumbai Suburban,7/1/2023,2023,93.49,,,,,7/2/2023,1.95
+Maharashtra,Mumbai Suburban,7/2/2023,2023,51.15,,,,,7/3/2023,14.06
+Maharashtra,Mumbai Suburban,7/3/2023,2023,37.97,,,,,Kalaburagi,9.5
+Maharashtra,Nagpur,7/1/2023,2023,1.57,,,,,7/2/2023,1.05
+Maharashtra,Nagpur,7/2/2023,2023,0.7,,,,,7/3/2023,8.45
+Maharashtra,Nagpur,7/3/2023,2023,0.75,,,,,Kodagu,27.81
+Maharashtra,Nanded,7/1/2023,2023,0.68,,,,,7/1/2023,10.23
+Maharashtra,Nanded,7/2/2023,2023,0.02,,,,,7/2/2023,1.58
+Maharashtra,Nanded,7/3/2023,2023,4.07,,,,,7/3/2023,16
+Maharashtra,Nandurbar,7/1/2023,2023,12.8,,,,,Kolar,4.77
+Maharashtra,Nandurbar,7/2/2023,2023,13.78,,,,,7/1/2023,1.6
+Maharashtra,Nandurbar,7/3/2023,2023,4.74,,,,,7/2/2023,0.32
+Maharashtra,Nashik,7/1/2023,2023,38.79,,,,,7/3/2023,2.85
+Maharashtra,Nashik,7/2/2023,2023,25.77,,,,,Koppal,4.53
+Maharashtra,Nashik,7/3/2023,2023,5.84,,,,,7/1/2023,0.11
+Maharashtra,Osmanabad,7/1/2023,2023,1.92,,,,,7/2/2023,3.18
+Maharashtra,Osmanabad,7/2/2023,2023,0.29,,,,,7/3/2023,1.24
+Maharashtra,Osmanabad,7/3/2023,2023,29.86,,,,,Mandya,16.55
+Maharashtra,Palghar,7/1/2023,2023,88.16,,,,,7/1/2023,5.83
+Maharashtra,Palghar,7/2/2023,2023,81,,,,,7/2/2023,3.5
+Maharashtra,Palghar,7/3/2023,2023,31.65,,,,,7/3/2023,7.22
+Maharashtra,Parbhani,7/1/2023,2023,1.07,,,,,Mysuru,4.13
+Maharashtra,Parbhani,7/2/2023,2023,0.18,,,,,7/1/2023,1.14
+Maharashtra,Parbhani,7/3/2023,2023,5.16,,,,,7/2/2023,0.54
+Maharashtra,Pune,7/1/2023,2023,24.28,,,,,7/3/2023,2.45
+Maharashtra,Pune,7/2/2023,2023,10.85,,,,,Raichur,7.28
+Maharashtra,Pune,7/3/2023,2023,9.14,,,,,7/1/2023,0.1
+Maharashtra,Raigad,7/1/2023,2023,98.13,,,,,7/2/2023,3.64
+Maharashtra,Raigad,7/2/2023,2023,58.84,,,,,7/3/2023,3.54
+Maharashtra,Raigad,7/3/2023,2023,42.35,,,,,Ramanagara,4.37
+Maharashtra,Ratnagiri,7/1/2023,2023,78.21,,,,,7/1/2023,0.03
+Maharashtra,Ratnagiri,7/2/2023,2023,40.11,,,,,7/2/2023,3.86
+Maharashtra,Ratnagiri,7/3/2023,2023,32.39,,,,,7/3/2023,0.48
+Maharashtra,Sangli,7/1/2023,2023,3.95,,,,,Shivamogga,40.84
+Maharashtra,Sangli,7/2/2023,2023,1.26,,,,,7/1/2023,8.7
+Maharashtra,Sangli,7/3/2023,2023,1.77,,,,,7/2/2023,12.49
+Maharashtra,Satara,7/1/2023,2023,23.01,,,,,7/3/2023,19.65
+Maharashtra,Satara,7/2/2023,2023,9.46,,,,,Tumakuru,3.37
+Maharashtra,Satara,7/3/2023,2023,4.09,,,,,7/1/2023,0.44
+Maharashtra,Sindhudurg,7/1/2023,2023,43.79,,,,,7/2/2023,1.66
+Maharashtra,Sindhudurg,7/2/2023,2023,44.53,,,,,7/3/2023,1.27
+Maharashtra,Sindhudurg,7/3/2023,2023,61.4,,,,,Udupi,120.22
+Maharashtra,Solapur,7/1/2023,2023,2.68,,,,,7/1/2023,33.79
+Maharashtra,Solapur,7/2/2023,2023,0.56,,,,,7/2/2023,20.95
+Maharashtra,Solapur,7/3/2023,2023,12.14,,,,,7/3/2023,65.48
+Maharashtra,Thane,7/1/2023,2023,92.32,,,,,Uttara Kannada,85.77
+Maharashtra,Thane,7/2/2023,2023,51.77,,,,,7/1/2023,19.14
+Maharashtra,Thane,7/3/2023,2023,42.97,,,,,7/2/2023,28.15
+Maharashtra,Wardha,7/1/2023,2023,2.22,,,,,7/3/2023,38.48
+Maharashtra,Wardha,7/2/2023,2023,0.08,,,,,Vijayapura,3.03
+Maharashtra,Wardha,7/3/2023,2023,0.05,,,,,7/1/2023,0.02
+Maharashtra,Washim,7/1/2023,2023,0.65,,,,,7/2/2023,0.53
+Maharashtra,Washim,7/2/2023,2023,1.16,,,,,7/3/2023,2.48
+Maharashtra,Washim,7/3/2023,2023,1.54,,,,,Yadgir,4.52
+Maharashtra,Yavatmal,7/1/2023,2023,1.44,,,,,7/1/2023,0
+Maharashtra,Yavatmal,7/2/2023,2023,0.15,,,,,7/2/2023,1.23
+Maharashtra,Yavatmal,7/3/2023,2023,0.65,,,,,7/3/2023,3.29
+Manipur,Bishnupur,7/1/2023,2023,0.8,,,,,Kerala,512.36
+Manipur,Bishnupur,7/2/2023,2023,1.95,,,,,Alappuzha,54.85
+Manipur,Bishnupur,7/3/2023,2023,47.45,,,,,7/1/2023,5.66
+Manipur,Chandel,7/1/2023,2023,0.12,,,,,7/2/2023,6.57
+Manipur,Chandel,7/2/2023,2023,1.59,,,,,7/3/2023,42.62
+Manipur,Chandel,7/3/2023,2023,3.19,,,,,Ernakulam,48.19
+Manipur,Churachandpur,7/1/2023,2023,0.2,,,,,7/1/2023,3.12
+Manipur,Churachandpur,7/2/2023,2023,0.6,,,,,7/2/2023,2.84
+Manipur,Churachandpur,7/3/2023,2023,7.13,,,,,7/3/2023,42.23
+Manipur,Imphal East,7/1/2023,2023,1.53,,,,,Idukki,27.83
+Manipur,Imphal East,7/2/2023,2023,0.02,,,,,7/1/2023,3.13
+Manipur,Imphal East,7/3/2023,2023,3.07,,,,,7/2/2023,2.76
+Manipur,Imphal West,7/1/2023,2023,1.12,,,,,7/3/2023,21.94
+Manipur,Imphal West,7/2/2023,2023,1.96,,,,,Kannur,41.79
+Manipur,Imphal West,7/3/2023,2023,27.24,,,,,7/1/2023,10.95
+Manipur,Jiribam,7/1/2023,2023,1.18,,,,,7/2/2023,4.06
+Manipur,Jiribam,7/2/2023,2023,1.96,,,,,7/3/2023,26.78
+Manipur,Jiribam,7/3/2023,2023,1.98,,,,,Kasaragod,58.59
+Manipur,Kakching,7/1/2023,2023,0.15,,,,,7/1/2023,11.54
+Manipur,Kakching,7/2/2023,2023,1.16,,,,,7/2/2023,5.1
+Manipur,Kakching,7/3/2023,2023,12.93,,,,,7/3/2023,41.95
+Manipur,Kamjong,7/1/2023,2023,0.25,,,,,Kollam,18.02
+Manipur,Kamjong,7/2/2023,2023,0.04,,,,,7/1/2023,0.3
+Manipur,Kamjong,7/3/2023,2023,0.73,,,,,7/2/2023,3.07
+Manipur,Kangpokpi,7/1/2023,2023,20.49,,,,,7/3/2023,14.65
+Manipur,Kangpokpi,7/2/2023,2023,0.69,,,,,Kottayam,50.73
+Manipur,Kangpokpi,7/3/2023,2023,10.82,,,,,7/1/2023,3.09
+Manipur,Noney,7/1/2023,2023,0.34,,,,,7/2/2023,3.53
+Manipur,Noney,7/2/2023,2023,0.84,,,,,7/3/2023,44.11
+Manipur,Noney,7/3/2023,2023,7.3,,,,,Kozhikode,36.47
+Manipur,Pherzawl,7/1/2023,2023,0.52,,,,,7/1/2023,3.95
+Manipur,Pherzawl,7/2/2023,2023,0.7,,,,,7/2/2023,10.51
+Manipur,Pherzawl,7/3/2023,2023,3.3,,,,,7/3/2023,22.01
+Manipur,Senapati,7/1/2023,2023,15.55,,,,,Malappuram,38.93
+Manipur,Senapati,7/2/2023,2023,0.91,,,,,7/1/2023,8.9
+Manipur,Senapati,7/3/2023,2023,2.33,,,,,7/2/2023,7.43
+Manipur,Tamenglong,7/1/2023,2023,4.16,,,,,7/3/2023,22.6
+Manipur,Tamenglong,7/2/2023,2023,8.6,,,,,Palakkad,18.55
+Manipur,Tamenglong,7/3/2023,2023,4.02,,,,,7/1/2023,2.63
+Manipur,Tengnoupal,7/1/2023,2023,0.06,,,,,7/2/2023,2
+Manipur,Tengnoupal,7/2/2023,2023,0.09,,,,,7/3/2023,13.92
+Manipur,Tengnoupal,7/3/2023,2023,1.38,,,,,Pathanamthitta,27.7
+Manipur,Thoubal,7/1/2023,2023,0.99,,,,,7/1/2023,2.22
+Manipur,Thoubal,7/2/2023,2023,0.41,,,,,7/2/2023,4.73
+Manipur,Thoubal,7/3/2023,2023,2.88,,,,,7/3/2023,20.75
+Manipur,Ukhrul,7/1/2023,2023,0.89,,,,,Thiruvananthapuram,8.48
+Manipur,Ukhrul,7/2/2023,2023,0.42,,,,,7/1/2023,0.02
+Manipur,Ukhrul,7/3/2023,2023,1.3,,,,,7/2/2023,0.96
+Meghalaya,East Garo Hills,7/1/2023,2023,23.66,,,,,7/3/2023,7.5
+Meghalaya,East Garo Hills,7/2/2023,2023,56.95,,,,,Thrissur,44.79
+Meghalaya,East Garo Hills,7/3/2023,2023,7.55,,,,,7/1/2023,3.53
+Meghalaya,East Jaintia Hills,7/1/2023,2023,7.66,,,,,7/2/2023,3.63
+Meghalaya,East Jaintia Hills,7/2/2023,2023,18.07,,,,,7/3/2023,37.63
+Meghalaya,East Jaintia Hills,7/3/2023,2023,18.4,,,,,Wayanad,37.44
+Meghalaya,East Khasi Hills,7/1/2023,2023,79.22,,,,,7/1/2023,7.22
+Meghalaya,East Khasi Hills,7/2/2023,2023,107.71,,,,,7/2/2023,6.19
+Meghalaya,East Khasi Hills,7/3/2023,2023,125.22,,,,,7/3/2023,24.03
+Meghalaya,North Garo Hills,7/1/2023,2023,19.61,,,,,Ladakh,3.13
+Meghalaya,North Garo Hills,7/2/2023,2023,19.63,,,,,Kargil,2.4
+Meghalaya,North Garo Hills,7/3/2023,2023,5.07,,,,,7/1/2023,1.05
+Meghalaya,Ri Bhoi,7/1/2023,2023,10.27,,,,,7/2/2023,0.02
+Meghalaya,Ri Bhoi,7/2/2023,2023,40.46,,,,,7/3/2023,1.33
+Meghalaya,Ri Bhoi,7/3/2023,2023,17.32,,,,,Leh Ladakh,0.73
+Meghalaya,South Garo Hills,7/1/2023,2023,37.69,,,,,7/1/2023,0.12
+Meghalaya,South Garo Hills,7/2/2023,2023,50.25,,,,,7/2/2023,0.06
+Meghalaya,South Garo Hills,7/3/2023,2023,32.41,,,,,7/3/2023,0.55
+Meghalaya,South West Garo Hills,7/1/2023,2023,5.18,,,,,Madhya Pradesh,1062.04
+Meghalaya,South West Garo Hills,7/2/2023,2023,4.46,,,,,Agar Malwa,71.72
+Meghalaya,South West Garo Hills,7/3/2023,2023,5.76,,,,,7/1/2023,4.18
+Meghalaya,South West Khasi Hills,7/1/2023,2023,57.58,,,,,7/2/2023,45.29
+Meghalaya,South West Khasi Hills,7/2/2023,2023,55.1,,,,,7/3/2023,22.25
+Meghalaya,South West Khasi Hills,7/3/2023,2023,83.62,,,,,Alirajpur,43.31
+Meghalaya,West Garo Hills,7/1/2023,2023,23.73,,,,,7/1/2023,1.98
+Meghalaya,West Garo Hills,7/2/2023,2023,14.37,,,,,7/2/2023,36.58
+Meghalaya,West Garo Hills,7/3/2023,2023,7.35,,,,,7/3/2023,4.75
+Meghalaya,West Jaintia Hills,7/1/2023,2023,7.98,,,,,Anuppur,13.8
+Meghalaya,West Jaintia Hills,7/2/2023,2023,41.48,,,,,7/1/2023,2.32
+Meghalaya,West Jaintia Hills,7/3/2023,2023,28.53,,,,,7/2/2023,5.13
+Meghalaya,West Khasi Hills,7/1/2023,2023,19.37,,,,,7/3/2023,6.35
+Meghalaya,West Khasi Hills,7/2/2023,2023,35.4,,,,,Ashoknagar,8.25
+Meghalaya,West Khasi Hills,7/3/2023,2023,26.77,,,,,7/1/2023,0.37
+Mizoram,Aizawl,7/1/2023,2023,2.6,,,,,7/2/2023,7.76
+Mizoram,Aizawl,7/2/2023,2023,0.26,,,,,7/3/2023,0.12
+Mizoram,Aizawl,7/3/2023,2023,1.28,,,,,Balaghat,1.25
+Mizoram,Champhai,7/1/2023,2023,1.89,,,,,7/1/2023,0.3
+Mizoram,Champhai,7/2/2023,2023,0.67,,,,,7/2/2023,0.05
+Mizoram,Champhai,7/3/2023,2023,2.48,,,,,7/3/2023,0.9
+Mizoram,Kolasib,7/1/2023,2023,5.34,,,,,Barwani,17.35
+Mizoram,Kolasib,7/2/2023,2023,2.16,,,,,7/1/2023,10.02
+Mizoram,Kolasib,7/3/2023,2023,2.09,,,,,7/2/2023,4.74
+Mizoram,Lawngtlai,7/1/2023,2023,0.91,,,,,7/3/2023,2.59
+Mizoram,Lawngtlai,7/2/2023,2023,0.41,,,,,Betul,2.56
+Mizoram,Lawngtlai,7/3/2023,2023,0.53,,,,,7/1/2023,1.55
+Mizoram,Lunglei,7/1/2023,2023,2.13,,,,,7/2/2023,0.99
+Mizoram,Lunglei,7/2/2023,2023,0.21,,,,,7/3/2023,0.02
+Mizoram,Lunglei,7/3/2023,2023,0.16,,,,,Bhind,25.57
+Mizoram,Mamit,7/1/2023,2023,8.64,,,,,7/1/2023,15.27
+Mizoram,Mamit,7/2/2023,2023,2.82,,,,,7/2/2023,6.93
+Mizoram,Mamit,7/3/2023,2023,0.92,,,,,7/3/2023,3.37
+Mizoram,Saiha,7/1/2023,2023,0.45,,,,,Bhopal,19.72
+Mizoram,Saiha,7/2/2023,2023,0.24,,,,,7/1/2023,14.8
+Mizoram,Saiha,7/3/2023,2023,0.61,,,,,7/2/2023,4.64
+Mizoram,Serchhip,7/1/2023,2023,1.63,,,,,7/3/2023,0.28
+Mizoram,Serchhip,7/2/2023,2023,0.01,,,,,Burhanpur,2.71
+Mizoram,Serchhip,7/3/2023,2023,0.08,,,,,7/1/2023,0.59
+Nagaland,Dimapur,7/1/2023,2023,0.08,,,,,7/2/2023,0.92
+Nagaland,Dimapur,7/2/2023,2023,2,,,,,7/3/2023,1.2
+Nagaland,Dimapur,7/3/2023,2023,0.79,,,,,Chhatarpur,16.09
+Nagaland,Kiphire,7/1/2023,2023,0.39,,,,,7/1/2023,7.38
+Nagaland,Kiphire,7/2/2023,2023,0.09,,,,,7/2/2023,6.78
+Nagaland,Kiphire,7/3/2023,2023,0.61,,,,,7/3/2023,1.93
+Nagaland,Kohima,7/1/2023,2023,0.87,,,,,Chhindwara,6.4
+Nagaland,Kohima,7/2/2023,2023,2.2,,,,,7/1/2023,4.85
+Nagaland,Kohima,7/3/2023,2023,1.17,,,,,7/2/2023,1.27
+Nagaland,Longleng,7/1/2023,2023,5.42,,,,,7/3/2023,0.28
+Nagaland,Longleng,7/2/2023,2023,17.99,,,,,Damoh,6.27
+Nagaland,Longleng,7/3/2023,2023,10.07,,,,,7/1/2023,1.65
+Nagaland,Mokokchung,7/1/2023,2023,3.53,,,,,7/2/2023,3.79
+Nagaland,Mokokchung,7/2/2023,2023,4.76,,,,,7/3/2023,0.83
+Nagaland,Mokokchung,7/3/2023,2023,12.5,,,,,Datia,38.14
+Nagaland,Mon,7/1/2023,2023,7.88,,,,,7/1/2023,19.46
+Nagaland,Mon,7/2/2023,2023,13.75,,,,,7/2/2023,18.61
+Nagaland,Mon,7/3/2023,2023,6.4,,,,,7/3/2023,0.07
+Nagaland,Peren,7/1/2023,2023,0.22,,,,,Dewas,23.63
+Nagaland,Peren,7/2/2023,2023,1.78,,,,,7/1/2023,13.57
+Nagaland,Peren,7/3/2023,2023,0.47,,,,,7/2/2023,9.79
+Nagaland,Phek,7/1/2023,2023,3.33,,,,,7/3/2023,0.27
+Nagaland,Phek,7/2/2023,2023,3.15,,,,,Dhar,18.11
+Nagaland,Phek,7/3/2023,2023,1.05,,,,,7/1/2023,4.5
+Nagaland,Tuensang,7/1/2023,2023,0.46,,,,,7/2/2023,7.94
+Nagaland,Tuensang,7/2/2023,2023,3.34,,,,,7/3/2023,5.67
+Nagaland,Tuensang,7/3/2023,2023,0.98,,,,,Dindori,13.74
+Nagaland,Wokha,7/1/2023,2023,0.04,,,,,7/1/2023,10.61
+Nagaland,Wokha,7/2/2023,2023,0.53,,,,,7/2/2023,1.88
+Nagaland,Wokha,7/3/2023,2023,2.19,,,,,7/3/2023,1.25
+Nagaland,Zunheboto,7/1/2023,2023,16.98,,,,,East Nimar,11.99
+Nagaland,Zunheboto,7/2/2023,2023,2.31,,,,,7/1/2023,7.03
+Nagaland,Zunheboto,7/3/2023,2023,14.58,,,,,7/2/2023,4.77
+Odisha,Anugul,7/1/2023,2023,1.73,,,,,7/3/2023,0.19
+Odisha,Anugul,7/2/2023,2023,1.15,,,,,Guna,20.26
+Odisha,Anugul,7/3/2023,2023,0.13,,,,,7/1/2023,11.72
+Odisha,Balangir,7/1/2023,2023,0.17,,,,,7/2/2023,8.21
+Odisha,Balangir,7/2/2023,2023,0.01,,,,,7/3/2023,0.33
+Odisha,Balangir,7/3/2023,2023,0,,,,,Gwalior,28.47
+Odisha,Baleshwar,7/1/2023,2023,5.92,,,,,7/1/2023,17.09
+Odisha,Baleshwar,7/2/2023,2023,0.14,,,,,7/2/2023,11.32
+Odisha,Baleshwar,7/3/2023,2023,1.3,,,,,7/3/2023,0.06
+Odisha,Bargarh,7/1/2023,2023,0.46,,,,,Harda,6.87
+Odisha,Bargarh,7/2/2023,2023,0.02,,,,,7/1/2023,3.94
+Odisha,Bargarh,7/3/2023,2023,0,,,,,7/2/2023,2.74
+Odisha,Bhadrak,7/1/2023,2023,4.1,,,,,7/3/2023,0.19
+Odisha,Bhadrak,7/2/2023,2023,3.33,,,,,Hoshangabad,8.08
+Odisha,Bhadrak,7/3/2023,2023,0.31,,,,,7/1/2023,5.98
+Odisha,Boudh,7/1/2023,2023,0.77,,,,,7/2/2023,2.08
+Odisha,Boudh,7/2/2023,2023,0.89,,,,,7/3/2023,0.02
+Odisha,Boudh,7/3/2023,2023,0.12,,,,,Indore,28.49
+Odisha,Cuttack,7/1/2023,2023,14.64,,,,,7/1/2023,8.31
+Odisha,Cuttack,7/2/2023,2023,3.31,,,,,7/2/2023,11.23
+Odisha,Cuttack,7/3/2023,2023,1.37,,,,,7/3/2023,8.95
+Odisha,Deogarh,7/1/2023,2023,0.42,,,,,Jabalpur,12.19
+Odisha,Deogarh,7/2/2023,2023,0.28,,,,,7/1/2023,10.44
+Odisha,Deogarh,7/3/2023,2023,0,,,,,7/2/2023,0.51
+Odisha,Dhenkanal,7/1/2023,2023,12.77,,,,,7/3/2023,1.24
+Odisha,Dhenkanal,7/2/2023,2023,2.36,,,,,Jhabua,26.63
+Odisha,Dhenkanal,7/3/2023,2023,1.73,,,,,7/1/2023,7.94
+Odisha,Gajapati,7/1/2023,2023,0.01,,,,,7/2/2023,8.27
+Odisha,Gajapati,7/2/2023,2023,0.16,,,,,7/3/2023,10.42
+Odisha,Gajapati,7/3/2023,2023,8.83,,,,,Katni,10.3
+Odisha,Ganjam,7/1/2023,2023,1.56,,,,,7/1/2023,1.59
+Odisha,Ganjam,7/2/2023,2023,2.51,,,,,7/2/2023,8.57
+Odisha,Ganjam,7/3/2023,2023,5.06,,,,,7/3/2023,0.14
+Odisha,Jagatsinghapur,7/1/2023,2023,0,,,,,Khargone,13.29
+Odisha,Jagatsinghapur,7/2/2023,2023,10.65,,,,,7/1/2023,6.31
+Odisha,Jagatsinghapur,7/3/2023,2023,0,,,,,7/2/2023,6.09
+Odisha,Jajapur,7/1/2023,2023,2.58,,,,,7/3/2023,0.89
+Odisha,Jajapur,7/2/2023,2023,0.77,,,,,Mandla,8.67
+Odisha,Jajapur,7/3/2023,2023,0.69,,,,,7/1/2023,5.47
+Odisha,Jharsuguda,7/1/2023,2023,0.17,,,,,7/2/2023,3
+Odisha,Jharsuguda,7/2/2023,2023,0,,,,,7/3/2023,0.2
+Odisha,Kalahandi,7/1/2023,2023,0.25,,,,,Mandsaur,51.69
+Odisha,Kalahandi,7/2/2023,2023,0.14,,,,,7/1/2023,18.04
+Odisha,Kalahandi,7/3/2023,2023,0.01,,,,,7/2/2023,25.25
+Odisha,Kandhamal,7/1/2023,2023,1.02,,,,,7/3/2023,8.4
+Odisha,Kandhamal,7/2/2023,2023,0.5,,,,,Morena,16.44
+Odisha,Kandhamal,7/3/2023,2023,0.33,,,,,7/1/2023,10.89
+Odisha,Kendrapara,7/1/2023,2023,0.2,,,,,7/2/2023,5.25
+Odisha,Kendrapara,7/2/2023,2023,6.74,,,,,7/3/2023,0.3
+Odisha,Kendrapara,7/3/2023,2023,0.53,,,,,Narsinghpur,7.07
+Odisha,Kendujhar,7/1/2023,2023,0.81,,,,,7/1/2023,4.78
+Odisha,Kendujhar,7/2/2023,2023,1.31,,,,,7/2/2023,2.29
+Odisha,Kendujhar,7/3/2023,2023,0.31,,,,,7/3/2023,0
+Odisha,Khordha,7/1/2023,2023,4.14,,,,,Neemuch,68.22
+Odisha,Khordha,7/2/2023,2023,2.37,,,,,7/1/2023,45.07
+Odisha,Khordha,7/3/2023,2023,0.31,,,,,7/2/2023,11.66
+Odisha,Koraput,7/1/2023,2023,0.14,,,,,7/3/2023,11.49
+Odisha,Koraput,7/2/2023,2023,2.32,,,,,Niwari,11.58
+Odisha,Koraput,7/3/2023,2023,0.67,,,,,7/1/2023,5.98
+Odisha,Malkangiri,7/1/2023,2023,0.23,,,,,7/2/2023,5.47
+Odisha,Malkangiri,7/2/2023,2023,0.75,,,,,7/3/2023,0.13
+Odisha,Malkangiri,7/3/2023,2023,3.62,,,,,Panna,13.02
+Odisha,Mayurbhanj,7/1/2023,2023,4.08,,,,,7/1/2023,2.25
+Odisha,Mayurbhanj,7/2/2023,2023,5.62,,,,,7/2/2023,9.39
+Odisha,Mayurbhanj,7/3/2023,2023,1.5,,,,,7/3/2023,1.38
+Odisha,Nabarangpur,7/1/2023,2023,0.01,,,,,Raisen,16.2
+Odisha,Nabarangpur,7/2/2023,2023,0,,,,,7/1/2023,6.82
+Odisha,Nabarangpur,7/3/2023,2023,0.01,,,,,7/2/2023,6.7
+Odisha,Nayagarh,7/1/2023,2023,26.39,,,,,7/3/2023,2.68
+Odisha,Nayagarh,7/2/2023,2023,11.84,,,,,Rajgarh,38.14
+Odisha,Nayagarh,7/3/2023,2023,2.11,,,,,7/1/2023,13.02
+Odisha,Nuapada,7/1/2023,2023,0.03,,,,,7/2/2023,17.27
+Odisha,Nuapada,7/2/2023,2023,0,,,,,7/3/2023,7.85
+Odisha,Nuapada,7/3/2023,2023,0,,,,,Ratlam,43.7
+Odisha,Puri,7/1/2023,2023,0.09,,,,,7/1/2023,17.82
+Odisha,Puri,7/2/2023,2023,0.29,,,,,7/2/2023,15.06
+Odisha,Puri,7/3/2023,2023,0.04,,,,,7/3/2023,10.82
+Odisha,Rayagada,7/1/2023,2023,0.02,,,,,Rewa,11.53
+Odisha,Rayagada,7/2/2023,2023,0.09,,,,,7/1/2023,6.37
+Odisha,Rayagada,7/3/2023,2023,4.55,,,,,7/2/2023,4.84
+Odisha,Sambalpur,7/1/2023,2023,0.41,,,,,7/3/2023,0.32
+Odisha,Sambalpur,7/2/2023,2023,0.48,,,,,Sagar,8.28
+Odisha,Sambalpur,7/3/2023,2023,0,,,,,7/1/2023,3.32
+Odisha,Sonepur,7/1/2023,2023,0.07,,,,,7/2/2023,4.7
+Odisha,Sonepur,7/2/2023,2023,0.1,,,,,7/3/2023,0.26
+Odisha,Sonepur,7/3/2023,2023,0.01,,,,,Satna,11.98
+Odisha,Sundargarh,7/1/2023,2023,0.47,,,,,7/1/2023,1.67
+Odisha,Sundargarh,7/2/2023,2023,1.89,,,,,7/2/2023,5.04
+Odisha,Sundargarh,7/3/2023,2023,0,,,,,7/3/2023,5.27
+Puducherry,Karaikal,7/1/2023,2023,0.05,,,,,Sehore,19.65
+Puducherry,Mahe,7/1/2023,2023,15.5,,,,,7/1/2023,11.73
+Puducherry,Mahe,7/2/2023,2023,2,,,,,7/2/2023,7.8
+Puducherry,Mahe,7/3/2023,2023,18,,,,,7/3/2023,0.12
+Puducherry,Pondicherry,7/1/2023,2023,0.29,,,,,Seoni,9.31
+Puducherry,Pondicherry,7/2/2023,2023,16.13,,,,,7/1/2023,4.4
+Puducherry,Pondicherry,7/3/2023,2023,0.17,,,,,7/2/2023,4.69
+Punjab,Amritsar,7/1/2023,2023,13.39,,,,,7/3/2023,0.22
+Punjab,Amritsar,7/2/2023,2023,0.1,,,,,Shahdol,11.48
+Punjab,Amritsar,7/3/2023,2023,0,,,,,7/1/2023,6.78
+Punjab,Barnala,7/1/2023,2023,17.1,,,,,7/2/2023,2.12
+Punjab,Barnala,7/2/2023,2023,2.09,,,,,7/3/2023,2.58
+Punjab,Bathinda,7/1/2023,2023,8.22,,,,,Shajapur,40.89
+Punjab,Bathinda,7/2/2023,2023,4.03,,,,,7/1/2023,8.13
+Punjab,Faridkot,7/1/2023,2023,2.93,,,,,7/2/2023,25
+Punjab,Faridkot,7/2/2023,2023,2,,,,,7/3/2023,7.76
+Punjab,Fatehgarh Sahib,7/1/2023,2023,9.38,,,,,Sheopur,44.67
+Punjab,Fatehgarh Sahib,7/2/2023,2023,21.35,,,,,7/1/2023,34.66
+Punjab,Fatehgarh Sahib,7/3/2023,2023,0.02,,,,,7/2/2023,7.8
+Punjab,Fazilka,7/1/2023,2023,2.28,,,,,7/3/2023,2.21
+Punjab,Fazilka,7/2/2023,2023,10.41,,,,,Shivpuri,26.14
+Punjab,Firozepur,7/1/2023,2023,3.24,,,,,7/1/2023,6.57
+Punjab,Firozepur,7/2/2023,2023,3.75,,,,,7/2/2023,19.05
+Punjab,Firozepur,7/3/2023,2023,0,,,,,7/3/2023,0.52
+Punjab,Gurdaspur,7/1/2023,2023,3.27,,,,,Sidhi,9.63
+Punjab,Gurdaspur,7/2/2023,2023,0.24,,,,,7/1/2023,4.14
+Punjab,Gurdaspur,7/3/2023,2023,0.6,,,,,7/2/2023,5.13
+Punjab,Hoshiarpur,7/1/2023,2023,1.93,,,,,7/3/2023,0.36
+Punjab,Hoshiarpur,7/2/2023,2023,0.04,,,,,Singrauli,10.58
+Punjab,Hoshiarpur,7/3/2023,2023,0.06,,,,,7/1/2023,2.29
+Punjab,Jalandhar,7/1/2023,2023,1.94,,,,,7/2/2023,6.49
+Punjab,Jalandhar,7/2/2023,2023,0.17,,,,,7/3/2023,1.8
+Punjab,Jalandhar,7/3/2023,2023,0.04,,,,,Tikamgarh,21.08
+Punjab,Kapurthala,7/1/2023,2023,0.55,,,,,7/1/2023,6.07
+Punjab,Kapurthala,7/2/2023,2023,0.05,,,,,7/2/2023,14
+Punjab,Kapurthala,7/3/2023,2023,0.14,,,,,7/3/2023,1.01
+Punjab,Ludhiana,7/1/2023,2023,1.93,,,,,Ujjain,33.49
+Punjab,Ludhiana,7/2/2023,2023,6.77,,,,,7/1/2023,3.09
+Punjab,Ludhiana,7/3/2023,2023,0,,,,,7/2/2023,26.37
+Punjab,Mansa,7/1/2023,2023,4.75,,,,,7/3/2023,4.03
+Punjab,Mansa,7/2/2023,2023,0.59,,,,,Umaria,18.03
+Punjab,Mansa,7/3/2023,2023,0,,,,,7/1/2023,9.12
+Punjab,Moga,7/1/2023,2023,5.16,,,,,7/2/2023,8.47
+Punjab,Moga,7/2/2023,2023,1.45,,,,,7/3/2023,0.44
+Punjab,Moga,7/3/2023,2023,0,,,,,Vidisha,15.38
+Punjab,Pathankot,7/1/2023,2023,1.51,,,,,7/1/2023,11.62
+Punjab,Pathankot,7/2/2023,2023,0,,,,,7/2/2023,2.74
+Punjab,Pathankot,7/3/2023,2023,7.63,,,,,7/3/2023,1.02
+Punjab,Patiala,7/1/2023,2023,11.85,,,,,Maharashtra,1583.35
+Punjab,Patiala,7/2/2023,2023,0.62,,,,,Ahmednagar,14.63
+Punjab,Patiala,7/3/2023,2023,0.02,,,,,7/1/2023,6.3
+Punjab,Rupnagar,7/1/2023,2023,1.86,,,,,7/2/2023,1.84
+Punjab,Rupnagar,7/2/2023,2023,12.38,,,,,7/3/2023,6.49
+Punjab,Rupnagar,7/3/2023,2023,1.92,,,,,Akola,2.43
+Punjab,S.A.S Nagar,7/1/2023,2023,8.17,,,,,7/1/2023,0.79
+Punjab,S.A.S Nagar,7/2/2023,2023,9.61,,,,,7/2/2023,1.28
+Punjab,S.A.S Nagar,7/3/2023,2023,0.83,,,,,7/3/2023,0.36
+Punjab,Sangrur,7/1/2023,2023,9.33,,,,,Amravati,3.61
+Punjab,Sangrur,7/2/2023,2023,0.66,,,,,7/1/2023,2.03
+Punjab,Sangrur,7/3/2023,2023,0,,,,,7/2/2023,0.89
+Punjab,Shahid Bhagat Singh Nagar,7/1/2023,2023,2.5,,,,,7/3/2023,0.69
+Punjab,Shahid Bhagat Singh Nagar,7/2/2023,2023,2.82,,,,,Aurangabad,14.12
+Punjab,Shahid Bhagat Singh Nagar,7/3/2023,2023,0.08,,,,,7/1/2023,0.52
+Punjab,Sri Muktsar Sahib,7/1/2023,2023,1.22,,,,,7/2/2023,1.05
+Punjab,Sri Muktsar Sahib,7/2/2023,2023,3.63,,,,,7/3/2023,12.55
+Punjab,Tarn Taran,7/1/2023,2023,0.14,,,,,Beed,15.98
+Punjab,Tarn Taran,7/2/2023,2023,0.06,,,,,7/1/2023,4.96
+Punjab,Tarn Taran,7/3/2023,2023,0.01,,,,,7/2/2023,0.06
+Rajasthan,Ajmer,7/1/2023,2023,3.24,,,,,7/3/2023,10.96
+Rajasthan,Ajmer,7/2/2023,2023,3.99,,,,,Bhandara,0.38
+Rajasthan,Ajmer,7/3/2023,2023,2.51,,,,,7/1/2023,0.01
+Rajasthan,Alwar,7/1/2023,2023,2.99,,,,,7/2/2023,0.33
+Rajasthan,Alwar,7/2/2023,2023,0.8,,,,,7/3/2023,0.04
+Rajasthan,Alwar,7/3/2023,2023,0.21,,,,,Buldhana,3.09
+Rajasthan,Banswara,7/1/2023,2023,2.37,,,,,7/1/2023,0.48
+Rajasthan,Banswara,7/2/2023,2023,14.76,,,,,7/2/2023,1.62
+Rajasthan,Banswara,7/3/2023,2023,2.57,,,,,7/3/2023,0.99
+Rajasthan,Baran,7/1/2023,2023,6.73,,,,,Chandrapur,1.29
+Rajasthan,Baran,7/2/2023,2023,16.18,,,,,7/1/2023,1.22
+Rajasthan,Baran,7/3/2023,2023,4.8,,,,,7/2/2023,0.05
+Rajasthan,Barmer,7/1/2023,2023,1.01,,,,,7/3/2023,0.02
+Rajasthan,Barmer,7/2/2023,2023,0.13,,,,,Dhule,16.09
+Rajasthan,Bharatpur,7/1/2023,2023,1.62,,,,,7/1/2023,11.68
+Rajasthan,Bharatpur,7/2/2023,2023,0.37,,,,,7/2/2023,3.36
+Rajasthan,Bharatpur,7/3/2023,2023,1.59,,,,,7/3/2023,1.05
+Rajasthan,Bhilwara,7/1/2023,2023,8.97,,,,,Gadchiroli,0.49
+Rajasthan,Bhilwara,7/2/2023,2023,0.67,,,,,7/1/2023,0.44
+Rajasthan,Bhilwara,7/3/2023,2023,0.6,,,,,7/2/2023,0.04
+Rajasthan,Bikaner,7/1/2023,2023,18.75,,,,,7/3/2023,0.01
+Rajasthan,Bikaner,7/2/2023,2023,10.12,,,,,Gondia,0.97
+Rajasthan,Bikaner,7/3/2023,2023,1.32,,,,,7/1/2023,0.42
+Rajasthan,Bundi,7/1/2023,2023,18.11,,,,,7/2/2023,0.04
+Rajasthan,Bundi,7/2/2023,2023,3.28,,,,,7/3/2023,0.51
+Rajasthan,Bundi,7/3/2023,2023,0,,,,,Hingoli,3.5
+Rajasthan,Chittorgarh,7/1/2023,2023,21.78,,,,,7/1/2023,0.96
+Rajasthan,Chittorgarh,7/2/2023,2023,4.66,,,,,7/2/2023,0.21
+Rajasthan,Chittorgarh,7/3/2023,2023,3.95,,,,,7/3/2023,2.33
+Rajasthan,Churu,7/1/2023,2023,10.47,,,,,Jalgaon,12.18
+Rajasthan,Churu,7/2/2023,2023,6.3,,,,,7/1/2023,1.22
+Rajasthan,Churu,7/3/2023,2023,2.27,,,,,7/2/2023,2.23
+Rajasthan,Dausa,7/1/2023,2023,14.74,,,,,7/3/2023,8.73
+Rajasthan,Dausa,7/2/2023,2023,5.7,,,,,Jalna,4.25
+Rajasthan,Dausa,7/3/2023,2023,0.1,,,,,7/1/2023,0.09
+Rajasthan,Dholpur,7/1/2023,2023,31.04,,,,,7/2/2023,0.22
+Rajasthan,Dholpur,7/2/2023,2023,0.81,,,,,7/3/2023,3.94
+Rajasthan,Dholpur,7/3/2023,2023,1.26,,,,,Kolhapur,57.98
+Rajasthan,Dungarpur,7/1/2023,2023,0.38,,,,,7/1/2023,20.95
+Rajasthan,Dungarpur,7/2/2023,2023,10.85,,,,,7/2/2023,19.68
+Rajasthan,Dungarpur,7/3/2023,2023,0.22,,,,,7/3/2023,17.35
+Rajasthan,Ganganagar,7/1/2023,2023,4.06,,,,,Latur,17.27
+Rajasthan,Ganganagar,7/2/2023,2023,23.4,,,,,7/1/2023,0.09
+Rajasthan,Ganganagar,7/3/2023,2023,0.01,,,,,7/2/2023,0.09
+Rajasthan,Hanumangarh,7/1/2023,2023,0.06,,,,,7/3/2023,17.09
+Rajasthan,Hanumangarh,7/2/2023,2023,4.19,,,,,Mumbai City,85.74
+Rajasthan,Hanumangarh,7/3/2023,2023,0.02,,,,,7/1/2023,56.62
+Rajasthan,Jaipur,7/1/2023,2023,15.16,,,,,7/2/2023,8.95
+Rajasthan,Jaipur,7/2/2023,2023,11.62,,,,,7/3/2023,20.17
+Rajasthan,Jaipur,7/3/2023,2023,2.87,,,,,Mumbai Suburban,182.61
+Rajasthan,Jaisalmer,7/1/2023,2023,12.6,,,,,7/1/2023,93.49
+Rajasthan,Jaisalmer,7/2/2023,2023,0.15,,,,,7/2/2023,51.15
+Rajasthan,Jalore,7/1/2023,2023,2.49,,,,,7/3/2023,37.97
+Rajasthan,Jalore,7/2/2023,2023,0.75,,,,,Nagpur,3.02
+Rajasthan,Jalore,7/3/2023,2023,0.01,,,,,7/1/2023,1.57
+Rajasthan,Jhalawar,7/1/2023,2023,11.59,,,,,7/2/2023,0.7
+Rajasthan,Jhalawar,7/2/2023,2023,25.77,,,,,7/3/2023,0.75
+Rajasthan,Jhalawar,7/3/2023,2023,9.27,,,,,Nanded,4.77
+Rajasthan,Jhunjhunu,7/1/2023,2023,2.37,,,,,7/1/2023,0.68
+Rajasthan,Jhunjhunu,7/2/2023,2023,3.89,,,,,7/2/2023,0.02
+Rajasthan,Jhunjhunu,7/3/2023,2023,0.7,,,,,7/3/2023,4.07
+Rajasthan,Jodhpur,7/1/2023,2023,10.53,,,,,Nandurbar,31.32
+Rajasthan,Jodhpur,7/2/2023,2023,0.74,,,,,7/1/2023,12.8
+Rajasthan,Jodhpur,7/3/2023,2023,0.38,,,,,7/2/2023,13.78
+Rajasthan,Karauli,7/1/2023,2023,14.03,,,,,7/3/2023,4.74
+Rajasthan,Karauli,7/2/2023,2023,1.99,,,,,Nashik,70.4
+Rajasthan,Karauli,7/3/2023,2023,0.39,,,,,7/1/2023,38.79
+Rajasthan,Kota,7/1/2023,2023,21.19,,,,,7/2/2023,25.77
+Rajasthan,Kota,7/2/2023,2023,12.03,,,,,7/3/2023,5.84
+Rajasthan,Kota,7/3/2023,2023,1.66,,,,,Osmanabad,32.07
+Rajasthan,Nagaur,7/1/2023,2023,5.77,,,,,7/1/2023,1.92
+Rajasthan,Nagaur,7/2/2023,2023,3.46,,,,,7/2/2023,0.29
+Rajasthan,Nagaur,7/3/2023,2023,5.22,,,,,7/3/2023,29.86
+Rajasthan,Pali,7/1/2023,2023,0.22,,,,,Palghar,200.81
+Rajasthan,Pali,7/2/2023,2023,0.81,,,,,7/1/2023,88.16
+Rajasthan,Pali,7/3/2023,2023,0.24,,,,,7/2/2023,81
+Rajasthan,Pratapgarh,7/1/2023,2023,18.4,,,,,7/3/2023,31.65
+Rajasthan,Pratapgarh,7/2/2023,2023,24.42,,,,,Parbhani,6.41
+Rajasthan,Pratapgarh,7/3/2023,2023,2.91,,,,,7/1/2023,1.07
+Rajasthan,Rajsamand,7/1/2023,2023,0.09,,,,,7/2/2023,0.18
+Rajasthan,Rajsamand,7/2/2023,2023,0.3,,,,,7/3/2023,5.16
+Rajasthan,Rajsamand,7/3/2023,2023,1.52,,,,,Pune,44.27
+Rajasthan,Sawai Madhopur,7/1/2023,2023,35.3,,,,,7/1/2023,24.28
+Rajasthan,Sawai Madhopur,7/2/2023,2023,2.57,,,,,7/2/2023,10.85
+Rajasthan,Sawai Madhopur,7/3/2023,2023,0.25,,,,,7/3/2023,9.14
+Rajasthan,Sikar,7/1/2023,2023,16.9,,,,,Raigad,199.32
+Rajasthan,Sikar,7/2/2023,2023,4.58,,,,,7/1/2023,98.13
+Rajasthan,Sikar,7/3/2023,2023,4.2,,,,,7/2/2023,58.84
+Rajasthan,Sirohi,7/1/2023,2023,20,,,,,7/3/2023,42.35
+Rajasthan,Sirohi,7/2/2023,2023,19.87,,,,,Ratnagiri,150.71
+Rajasthan,Sirohi,7/3/2023,2023,0.09,,,,,7/1/2023,78.21
+Rajasthan,Tonk,7/1/2023,2023,26.71,,,,,7/2/2023,40.11
+Rajasthan,Tonk,7/2/2023,2023,12.08,,,,,7/3/2023,32.39
+Rajasthan,Tonk,7/3/2023,2023,6.78,,,,,Sangli,6.98
+Rajasthan,Udaipur,7/1/2023,2023,1.02,,,,,7/1/2023,3.95
+Rajasthan,Udaipur,7/2/2023,2023,23.1,,,,,7/2/2023,1.26
+Rajasthan,Udaipur,7/3/2023,2023,1.77,,,,,7/3/2023,1.77
+Sikkim,East District,7/1/2023,2023,6.95,,,,,Satara,36.56
+Sikkim,East District,7/2/2023,2023,20.61,,,,,7/1/2023,23.01
+Sikkim,East District,7/3/2023,2023,1.2,,,,,7/2/2023,9.46
+Sikkim,North District,7/1/2023,2023,2.41,,,,,7/3/2023,4.09
+Sikkim,North District,7/2/2023,2023,7.86,,,,,Sindhudurg,149.72
+Sikkim,North District,7/3/2023,2023,2.15,,,,,7/1/2023,43.79
+Sikkim,South District,7/1/2023,2023,2.83,,,,,7/2/2023,44.53
+Sikkim,South District,7/2/2023,2023,7.68,,,,,7/3/2023,61.4
+Sikkim,South District,7/3/2023,2023,7.13,,,,,Solapur,15.38
+Sikkim,West District,7/1/2023,2023,4.34,,,,,7/1/2023,2.68
+Sikkim,West District,7/2/2023,2023,5.72,,,,,7/2/2023,0.56
+Sikkim,West District,7/3/2023,2023,8.48,,,,,7/3/2023,12.14
+Tamil Nadu,Ariyalur,7/1/2023,2023,1.42,,,,,Thane,187.06
+Tamil Nadu,Ariyalur,7/2/2023,2023,1.49,,,,,7/1/2023,92.32
+Tamil Nadu,Ariyalur,7/3/2023,2023,0.67,,,,,7/2/2023,51.77
+Tamil Nadu,Chengalpattu,7/1/2023,2023,0.06,,,,,7/3/2023,42.97
+Tamil Nadu,Chengalpattu,7/2/2023,2023,3.09,,,,,Wardha,2.35
+Tamil Nadu,Chengalpattu,7/3/2023,2023,10.8,,,,,7/1/2023,2.22
+Tamil Nadu,Chennai,7/2/2023,2023,0.16,,,,,7/2/2023,0.08
+Tamil Nadu,Chennai,7/3/2023,2023,0.64,,,,,7/3/2023,0.05
+Tamil Nadu,Coimbatore,7/1/2023,2023,0.49,,,,,Washim,3.35
+Tamil Nadu,Coimbatore,7/2/2023,2023,1.26,,,,,7/1/2023,0.65
+Tamil Nadu,Coimbatore,7/3/2023,2023,4.63,,,,,7/2/2023,1.16
+Tamil Nadu,Cuddalore,7/1/2023,2023,12.52,,,,,7/3/2023,1.54
+Tamil Nadu,Cuddalore,7/2/2023,2023,6.3,,,,,Yavatmal,2.24
+Tamil Nadu,Cuddalore,7/3/2023,2023,3.9,,,,,7/1/2023,1.44
+Tamil Nadu,Dharmapuri,7/1/2023,2023,0.01,,,,,7/2/2023,0.15
+Tamil Nadu,Dharmapuri,7/2/2023,2023,0.43,,,,,7/3/2023,0.65
+Tamil Nadu,Dharmapuri,7/3/2023,2023,0.22,,,,,Manipur,207.34
+Tamil Nadu,Dindigul,7/1/2023,2023,0.14,,,,,Bishnupur,50.2
+Tamil Nadu,Dindigul,7/2/2023,2023,0.2,,,,,7/1/2023,0.8
+Tamil Nadu,Dindigul,7/3/2023,2023,0.77,,,,,7/2/2023,1.95
+Tamil Nadu,Erode,7/1/2023,2023,0.09,,,,,7/3/2023,47.45
+Tamil Nadu,Erode,7/2/2023,2023,0.28,,,,,Chandel,4.9
+Tamil Nadu,Erode,7/3/2023,2023,1.18,,,,,7/1/2023,0.12
+Tamil Nadu,Kallakurichi,7/1/2023,2023,7.82,,,,,7/2/2023,1.59
+Tamil Nadu,Kallakurichi,7/2/2023,2023,1.77,,,,,7/3/2023,3.19
+Tamil Nadu,Kallakurichi,7/3/2023,2023,1.92,,,,,Churachandpur,7.93
+Tamil Nadu,Kanchipuram,7/1/2023,2023,0.66,,,,,7/1/2023,0.2
+Tamil Nadu,Kanchipuram,7/2/2023,2023,5.98,,,,,7/2/2023,0.6
+Tamil Nadu,Kanchipuram,7/3/2023,2023,17.15,,,,,7/3/2023,7.13
+Tamil Nadu,Kanniyakumari,7/1/2023,2023,0,,,,,Imphal East,4.62
+Tamil Nadu,Kanniyakumari,7/2/2023,2023,0.09,,,,,7/1/2023,1.53
+Tamil Nadu,Kanniyakumari,7/3/2023,2023,0.73,,,,,7/2/2023,0.02
+Tamil Nadu,Karur,7/1/2023,2023,0,,,,,7/3/2023,3.07
+Tamil Nadu,Karur,7/2/2023,2023,0.02,,,,,Imphal West,30.32
+Tamil Nadu,Karur,7/3/2023,2023,1.21,,,,,7/1/2023,1.12
+Tamil Nadu,Krishnagiri,7/1/2023,2023,0,,,,,7/2/2023,1.96
+Tamil Nadu,Krishnagiri,7/2/2023,2023,0.28,,,,,7/3/2023,27.24
+Tamil Nadu,Krishnagiri,7/3/2023,2023,0.4,,,,,Jiribam,5.12
+Tamil Nadu,Madurai,7/1/2023,2023,0,,,,,7/1/2023,1.18
+Tamil Nadu,Madurai,7/2/2023,2023,0.34,,,,,7/2/2023,1.96
+Tamil Nadu,Madurai,7/3/2023,2023,2.06,,,,,7/3/2023,1.98
+Tamil Nadu,Nagapattinam,7/1/2023,2023,0.22,,,,,Kakching,14.24
+Tamil Nadu,Nagapattinam,7/2/2023,2023,1.89,,,,,7/1/2023,0.15
+Tamil Nadu,Nagapattinam,7/3/2023,2023,0.37,,,,,7/2/2023,1.16
+Tamil Nadu,Namakkal,7/1/2023,2023,0.07,,,,,7/3/2023,12.93
+Tamil Nadu,Namakkal,7/2/2023,2023,0.02,,,,,Kamjong,1.02
+Tamil Nadu,Namakkal,7/3/2023,2023,0.12,,,,,7/1/2023,0.25
+Tamil Nadu,Perambalur,7/1/2023,2023,0.09,,,,,7/2/2023,0.04
+Tamil Nadu,Perambalur,7/2/2023,2023,0.19,,,,,7/3/2023,0.73
+Tamil Nadu,Perambalur,7/3/2023,2023,0.06,,,,,Kangpokpi,32
+Tamil Nadu,Pudukkottai,7/1/2023,2023,0.15,,,,,7/1/2023,20.49
+Tamil Nadu,Pudukkottai,7/2/2023,2023,0.03,,,,,7/2/2023,0.69
+Tamil Nadu,Pudukkottai,7/3/2023,2023,5.41,,,,,7/3/2023,10.82
+Tamil Nadu,Ramanathapuram,7/1/2023,2023,0.05,,,,,Noney,8.48
+Tamil Nadu,Ramanathapuram,7/2/2023,2023,0.15,,,,,7/1/2023,0.34
+Tamil Nadu,Ramanathapuram,7/3/2023,2023,0.16,,,,,7/2/2023,0.84
+Tamil Nadu,Ranipet,7/1/2023,2023,0.49,,,,,7/3/2023,7.3
+Tamil Nadu,Ranipet,7/2/2023,2023,4.66,,,,,Pherzawl,4.52
+Tamil Nadu,Ranipet,7/3/2023,2023,3.56,,,,,7/1/2023,0.52
+Tamil Nadu,Salem,7/1/2023,2023,0.29,,,,,7/2/2023,0.7
+Tamil Nadu,Salem,7/2/2023,2023,0.26,,,,,7/3/2023,3.3
+Tamil Nadu,Salem,7/3/2023,2023,0.22,,,,,Senapati,18.79
+Tamil Nadu,Sivaganga,7/1/2023,2023,0.01,,,,,7/1/2023,15.55
+Tamil Nadu,Sivaganga,7/2/2023,2023,2.85,,,,,7/2/2023,0.91
+Tamil Nadu,Sivaganga,7/3/2023,2023,2.84,,,,,7/3/2023,2.33
+Tamil Nadu,Tenkasi,7/1/2023,2023,0,,,,,Tamenglong,16.78
+Tamil Nadu,Tenkasi,7/2/2023,2023,0.29,,,,,7/1/2023,4.16
+Tamil Nadu,Tenkasi,7/3/2023,2023,2,,,,,7/2/2023,8.6
+Tamil Nadu,Thanjavur,7/1/2023,2023,0.47,,,,,7/3/2023,4.02
+Tamil Nadu,Thanjavur,7/2/2023,2023,0.28,,,,,Tengnoupal,1.53
+Tamil Nadu,Thanjavur,7/3/2023,2023,2.07,,,,,7/1/2023,0.06
+Tamil Nadu,The Nilgiris,7/1/2023,2023,1.53,,,,,7/2/2023,0.09
+Tamil Nadu,The Nilgiris,7/2/2023,2023,5.9,,,,,7/3/2023,1.38
+Tamil Nadu,The Nilgiris,7/3/2023,2023,5.36,,,,,Thoubal,4.28
+Tamil Nadu,Theni,7/1/2023,2023,0.13,,,,,7/1/2023,0.99
+Tamil Nadu,Theni,7/2/2023,2023,0.41,,,,,7/2/2023,0.41
+Tamil Nadu,Theni,7/3/2023,2023,4.31,,,,,7/3/2023,2.88
+Tamil Nadu,Thiruvallur,7/1/2023,2023,1.93,,,,,Ukhrul,2.61
+Tamil Nadu,Thiruvallur,7/2/2023,2023,1.17,,,,,7/1/2023,0.89
+Tamil Nadu,Thiruvallur,7/3/2023,2023,3.11,,,,,7/2/2023,0.42
+Tamil Nadu,Thiruvarur,7/1/2023,2023,0.02,,,,,7/3/2023,1.3
+Tamil Nadu,Thiruvarur,7/2/2023,2023,0.11,,,,,Meghalaya,1093.83
+Tamil Nadu,Thiruvarur,7/3/2023,2023,0.67,,,,,East Garo Hills,88.16
+Tamil Nadu,Tiruchirappalli,7/1/2023,2023,0,,,,,7/1/2023,23.66
+Tamil Nadu,Tiruchirappalli,7/2/2023,2023,0.01,,,,,7/2/2023,56.95
+Tamil Nadu,Tiruchirappalli,7/3/2023,2023,1.47,,,,,7/3/2023,7.55
+Tamil Nadu,Tirunelveli,7/1/2023,2023,0,,,,,East Jaintia Hills,44.13
+Tamil Nadu,Tirunelveli,7/2/2023,2023,0.48,,,,,7/1/2023,7.66
+Tamil Nadu,Tirunelveli,7/3/2023,2023,0.45,,,,,7/2/2023,18.07
+Tamil Nadu,Tirupathur,7/1/2023,2023,0,,,,,7/3/2023,18.4
+Tamil Nadu,Tirupathur,7/2/2023,2023,3.16,,,,,East Khasi Hills,312.15
+Tamil Nadu,Tirupathur,7/3/2023,2023,0.59,,,,,7/1/2023,79.22
+Tamil Nadu,Tiruppur,7/1/2023,2023,0.2,,,,,7/2/2023,107.71
+Tamil Nadu,Tiruppur,7/2/2023,2023,0.92,,,,,7/3/2023,125.22
+Tamil Nadu,Tiruppur,7/3/2023,2023,1.43,,,,,North Garo Hills,44.31
+Tamil Nadu,Tiruvannamalai,7/1/2023,2023,0.01,,,,,7/1/2023,19.61
+Tamil Nadu,Tiruvannamalai,7/2/2023,2023,3.15,,,,,7/2/2023,19.63
+Tamil Nadu,Tiruvannamalai,7/3/2023,2023,2.77,,,,,7/3/2023,5.07
+Tamil Nadu,Tuticorin,7/1/2023,2023,0.01,,,,,Ri Bhoi,68.05
+Tamil Nadu,Tuticorin,7/2/2023,2023,0.02,,,,,7/1/2023,10.27
+Tamil Nadu,Tuticorin,7/3/2023,2023,0.21,,,,,7/2/2023,40.46
+Tamil Nadu,Vellore,7/1/2023,2023,0,,,,,7/3/2023,17.32
+Tamil Nadu,Vellore,7/2/2023,2023,1.85,,,,,South Garo Hills,120.35
+Tamil Nadu,Vellore,7/3/2023,2023,4.81,,,,,7/1/2023,37.69
+Tamil Nadu,Villupuram,7/1/2023,2023,0.55,,,,,7/2/2023,50.25
+Tamil Nadu,Villupuram,7/2/2023,2023,7.98,,,,,7/3/2023,32.41
+Tamil Nadu,Villupuram,7/3/2023,2023,1.8,,,,,South West Garo Hills,15.4
+Tamil Nadu,Virudhunagar,7/1/2023,2023,0.01,,,,,7/1/2023,5.18
+Tamil Nadu,Virudhunagar,7/2/2023,2023,0.47,,,,,7/2/2023,4.46
+Tamil Nadu,Virudhunagar,7/3/2023,2023,0.6,,,,,7/3/2023,5.76
+Telangana,Adilabad,7/1/2023,2023,0.55,,,,,South West Khasi Hills,196.3
+Telangana,Adilabad,7/2/2023,2023,0,,,,,7/1/2023,57.58
+Telangana,Adilabad,7/3/2023,2023,0.84,,,,,7/2/2023,55.1
+Telangana,Bhadradri Kothagudem,7/1/2023,2023,0,,,,,7/3/2023,83.62
+Telangana,Bhadradri Kothagudem,7/2/2023,2023,0.14,,,,,West Garo Hills,45.45
+Telangana,Bhadradri Kothagudem,7/3/2023,2023,0.33,,,,,7/1/2023,23.73
+Telangana,Hyderabad,7/2/2023,2023,1.64,,,,,7/2/2023,14.37
+Telangana,Hyderabad,7/3/2023,2023,7.78,,,,,7/3/2023,7.35
+Telangana,Jagitial,7/1/2023,2023,0.02,,,,,West Jaintia Hills,77.99
+Telangana,Jagitial,7/2/2023,2023,0.01,,,,,7/1/2023,7.98
+Telangana,Jagitial,7/3/2023,2023,1.25,,,,,7/2/2023,41.48
+Telangana,Jangoan,7/1/2023,2023,0,,,,,7/3/2023,28.53
+Telangana,Jangoan,7/2/2023,2023,1.62,,,,,West Khasi Hills,81.54
+Telangana,Jangoan,7/3/2023,2023,0.05,,,,,7/1/2023,19.37
+Telangana,Jayashankar Bhupalapally,7/2/2023,2023,0.19,,,,,7/2/2023,35.4
+Telangana,Jayashankar Bhupalapally,7/3/2023,2023,0.06,,,,,7/3/2023,26.77
+Telangana,Jogulamba Gadwal,7/1/2023,2023,0,,,,,Mizoram,38.52
+Telangana,Jogulamba Gadwal,7/2/2023,2023,1.84,,,,,Aizawl,4.14
+Telangana,Jogulamba Gadwal,7/3/2023,2023,9.51,,,,,7/1/2023,2.6
+Telangana,Kamareddy,7/1/2023,2023,0.16,,,,,7/2/2023,0.26
+Telangana,Kamareddy,7/2/2023,2023,8.77,,,,,7/3/2023,1.28
+Telangana,Kamareddy,7/3/2023,2023,10.45,,,,,Champhai,5.04
+Telangana,Karimnagar,7/1/2023,2023,0.2,,,,,7/1/2023,1.89
+Telangana,Karimnagar,7/2/2023,2023,0.22,,,,,7/2/2023,0.67
+Telangana,Karimnagar,7/3/2023,2023,0.21,,,,,7/3/2023,2.48
+Telangana,Khammam,7/1/2023,2023,0,,,,,Kolasib,9.59
+Telangana,Khammam,7/2/2023,2023,0.87,,,,,7/1/2023,5.34
+Telangana,Khammam,7/3/2023,2023,1.28,,,,,7/2/2023,2.16
+Telangana,Kumuram Bheem Asifabad,7/1/2023,2023,0.06,,,,,7/3/2023,2.09
+Telangana,Kumuram Bheem Asifabad,7/2/2023,2023,0.14,,,,,Lawngtlai,1.85
+Telangana,Kumuram Bheem Asifabad,7/3/2023,2023,0.3,,,,,7/1/2023,0.91
+Telangana,Mahabubabad,7/1/2023,2023,0,,,,,7/2/2023,0.41
+Telangana,Mahabubabad,7/2/2023,2023,0.04,,,,,7/3/2023,0.53
+Telangana,Mahabubabad,7/3/2023,2023,0.03,,,,,Lunglei,2.5
+Telangana,Mahabubnagar,7/1/2023,2023,0,,,,,7/1/2023,2.13
+Telangana,Mahabubnagar,7/2/2023,2023,2.3,,,,,7/2/2023,0.21
+Telangana,Mahabubnagar,7/3/2023,2023,14.97,,,,,7/3/2023,0.16
+Telangana,Mancherial,7/1/2023,2023,0.02,,,,,Mamit,12.38
+Telangana,Mancherial,7/2/2023,2023,0.09,,,,,7/1/2023,8.64
+Telangana,Mancherial,7/3/2023,2023,0,,,,,7/2/2023,2.82
+Telangana,Medak,7/1/2023,2023,0,,,,,7/3/2023,0.92
+Telangana,Medak,7/2/2023,2023,4.15,,,,,Saiha,1.3
+Telangana,Medak,7/3/2023,2023,5.76,,,,,7/1/2023,0.45
+Telangana,Medchal Malkajgiri,7/2/2023,2023,0.63,,,,,7/2/2023,0.24
+Telangana,Medchal Malkajgiri,7/3/2023,2023,4.82,,,,,7/3/2023,0.61
+Telangana,Mulugu,7/1/2023,2023,0.02,,,,,Serchhip,1.72
+Telangana,Mulugu,7/2/2023,2023,0.08,,,,,7/1/2023,1.63
+Telangana,Mulugu,7/3/2023,2023,0.55,,,,,7/2/2023,0.01
+Telangana,Nagarkurnool,7/1/2023,2023,0,,,,,7/3/2023,0.08
+Telangana,Nagarkurnool,7/2/2023,2023,0.77,,,,,Nagaland,141.91
+Telangana,Nagarkurnool,7/3/2023,2023,1.13,,,,,Mon,28.03
+Telangana,Nalgonda,7/1/2023,2023,0,,,,,7/1/2023,7.88
+Telangana,Nalgonda,7/2/2023,2023,2.35,,,,,7/2/2023,13.75
+Telangana,Nalgonda,7/3/2023,2023,4.16,,,,,7/3/2023,6.4
+Telangana,Narayanpet,7/2/2023,2023,1.93,,,,,Dimapur,2.87
+Telangana,Narayanpet,7/3/2023,2023,6.83,,,,,7/1/2023,0.08
+Telangana,Nirmal,7/1/2023,2023,0.32,,,,,7/2/2023,2
+Telangana,Nirmal,7/2/2023,2023,0,,,,,7/3/2023,0.79
+Telangana,Nirmal,7/3/2023,2023,5.1,,,,,Kiphire,1.09
+Telangana,Nizamabad,7/1/2023,2023,0.19,,,,,7/1/2023,0.39
+Telangana,Nizamabad,7/2/2023,2023,0.4,,,,,7/2/2023,0.09
+Telangana,Nizamabad,7/3/2023,2023,5.95,,,,,7/3/2023,0.61
+Telangana,Peddapalli,7/1/2023,2023,0,,,,,Kohima,4.24
+Telangana,Peddapalli,7/2/2023,2023,0.01,,,,,7/1/2023,0.87
+Telangana,Peddapalli,7/3/2023,2023,0,,,,,7/2/2023,2.2
+Telangana,Rajanna Sircilla,7/1/2023,2023,0.67,,,,,7/3/2023,1.17
+Telangana,Rajanna Sircilla,7/2/2023,2023,3.04,,,,,Longleng,33.48
+Telangana,Rajanna Sircilla,7/3/2023,2023,0.26,,,,,7/1/2023,5.42
+Telangana,Ranga Reddy,7/1/2023,2023,0,,,,,7/2/2023,17.99
+Telangana,Ranga Reddy,7/2/2023,2023,0.87,,,,,7/3/2023,10.07
+Telangana,Ranga Reddy,7/3/2023,2023,5.41,,,,,Mokokchung,20.79
+Telangana,Sangareddy,7/1/2023,2023,0.05,,,,,7/1/2023,3.53
+Telangana,Sangareddy,7/2/2023,2023,3.52,,,,,7/2/2023,4.76
+Telangana,Sangareddy,7/3/2023,2023,10.78,,,,,7/3/2023,12.5
+Telangana,Siddipet,7/1/2023,2023,0.01,,,,,Peren,2.47
+Telangana,Siddipet,7/2/2023,2023,2.69,,,,,7/1/2023,0.22
+Telangana,Siddipet,7/3/2023,2023,0.24,,,,,7/2/2023,1.78
+Telangana,Suryapet,7/1/2023,2023,0.03,,,,,7/3/2023,0.47
+Telangana,Suryapet,7/2/2023,2023,0.49,,,,,Phek,7.53
+Telangana,Suryapet,7/3/2023,2023,0.19,,,,,7/1/2023,3.33
+Telangana,Vikarabad,7/1/2023,2023,0,,,,,7/2/2023,3.15
+Telangana,Vikarabad,7/2/2023,2023,0.72,,,,,7/3/2023,1.05
+Telangana,Vikarabad,7/3/2023,2023,33.74,,,,,Tuensang,4.78
+Telangana,Wanaparthy,7/2/2023,2023,0.54,,,,,7/1/2023,0.46
+Telangana,Wanaparthy,7/3/2023,2023,1.38,,,,,7/2/2023,3.34
+Telangana,Warangal Rural,7/2/2023,2023,0.39,,,,,7/3/2023,0.98
+Telangana,Warangal Rural,7/3/2023,2023,0.05,,,,,Wokha,2.76
+Telangana,Warangal Urban,7/1/2023,2023,0,,,,,7/1/2023,0.04
+Telangana,Warangal Urban,7/2/2023,2023,0.2,,,,,7/2/2023,0.53
+Telangana,Warangal Urban,7/3/2023,2023,0,,,,,7/3/2023,2.19
+Telangana,Yadadri Bhuvanagiri,7/1/2023,2023,0,,,,,Zunheboto,33.87
+Telangana,Yadadri Bhuvanagiri,7/2/2023,2023,3.62,,,,,7/1/2023,16.98
+Telangana,Yadadri Bhuvanagiri,7/3/2023,2023,1.37,,,,,7/2/2023,2.31
+Tripura,Dhalai,7/1/2023,2023,21.46,,,,,7/3/2023,14.58
+Tripura,Dhalai,7/2/2023,2023,17,,,,,Odisha,177.22
+Tripura,Dhalai,7/3/2023,2023,3.56,,,,,Anugul,3.01
+Tripura,Gomati,7/1/2023,2023,44.26,,,,,7/1/2023,1.73
+Tripura,Gomati,7/2/2023,2023,15.77,,,,,7/2/2023,1.15
+Tripura,Gomati,7/3/2023,2023,3.51,,,,,7/3/2023,0.13
+Tripura,Khowai,7/1/2023,2023,21.91,,,,,Balangir,0.18
+Tripura,Khowai,7/2/2023,2023,34.16,,,,,7/1/2023,0.17
+Tripura,Khowai,7/3/2023,2023,7.06,,,,,7/2/2023,0.01
+Tripura,North Tripura,7/1/2023,2023,9.94,,,,,7/3/2023,0
+Tripura,North Tripura,7/2/2023,2023,11.92,,,,,Baleshwar,7.36
+Tripura,North Tripura,7/3/2023,2023,2.5,,,,,7/1/2023,5.92
+Tripura,Sepahijala,7/1/2023,2023,48.68,,,,,7/2/2023,0.14
+Tripura,Sepahijala,7/2/2023,2023,25.8,,,,,7/3/2023,1.3
+Tripura,Sepahijala,7/3/2023,2023,0.03,,,,,Bargarh,0.48
+Tripura,South Tripura,7/1/2023,2023,24.13,,,,,7/1/2023,0.46
+Tripura,South Tripura,7/2/2023,2023,2.78,,,,,7/2/2023,0.02
+Tripura,South Tripura,7/3/2023,2023,0.7,,,,,7/3/2023,0
+Tripura,Unakoti,7/1/2023,2023,21.84,,,,,Bhadrak,7.74
+Tripura,Unakoti,7/2/2023,2023,5.44,,,,,7/1/2023,4.1
+Tripura,Unakoti,7/3/2023,2023,0.74,,,,,7/2/2023,3.33
+Tripura,West Tripura,7/1/2023,2023,26.68,,,,,7/3/2023,0.31
+Tripura,West Tripura,7/2/2023,2023,38.83,,,,,Boudh,1.78
+Tripura,West Tripura,7/3/2023,2023,0.44,,,,,7/1/2023,0.77
+Uttar Pradesh,Agra,7/1/2023,2023,6.23,,,,,7/2/2023,0.89
+Uttar Pradesh,Agra,7/2/2023,2023,0.2,,,,,7/3/2023,0.12
+Uttar Pradesh,Agra,7/3/2023,2023,11.3,,,,,Cuttack,19.32
+Uttar Pradesh,Aligarh,7/1/2023,2023,5.54,,,,,7/1/2023,14.64
+Uttar Pradesh,Aligarh,7/2/2023,2023,0.11,,,,,7/2/2023,3.31
+Uttar Pradesh,Aligarh,7/3/2023,2023,11.01,,,,,7/3/2023,1.37
+Uttar Pradesh,Ambedkar Nagar,7/1/2023,2023,43.13,,,,,Deogarh,0.7
+Uttar Pradesh,Ambedkar Nagar,7/2/2023,2023,70.32,,,,,7/1/2023,0.42
+Uttar Pradesh,Ambedkar Nagar,7/3/2023,2023,21.7,,,,,7/2/2023,0.28
+Uttar Pradesh,Amethi,7/1/2023,2023,36.76,,,,,7/3/2023,0
+Uttar Pradesh,Amethi,7/2/2023,2023,12.89,,,,,Dhenkanal,16.86
+Uttar Pradesh,Amethi,7/3/2023,2023,3.48,,,,,7/1/2023,12.77
+Uttar Pradesh,Amroha,7/1/2023,2023,1.78,,,,,7/2/2023,2.36
+Uttar Pradesh,Amroha,7/2/2023,2023,0.42,,,,,7/3/2023,1.73
+Uttar Pradesh,Amroha,7/3/2023,2023,0.28,,,,,Gajapati,9
+Uttar Pradesh,Auraiya,7/1/2023,2023,11.74,,,,,7/1/2023,0.01
+Uttar Pradesh,Auraiya,7/2/2023,2023,10.39,,,,,7/2/2023,0.16
+Uttar Pradesh,Auraiya,7/3/2023,2023,1.49,,,,,7/3/2023,8.83
+Uttar Pradesh,Ayodhya,7/1/2023,2023,32.02,,,,,Ganjam,9.13
+Uttar Pradesh,Ayodhya,7/2/2023,2023,37.51,,,,,7/1/2023,1.56
+Uttar Pradesh,Ayodhya,7/3/2023,2023,2.69,,,,,7/2/2023,2.51
+Uttar Pradesh,Azamgarh,7/1/2023,2023,34.81,,,,,7/3/2023,5.06
+Uttar Pradesh,Azamgarh,7/2/2023,2023,76.88,,,,,Jagatsinghapur,10.65
+Uttar Pradesh,Azamgarh,7/3/2023,2023,27.62,,,,,7/1/2023,0
+Uttar Pradesh,Baghpat,7/1/2023,2023,0.6,,,,,7/2/2023,10.65
+Uttar Pradesh,Baghpat,7/2/2023,2023,0,,,,,7/3/2023,0
+Uttar Pradesh,Baghpat,7/3/2023,2023,0,,,,,Jajapur,4.04
+Uttar Pradesh,Bahraich,7/1/2023,2023,14.56,,,,,7/1/2023,2.58
+Uttar Pradesh,Bahraich,7/2/2023,2023,22.58,,,,,7/2/2023,0.77
+Uttar Pradesh,Bahraich,7/3/2023,2023,0.15,,,,,7/3/2023,0.69
+Uttar Pradesh,Ballia,7/1/2023,2023,17.55,,,,,Jharsuguda,0.17
+Uttar Pradesh,Ballia,7/2/2023,2023,73.33,,,,,7/1/2023,0.17
+Uttar Pradesh,Ballia,7/3/2023,2023,23.77,,,,,7/2/2023,0
+Uttar Pradesh,Balrampur,7/1/2023,2023,138.1,,,,,Kalahandi,0.4
+Uttar Pradesh,Balrampur,7/2/2023,2023,22.18,,,,,7/1/2023,0.25
+Uttar Pradesh,Balrampur,7/3/2023,2023,0.57,,,,,7/2/2023,0.14
+Uttar Pradesh,Banda,7/1/2023,2023,22.78,,,,,7/3/2023,0.01
+Uttar Pradesh,Banda,7/2/2023,2023,20.24,,,,,Kandhamal,1.85
+Uttar Pradesh,Banda,7/3/2023,2023,1.2,,,,,7/1/2023,1.02
+Uttar Pradesh,Barabanki,7/1/2023,2023,28.27,,,,,7/2/2023,0.5
+Uttar Pradesh,Barabanki,7/2/2023,2023,34.59,,,,,7/3/2023,0.33
+Uttar Pradesh,Barabanki,7/3/2023,2023,10.46,,,,,Kendrapara,7.47
+Uttar Pradesh,Bareilly,7/1/2023,2023,13.48,,,,,7/1/2023,0.2
+Uttar Pradesh,Bareilly,7/2/2023,2023,12.18,,,,,7/2/2023,6.74
+Uttar Pradesh,Bareilly,7/3/2023,2023,1.76,,,,,7/3/2023,0.53
+Uttar Pradesh,Basti,7/1/2023,2023,50.56,,,,,Kendujhar,2.43
+Uttar Pradesh,Basti,7/2/2023,2023,32.59,,,,,7/1/2023,0.81
+Uttar Pradesh,Basti,7/3/2023,2023,2.16,,,,,7/2/2023,1.31
+Uttar Pradesh,Bhadohi,7/1/2023,2023,30.85,,,,,7/3/2023,0.31
+Uttar Pradesh,Bhadohi,7/2/2023,2023,24.87,,,,,Khordha,6.82
+Uttar Pradesh,Bhadohi,7/3/2023,2023,2.54,,,,,7/1/2023,4.14
+Uttar Pradesh,Bijnor,7/1/2023,2023,2.57,,,,,7/2/2023,2.37
+Uttar Pradesh,Bijnor,7/2/2023,2023,14.28,,,,,7/3/2023,0.31
+Uttar Pradesh,Bijnor,7/3/2023,2023,2.48,,,,,Koraput,3.13
+Uttar Pradesh,Budaun,7/1/2023,2023,16.99,,,,,7/1/2023,0.14
+Uttar Pradesh,Budaun,7/2/2023,2023,8.09,,,,,7/2/2023,2.32
+Uttar Pradesh,Budaun,7/3/2023,2023,4.05,,,,,7/3/2023,0.67
+Uttar Pradesh,Bulandshahr,7/1/2023,2023,0.96,,,,,Malkangiri,4.6
+Uttar Pradesh,Bulandshahr,7/2/2023,2023,0.04,,,,,7/1/2023,0.23
+Uttar Pradesh,Bulandshahr,7/3/2023,2023,1.93,,,,,7/2/2023,0.75
+Uttar Pradesh,Chandauli,7/1/2023,2023,14.3,,,,,7/3/2023,3.62
+Uttar Pradesh,Chandauli,7/2/2023,2023,33.41,,,,,Mayurbhanj,11.2
+Uttar Pradesh,Chandauli,7/3/2023,2023,13.18,,,,,7/1/2023,4.08
+Uttar Pradesh,Chitrakoot,7/1/2023,2023,4.01,,,,,7/2/2023,5.62
+Uttar Pradesh,Chitrakoot,7/2/2023,2023,15.46,,,,,7/3/2023,1.5
+Uttar Pradesh,Chitrakoot,7/3/2023,2023,5.57,,,,,Nabarangpur,0.02
+Uttar Pradesh,Deoria,7/1/2023,2023,16.05,,,,,7/1/2023,0.01
+Uttar Pradesh,Deoria,7/2/2023,2023,24.98,,,,,7/2/2023,0
+Uttar Pradesh,Deoria,7/3/2023,2023,19.28,,,,,7/3/2023,0.01
+Uttar Pradesh,Etah,7/1/2023,2023,13.13,,,,,Nayagarh,40.34
+Uttar Pradesh,Etah,7/2/2023,2023,2.26,,,,,7/1/2023,26.39
+Uttar Pradesh,Etah,7/3/2023,2023,2.34,,,,,7/2/2023,11.84
+Uttar Pradesh,Etawah,7/1/2023,2023,18.24,,,,,7/3/2023,2.11
+Uttar Pradesh,Etawah,7/2/2023,2023,3.4,,,,,Nuapada,0.03
+Uttar Pradesh,Etawah,7/3/2023,2023,3.3,,,,,7/1/2023,0.03
+Uttar Pradesh,Farrukhabad,7/1/2023,2023,9.93,,,,,7/2/2023,0
+Uttar Pradesh,Farrukhabad,7/2/2023,2023,8.29,,,,,7/3/2023,0
+Uttar Pradesh,Farrukhabad,7/3/2023,2023,1.24,,,,,Puri,0.42
+Uttar Pradesh,Fatehpur,7/1/2023,2023,35.77,,,,,7/1/2023,0.09
+Uttar Pradesh,Fatehpur,7/2/2023,2023,25.23,,,,,7/2/2023,0.29
+Uttar Pradesh,Fatehpur,7/3/2023,2023,1.27,,,,,7/3/2023,0.04
+Uttar Pradesh,Firozabad,7/1/2023,2023,12.89,,,,,Rayagada,4.66
+Uttar Pradesh,Firozabad,7/2/2023,2023,0.04,,,,,7/1/2023,0.02
+Uttar Pradesh,Firozabad,7/3/2023,2023,0.23,,,,,7/2/2023,0.09
+Uttar Pradesh,Gautam Buddha Nagar,7/1/2023,2023,4.93,,,,,7/3/2023,4.55
+Uttar Pradesh,Gautam Buddha Nagar,7/2/2023,2023,0,,,,,Sambalpur,0.89
+Uttar Pradesh,Ghaziabad,7/1/2023,2023,0.49,,,,,7/1/2023,0.41
+Uttar Pradesh,Ghaziabad,7/2/2023,2023,0,,,,,7/2/2023,0.48
+Uttar Pradesh,Ghazipur,7/1/2023,2023,33.18,,,,,7/3/2023,0
+Uttar Pradesh,Ghazipur,7/2/2023,2023,34.08,,,,,Sonepur,0.18
+Uttar Pradesh,Ghazipur,7/3/2023,2023,14.04,,,,,7/1/2023,0.07
+Uttar Pradesh,Gonda,7/1/2023,2023,51.04,,,,,7/2/2023,0.1
+Uttar Pradesh,Gonda,7/2/2023,2023,20.04,,,,,7/3/2023,0.01
+Uttar Pradesh,Gonda,7/3/2023,2023,0.09,,,,,Sundargarh,2.36
+Uttar Pradesh,Gorakhpur,7/1/2023,2023,42.16,,,,,7/1/2023,0.47
+Uttar Pradesh,Gorakhpur,7/2/2023,2023,42.25,,,,,7/2/2023,1.89
+Uttar Pradesh,Gorakhpur,7/3/2023,2023,21.68,,,,,7/3/2023,0
+Uttar Pradesh,Hamirpur,7/1/2023,2023,34.11,,,,,Puducherry,52.14
+Uttar Pradesh,Hamirpur,7/2/2023,2023,7.13,,,,,Karaikal,0.05
+Uttar Pradesh,Hamirpur,7/3/2023,2023,0.24,,,,,7/1/2023,0.05
+Uttar Pradesh,Hapur,7/1/2023,2023,0.75,,,,,Mahe,35.5
+Uttar Pradesh,Hapur,7/3/2023,2023,0,,,,,7/1/2023,15.5
+Uttar Pradesh,Hardoi,7/1/2023,2023,12.04,,,,,7/2/2023,2
+Uttar Pradesh,Hardoi,7/2/2023,2023,17.4,,,,,7/3/2023,18
+Uttar Pradesh,Hardoi,7/3/2023,2023,4.55,,,,,Pondicherry,16.59
+Uttar Pradesh,Hathras,7/1/2023,2023,5.18,,,,,7/1/2023,0.29
+Uttar Pradesh,Hathras,7/2/2023,2023,0.27,,,,,7/2/2023,16.13
+Uttar Pradesh,Hathras,7/3/2023,2023,0.17,,,,,7/3/2023,0.17
+Uttar Pradesh,Jalaun,7/1/2023,2023,28.37,,,,,Punjab,206.82
+Uttar Pradesh,Jalaun,7/2/2023,2023,13.41,,,,,Amritsar,13.49
+Uttar Pradesh,Jalaun,7/3/2023,2023,2.36,,,,,7/1/2023,13.39
+Uttar Pradesh,Jaunpur,7/1/2023,2023,33.29,,,,,7/2/2023,0.1
+Uttar Pradesh,Jaunpur,7/2/2023,2023,34.44,,,,,7/3/2023,0
+Uttar Pradesh,Jaunpur,7/3/2023,2023,10.96,,,,,Barnala,19.19
+Uttar Pradesh,Jhansi,7/1/2023,2023,18.13,,,,,7/1/2023,17.1
+Uttar Pradesh,Jhansi,7/2/2023,2023,6.3,,,,,7/2/2023,2.09
+Uttar Pradesh,Jhansi,7/3/2023,2023,0.01,,,,,Bathinda,12.25
+Uttar Pradesh,Kannauj,7/1/2023,2023,19.99,,,,,7/1/2023,8.22
+Uttar Pradesh,Kannauj,7/2/2023,2023,26.9,,,,,7/2/2023,4.03
+Uttar Pradesh,Kannauj,7/3/2023,2023,33.77,,,,,Faridkot,4.93
+Uttar Pradesh,Kanpur Dehat,7/1/2023,2023,21.73,,,,,7/1/2023,2.93
+Uttar Pradesh,Kanpur Dehat,7/2/2023,2023,32.15,,,,,7/2/2023,2
+Uttar Pradesh,Kanpur Dehat,7/3/2023,2023,1.37,,,,,Fatehgarh Sahib,30.75
+Uttar Pradesh,Kanpur Nagar,7/1/2023,2023,20.63,,,,,7/1/2023,9.38
+Uttar Pradesh,Kanpur Nagar,7/2/2023,2023,24.78,,,,,7/2/2023,21.35
+Uttar Pradesh,Kanpur Nagar,7/3/2023,2023,4.07,,,,,7/3/2023,0.02
+Uttar Pradesh,Kasganj,7/1/2023,2023,11.46,,,,,Fazilka,12.69
+Uttar Pradesh,Kasganj,7/2/2023,2023,1.72,,,,,7/1/2023,2.28
+Uttar Pradesh,Kasganj,7/3/2023,2023,3.72,,,,,7/2/2023,10.41
+Uttar Pradesh,Kaushambi,7/1/2023,2023,14.79,,,,,Firozepur,6.99
+Uttar Pradesh,Kaushambi,7/2/2023,2023,14.64,,,,,7/1/2023,3.24
+Uttar Pradesh,Kaushambi,7/3/2023,2023,3.4,,,,,7/2/2023,3.75
+Uttar Pradesh,Kheri,7/1/2023,2023,11.54,,,,,7/3/2023,0
+Uttar Pradesh,Kheri,7/2/2023,2023,12.59,,,,,Gurdaspur,4.11
+Uttar Pradesh,Kheri,7/3/2023,2023,1.23,,,,,7/1/2023,3.27
+Uttar Pradesh,Kushi Nagar,7/1/2023,2023,17.63,,,,,7/2/2023,0.24
+Uttar Pradesh,Kushi Nagar,7/2/2023,2023,25.17,,,,,7/3/2023,0.6
+Uttar Pradesh,Kushi Nagar,7/3/2023,2023,7.48,,,,,Hoshiarpur,2.03
+Uttar Pradesh,Lalitpur,7/1/2023,2023,1.28,,,,,7/1/2023,1.93
+Uttar Pradesh,Lalitpur,7/2/2023,2023,11.57,,,,,7/2/2023,0.04
+Uttar Pradesh,Lalitpur,7/3/2023,2023,1.21,,,,,7/3/2023,0.06
+Uttar Pradesh,Lucknow,7/1/2023,2023,20.27,,,,,Jalandhar,2.15
+Uttar Pradesh,Lucknow,7/2/2023,2023,28.05,,,,,7/1/2023,1.94
+Uttar Pradesh,Lucknow,7/3/2023,2023,6.82,,,,,7/2/2023,0.17
+Uttar Pradesh,Maharajganj,7/1/2023,2023,58.09,,,,,7/3/2023,0.04
+Uttar Pradesh,Maharajganj,7/2/2023,2023,38.81,,,,,Kapurthala,0.74
+Uttar Pradesh,Maharajganj,7/3/2023,2023,10.11,,,,,7/1/2023,0.55
+Uttar Pradesh,Mahoba,7/1/2023,2023,12.38,,,,,7/2/2023,0.05
+Uttar Pradesh,Mahoba,7/2/2023,2023,9.91,,,,,7/3/2023,0.14
+Uttar Pradesh,Mahoba,7/3/2023,2023,4.8,,,,,Ludhiana,8.7
+Uttar Pradesh,Mainpuri,7/1/2023,2023,16.58,,,,,7/1/2023,1.93
+Uttar Pradesh,Mainpuri,7/2/2023,2023,8.75,,,,,7/2/2023,6.77
+Uttar Pradesh,Mainpuri,7/3/2023,2023,0.29,,,,,7/3/2023,0
+Uttar Pradesh,Mathura,7/1/2023,2023,1.76,,,,,Mansa,5.34
+Uttar Pradesh,Mathura,7/2/2023,2023,0,,,,,7/1/2023,4.75
+Uttar Pradesh,Mathura,7/3/2023,2023,0.01,,,,,7/2/2023,0.59
+Uttar Pradesh,Mau,7/1/2023,2023,30.03,,,,,7/3/2023,0
+Uttar Pradesh,Mau,7/2/2023,2023,45.19,,,,,Moga,6.61
+Uttar Pradesh,Mau,7/3/2023,2023,19.49,,,,,7/1/2023,5.16
+Uttar Pradesh,Meerut,7/1/2023,2023,2.04,,,,,7/2/2023,1.45
+Uttar Pradesh,Meerut,7/2/2023,2023,0.55,,,,,7/3/2023,0
+Uttar Pradesh,Meerut,7/3/2023,2023,0,,,,,Pathankot,9.14
+Uttar Pradesh,Mirzapur,7/1/2023,2023,19.44,,,,,7/1/2023,1.51
+Uttar Pradesh,Mirzapur,7/2/2023,2023,19.86,,,,,7/2/2023,0
+Uttar Pradesh,Mirzapur,7/3/2023,2023,3.35,,,,,7/3/2023,7.63
+Uttar Pradesh,Moradabad,7/1/2023,2023,4.85,,,,,Patiala,12.49
+Uttar Pradesh,Moradabad,7/2/2023,2023,7.45,,,,,7/1/2023,11.85
+Uttar Pradesh,Moradabad,7/3/2023,2023,4.14,,,,,7/2/2023,0.62
+Uttar Pradesh,Muzaffarnagar,7/1/2023,2023,5.62,,,,,7/3/2023,0.02
+Uttar Pradesh,Muzaffarnagar,7/2/2023,2023,0.5,,,,,Rupnagar,16.16
+Uttar Pradesh,Muzaffarnagar,7/3/2023,2023,0,,,,,7/1/2023,1.86
+Uttar Pradesh,Pilibhit,7/1/2023,2023,7.67,,,,,7/2/2023,12.38
+Uttar Pradesh,Pilibhit,7/2/2023,2023,6.27,,,,,7/3/2023,1.92
+Uttar Pradesh,Pilibhit,7/3/2023,2023,0.06,,,,,S.A.S Nagar,18.61
+Uttar Pradesh,Pratapgarh,7/1/2023,2023,34.42,,,,,7/1/2023,8.17
+Uttar Pradesh,Pratapgarh,7/2/2023,2023,16.04,,,,,7/2/2023,9.61
+Uttar Pradesh,Pratapgarh,7/3/2023,2023,12.62,,,,,7/3/2023,0.83
+Uttar Pradesh,Prayagraj,7/1/2023,2023,18.14,,,,,Sangrur,9.99
+Uttar Pradesh,Prayagraj,7/2/2023,2023,6.64,,,,,7/1/2023,9.33
+Uttar Pradesh,Prayagraj,7/3/2023,2023,1.53,,,,,7/2/2023,0.66
+Uttar Pradesh,Rae Bareli,7/1/2023,2023,49.38,,,,,7/3/2023,0
+Uttar Pradesh,Rae Bareli,7/2/2023,2023,25.74,,,,,Shahid Bhagat Singh Nagar,5.4
+Uttar Pradesh,Rae Bareli,7/3/2023,2023,4.27,,,,,7/1/2023,2.5
+Uttar Pradesh,Rampur,7/1/2023,2023,8.62,,,,,7/2/2023,2.82
+Uttar Pradesh,Rampur,7/2/2023,2023,3.92,,,,,7/3/2023,0.08
+Uttar Pradesh,Rampur,7/3/2023,2023,1.64,,,,,Sri Muktsar Sahib,4.85
+Uttar Pradesh,Saharanpur,7/1/2023,2023,1.01,,,,,7/1/2023,1.22
+Uttar Pradesh,Saharanpur,7/2/2023,2023,0.07,,,,,7/2/2023,3.63
+Uttar Pradesh,Saharanpur,7/3/2023,2023,0.1,,,,,Tarn Taran,0.21
+Uttar Pradesh,Sambhal,7/1/2023,2023,6.59,,,,,7/1/2023,0.14
+Uttar Pradesh,Sambhal,7/2/2023,2023,2.76,,,,,7/2/2023,0.06
+Uttar Pradesh,Sambhal,7/3/2023,2023,0.47,,,,,7/3/2023,0.01
+Uttar Pradesh,Sant Kabeer Nagar,7/1/2023,2023,71.31,,,,,Rajasthan,674.72
+Uttar Pradesh,Sant Kabeer Nagar,7/2/2023,2023,57.9,,,,,Ajmer,9.74
+Uttar Pradesh,Sant Kabeer Nagar,7/3/2023,2023,13.69,,,,,7/1/2023,3.24
+Uttar Pradesh,Shahjahanpur,7/1/2023,2023,2.36,,,,,7/2/2023,3.99
+Uttar Pradesh,Shahjahanpur,7/2/2023,2023,3.79,,,,,7/3/2023,2.51
+Uttar Pradesh,Shahjahanpur,7/3/2023,2023,2.32,,,,,Alwar,4
+Uttar Pradesh,Shamli,7/1/2023,2023,0.07,,,,,7/1/2023,2.99
+Uttar Pradesh,Shamli,7/2/2023,2023,0,,,,,7/2/2023,0.8
+Uttar Pradesh,Shamli,7/3/2023,2023,0.01,,,,,7/3/2023,0.21
+Uttar Pradesh,Shravasti,7/1/2023,2023,46.48,,,,,Banswara,19.7
+Uttar Pradesh,Shravasti,7/2/2023,2023,29.18,,,,,7/1/2023,2.37
+Uttar Pradesh,Shravasti,7/3/2023,2023,0,,,,,7/2/2023,14.76
+Uttar Pradesh,Siddharth Nagar,7/1/2023,2023,182.87,,,,,7/3/2023,2.57
+Uttar Pradesh,Siddharth Nagar,7/2/2023,2023,34.35,,,,,Baran,27.71
+Uttar Pradesh,Siddharth Nagar,7/3/2023,2023,7.94,,,,,7/1/2023,6.73
+Uttar Pradesh,Sitapur,7/1/2023,2023,12.29,,,,,7/2/2023,16.18
+Uttar Pradesh,Sitapur,7/2/2023,2023,19.44,,,,,7/3/2023,4.8
+Uttar Pradesh,Sitapur,7/3/2023,2023,1.45,,,,,Barmer,1.14
+Uttar Pradesh,Sonbhadra,7/1/2023,2023,15.84,,,,,7/1/2023,1.01
+Uttar Pradesh,Sonbhadra,7/2/2023,2023,20.74,,,,,7/2/2023,0.13
+Uttar Pradesh,Sonbhadra,7/3/2023,2023,4.49,,,,,Bharatpur,3.58
+Uttar Pradesh,Sultanpur,7/1/2023,2023,53.66,,,,,7/1/2023,1.62
+Uttar Pradesh,Sultanpur,7/2/2023,2023,36.72,,,,,7/2/2023,0.37
+Uttar Pradesh,Sultanpur,7/3/2023,2023,8.93,,,,,7/3/2023,1.59
+Uttar Pradesh,Unnao,7/1/2023,2023,24.21,,,,,Bhilwara,10.24
+Uttar Pradesh,Unnao,7/2/2023,2023,40.73,,,,,7/1/2023,8.97
+Uttar Pradesh,Unnao,7/3/2023,2023,9.95,,,,,7/2/2023,0.67
+Uttar Pradesh,Varanasi,7/1/2023,2023,34.63,,,,,7/3/2023,0.6
+Uttar Pradesh,Varanasi,7/2/2023,2023,32.2,,,,,Bikaner,30.19
+Uttar Pradesh,Varanasi,7/3/2023,2023,6.17,,,,,7/1/2023,18.75
+Uttarakhand,Almora,7/1/2023,2023,8.72,,,,,7/2/2023,10.12
+Uttarakhand,Almora,7/2/2023,2023,27.37,,,,,7/3/2023,1.32
+Uttarakhand,Almora,7/3/2023,2023,1.4,,,,,Bundi,21.39
+Uttarakhand,Bageshwar,7/1/2023,2023,21.58,,,,,7/1/2023,18.11
+Uttarakhand,Bageshwar,7/2/2023,2023,17.43,,,,,7/2/2023,3.28
+Uttarakhand,Bageshwar,7/3/2023,2023,3.79,,,,,7/3/2023,0
+Uttarakhand,Chamoli,7/1/2023,2023,11.34,,,,,Chittorgarh,30.39
+Uttarakhand,Chamoli,7/2/2023,2023,12.39,,,,,7/1/2023,21.78
+Uttarakhand,Chamoli,7/3/2023,2023,4.72,,,,,7/2/2023,4.66
+Uttarakhand,Champawat,7/1/2023,2023,30.33,,,,,7/3/2023,3.95
+Uttarakhand,Champawat,7/2/2023,2023,12.69,,,,,Churu,19.04
+Uttarakhand,Champawat,7/3/2023,2023,0.34,,,,,7/1/2023,10.47
+Uttarakhand,Dehradun,7/1/2023,2023,7.2,,,,,7/2/2023,6.3
+Uttarakhand,Dehradun,7/2/2023,2023,17.52,,,,,7/3/2023,2.27
+Uttarakhand,Dehradun,7/3/2023,2023,7.14,,,,,Dausa,20.54
+Uttarakhand,Haridwar,7/1/2023,2023,16.26,,,,,7/1/2023,14.74
+Uttarakhand,Haridwar,7/2/2023,2023,1.58,,,,,7/2/2023,5.7
+Uttarakhand,Haridwar,7/3/2023,2023,0.86,,,,,7/3/2023,0.1
+Uttarakhand,Nainital,7/1/2023,2023,10.71,,,,,Dholpur,33.11
+Uttarakhand,Nainital,7/2/2023,2023,24.88,,,,,7/1/2023,31.04
+Uttarakhand,Nainital,7/3/2023,2023,5.33,,,,,7/2/2023,0.81
+Uttarakhand,Pauri Garhwal,7/1/2023,2023,14.01,,,,,7/3/2023,1.26
+Uttarakhand,Pauri Garhwal,7/2/2023,2023,14.05,,,,,Dungarpur,11.45
+Uttarakhand,Pauri Garhwal,7/3/2023,2023,1.83,,,,,7/1/2023,0.38
+Uttarakhand,Pithoragarh,7/1/2023,2023,15.71,,,,,7/2/2023,10.85
+Uttarakhand,Pithoragarh,7/2/2023,2023,6.35,,,,,7/3/2023,0.22
+Uttarakhand,Pithoragarh,7/3/2023,2023,3.39,,,,,Ganganagar,27.47
+Uttarakhand,Rudra Prayag,7/1/2023,2023,2.69,,,,,7/1/2023,4.06
+Uttarakhand,Rudra Prayag,7/2/2023,2023,8.1,,,,,7/2/2023,23.4
+Uttarakhand,Rudra Prayag,7/3/2023,2023,3.05,,,,,7/3/2023,0.01
+Uttarakhand,Tehri Garhwal,7/1/2023,2023,10.1,,,,,Hanumangarh,4.27
+Uttarakhand,Tehri Garhwal,7/2/2023,2023,18.25,,,,,7/1/2023,0.06
+Uttarakhand,Tehri Garhwal,7/3/2023,2023,4.89,,,,,7/2/2023,4.19
+Uttarakhand,Udam Singh Nagar,7/1/2023,2023,20.78,,,,,7/3/2023,0.02
+Uttarakhand,Udam Singh Nagar,7/2/2023,2023,21.21,,,,,Jaipur,29.65
+Uttarakhand,Udam Singh Nagar,7/3/2023,2023,2.27,,,,,7/1/2023,15.16
+Uttarakhand,Uttar Kashi,7/1/2023,2023,3.39,,,,,7/2/2023,11.62
+Uttarakhand,Uttar Kashi,7/2/2023,2023,6.3,,,,,7/3/2023,2.87
+Uttarakhand,Uttar Kashi,7/3/2023,2023,1.58,,,,,Jaisalmer,12.75
+West Bengal,24 Paraganas North,7/1/2023,2023,12.39,,,,,7/1/2023,12.6
+West Bengal,24 Paraganas North,7/2/2023,2023,2.44,,,,,7/2/2023,0.15
+West Bengal,24 Paraganas North,7/3/2023,2023,1.86,,,,,Jalore,3.25
+West Bengal,24 Paraganas South,7/1/2023,2023,4.58,,,,,7/1/2023,2.49
+West Bengal,24 Paraganas South,7/2/2023,2023,0.23,,,,,7/2/2023,0.75
+West Bengal,24 Paraganas South,7/3/2023,2023,2.11,,,,,7/3/2023,0.01
+West Bengal,Alipurduar,7/1/2023,2023,20.08,,,,,Jhalawar,46.63
+West Bengal,Alipurduar,7/2/2023,2023,88.17,,,,,7/1/2023,11.59
+West Bengal,Alipurduar,7/3/2023,2023,29,,,,,7/2/2023,25.77
+West Bengal,Bankura,7/1/2023,2023,16.67,,,,,7/3/2023,9.27
+West Bengal,Bankura,7/2/2023,2023,22.84,,,,,Jhunjhunu,6.96
+West Bengal,Bankura,7/3/2023,2023,2.03,,,,,7/1/2023,2.37
+West Bengal,Birbhum,7/1/2023,2023,2.84,,,,,7/2/2023,3.89
+West Bengal,Birbhum,7/2/2023,2023,2.16,,,,,7/3/2023,0.7
+West Bengal,Birbhum,7/3/2023,2023,14.52,,,,,Jodhpur,11.65
+West Bengal,Coochbehar,7/1/2023,2023,39.54,,,,,7/1/2023,10.53
+West Bengal,Coochbehar,7/2/2023,2023,59.34,,,,,7/2/2023,0.74
+West Bengal,Coochbehar,7/3/2023,2023,39.31,,,,,7/3/2023,0.38
+West Bengal,Darjeeling,7/1/2023,2023,11.69,,,,,Karauli,16.41
+West Bengal,Darjeeling,7/2/2023,2023,15.72,,,,,7/1/2023,14.03
+West Bengal,Darjeeling,7/3/2023,2023,13.78,,,,,7/2/2023,1.99
+West Bengal,Dinajpur Dakshin,7/1/2023,2023,57.5,,,,,7/3/2023,0.39
+West Bengal,Dinajpur Dakshin,7/2/2023,2023,14.21,,,,,Kota,34.88
+West Bengal,Dinajpur Dakshin,7/3/2023,2023,46.59,,,,,7/1/2023,21.19
+West Bengal,Dinajpur Uttar,7/1/2023,2023,42.17,,,,,7/2/2023,12.03
+West Bengal,Dinajpur Uttar,7/2/2023,2023,4.36,,,,,7/3/2023,1.66
+West Bengal,Dinajpur Uttar,7/3/2023,2023,45.69,,,,,Nagaur,14.45
+West Bengal,Hooghly,7/1/2023,2023,23.52,,,,,7/1/2023,5.77
+West Bengal,Hooghly,7/2/2023,2023,13.64,,,,,7/2/2023,3.46
+West Bengal,Hooghly,7/3/2023,2023,0.15,,,,,7/3/2023,5.22
+West Bengal,Howrah,7/1/2023,2023,9.32,,,,,Pali,1.27
+West Bengal,Howrah,7/2/2023,2023,1.96,,,,,7/1/2023,0.22
+West Bengal,Howrah,7/3/2023,2023,4.56,,,,,7/2/2023,0.81
+West Bengal,Jalpaiguri,7/1/2023,2023,19.31,,,,,7/3/2023,0.24
+West Bengal,Jalpaiguri,7/2/2023,2023,39.21,,,,,Pratapgarh,45.73
+West Bengal,Jalpaiguri,7/3/2023,2023,41.84,,,,,7/1/2023,18.4
+West Bengal,Jhargram,7/1/2023,2023,14.28,,,,,7/2/2023,24.42
+West Bengal,Jhargram,7/2/2023,2023,12.02,,,,,7/3/2023,2.91
+West Bengal,Jhargram,7/3/2023,2023,2.63,,,,,Rajsamand,1.91
+West Bengal,Kalimpong,7/1/2023,2023,12.33,,,,,7/1/2023,0.09
+West Bengal,Kalimpong,7/2/2023,2023,47.68,,,,,7/2/2023,0.3
+West Bengal,Kalimpong,7/3/2023,2023,42.43,,,,,7/3/2023,1.52
+West Bengal,Kolkata,7/1/2023,2023,3.26,,,,,Sawai Madhopur,38.12
+West Bengal,Kolkata,7/2/2023,2023,1.27,,,,,7/1/2023,35.3
+West Bengal,Kolkata,7/3/2023,2023,4.36,,,,,7/2/2023,2.57
+West Bengal,Maldah,7/1/2023,2023,48.59,,,,,7/3/2023,0.25
+West Bengal,Maldah,7/2/2023,2023,25.62,,,,,Sikar,25.68
+West Bengal,Maldah,7/3/2023,2023,35.78,,,,,7/1/2023,16.9
+West Bengal,Medinipur East,7/1/2023,2023,5.54,,,,,7/2/2023,4.58
+West Bengal,Medinipur East,7/2/2023,2023,1.55,,,,,7/3/2023,4.2
+West Bengal,Medinipur East,7/3/2023,2023,0.17,,,,,Sirohi,39.96
+West Bengal,Medinipur West,7/1/2023,2023,16.6,,,,,7/1/2023,20
+West Bengal,Medinipur West,7/2/2023,2023,13.75,,,,,7/2/2023,19.87
+West Bengal,Medinipur West,7/3/2023,2023,1.63,,,,,7/3/2023,0.09
+West Bengal,Murshidabad,7/1/2023,2023,15.14,,,,,Tonk,45.57
+West Bengal,Murshidabad,7/2/2023,2023,7.47,,,,,7/1/2023,26.71
+West Bengal,Murshidabad,7/3/2023,2023,15.06,,,,,7/2/2023,12.08
+West Bengal,Nadia,7/1/2023,2023,40.45,,,,,7/3/2023,6.78
+West Bengal,Nadia,7/2/2023,2023,16.28,,,,,Udaipur,25.89
+West Bengal,Nadia,7/3/2023,2023,2.31,,,,,7/1/2023,1.02
+West Bengal,Paschim Bardhaman,7/1/2023,2023,1.07,,,,,7/2/2023,23.1
+West Bengal,Paschim Bardhaman,7/2/2023,2023,1.23,,,,,7/3/2023,1.77
+West Bengal,Paschim Bardhaman,7/3/2023,2023,2.41,,,,,Sikkim,77.36
+West Bengal,Purba Bardhaman,7/1/2023,2023,29.16,,,,,East District,28.76
+West Bengal,Purba Bardhaman,7/2/2023,2023,9.14,,,,,7/1/2023,6.95
+West Bengal,Purba Bardhaman,7/3/2023,2023,0.18,,,,,7/2/2023,20.61
+West Bengal,Purulia,7/1/2023,2023,5.33,,,,,7/3/2023,1.2
+West Bengal,Purulia,7/2/2023,2023,9.58,,,,,North District,12.42
+West Bengal,Purulia,7/3/2023,2023,9.63,,,,,7/1/2023,2.41
+,,,,,,,,,7/2/2023,7.86
+,,,,,,,,,7/3/2023,2.15
+,,,,,,,,,South District,17.64
+,,,,,,,,,7/1/2023,2.83
+,,,,,,,,,7/2/2023,7.68
+,,,,,,,,,7/3/2023,7.13
+,,,,,,,,,West District,18.54
+,,,,,,,,,7/1/2023,4.34
+,,,,,,,,,7/2/2023,5.72
+,,,,,,,,,7/3/2023,8.48
+,,,,,,,,,Tamil Nadu,178.05
+,,,,,,,,,Ariyalur,3.58
+,,,,,,,,,7/1/2023,1.42
+,,,,,,,,,7/2/2023,1.49
+,,,,,,,,,7/3/2023,0.67
+,,,,,,,,,Chengalpattu,13.95
+,,,,,,,,,7/1/2023,0.06
+,,,,,,,,,7/2/2023,3.09
+,,,,,,,,,7/3/2023,10.8
+,,,,,,,,,Chennai,0.8
+,,,,,,,,,7/2/2023,0.16
+,,,,,,,,,7/3/2023,0.64
+,,,,,,,,,Coimbatore,6.38
+,,,,,,,,,7/1/2023,0.49
+,,,,,,,,,7/2/2023,1.26
+,,,,,,,,,7/3/2023,4.63
+,,,,,,,,,Cuddalore,22.72
+,,,,,,,,,7/1/2023,12.52
+,,,,,,,,,7/2/2023,6.3
+,,,,,,,,,7/3/2023,3.9
+,,,,,,,,,Dharmapuri,0.66
+,,,,,,,,,7/1/2023,0.01
+,,,,,,,,,7/2/2023,0.43
+,,,,,,,,,7/3/2023,0.22
+,,,,,,,,,Dindigul,1.11
+,,,,,,,,,7/1/2023,0.14
+,,,,,,,,,7/2/2023,0.2
+,,,,,,,,,7/3/2023,0.77
+,,,,,,,,,Erode,1.55
+,,,,,,,,,7/1/2023,0.09
+,,,,,,,,,7/2/2023,0.28
+,,,,,,,,,7/3/2023,1.18
+,,,,,,,,,Kallakurichi,11.51
+,,,,,,,,,7/1/2023,7.82
+,,,,,,,,,7/2/2023,1.77
+,,,,,,,,,7/3/2023,1.92
+,,,,,,,,,Kanchipuram,23.79
+,,,,,,,,,7/1/2023,0.66
+,,,,,,,,,7/2/2023,5.98
+,,,,,,,,,7/3/2023,17.15
+,,,,,,,,,Kanniyakumari,0.82
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.09
+,,,,,,,,,7/3/2023,0.73
+,,,,,,,,,Karur,1.23
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.02
+,,,,,,,,,7/3/2023,1.21
+,,,,,,,,,Krishnagiri,0.68
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.28
+,,,,,,,,,7/3/2023,0.4
+,,,,,,,,,Madurai,2.4
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.34
+,,,,,,,,,7/3/2023,2.06
+,,,,,,,,,Nagapattinam,2.48
+,,,,,,,,,7/1/2023,0.22
+,,,,,,,,,7/2/2023,1.89
+,,,,,,,,,7/3/2023,0.37
+,,,,,,,,,Namakkal,0.21
+,,,,,,,,,7/1/2023,0.07
+,,,,,,,,,7/2/2023,0.02
+,,,,,,,,,7/3/2023,0.12
+,,,,,,,,,Perambalur,0.34
+,,,,,,,,,7/1/2023,0.09
+,,,,,,,,,7/2/2023,0.19
+,,,,,,,,,7/3/2023,0.06
+,,,,,,,,,Pudukkottai,5.59
+,,,,,,,,,7/1/2023,0.15
+,,,,,,,,,7/2/2023,0.03
+,,,,,,,,,7/3/2023,5.41
+,,,,,,,,,Ramanathapuram,0.36
+,,,,,,,,,7/1/2023,0.05
+,,,,,,,,,7/2/2023,0.15
+,,,,,,,,,7/3/2023,0.16
+,,,,,,,,,Ranipet,8.71
+,,,,,,,,,7/1/2023,0.49
+,,,,,,,,,7/2/2023,4.66
+,,,,,,,,,7/3/2023,3.56
+,,,,,,,,,Salem,0.77
+,,,,,,,,,7/1/2023,0.29
+,,,,,,,,,7/2/2023,0.26
+,,,,,,,,,7/3/2023,0.22
+,,,,,,,,,Sivaganga,5.7
+,,,,,,,,,7/1/2023,0.01
+,,,,,,,,,7/2/2023,2.85
+,,,,,,,,,7/3/2023,2.84
+,,,,,,,,,Tenkasi,2.29
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.29
+,,,,,,,,,7/3/2023,2
+,,,,,,,,,Thanjavur,2.82
+,,,,,,,,,7/1/2023,0.47
+,,,,,,,,,7/2/2023,0.28
+,,,,,,,,,7/3/2023,2.07
+,,,,,,,,,The Nilgiris,12.79
+,,,,,,,,,7/1/2023,1.53
+,,,,,,,,,7/2/2023,5.9
+,,,,,,,,,7/3/2023,5.36
+,,,,,,,,,Theni,4.85
+,,,,,,,,,7/1/2023,0.13
+,,,,,,,,,7/2/2023,0.41
+,,,,,,,,,7/3/2023,4.31
+,,,,,,,,,Thiruvallur,6.21
+,,,,,,,,,7/1/2023,1.93
+,,,,,,,,,7/2/2023,1.17
+,,,,,,,,,7/3/2023,3.11
+,,,,,,,,,Thiruvarur,0.8
+,,,,,,,,,7/1/2023,0.02
+,,,,,,,,,7/2/2023,0.11
+,,,,,,,,,7/3/2023,0.67
+,,,,,,,,,Tiruchirappalli,1.48
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.01
+,,,,,,,,,7/3/2023,1.47
+,,,,,,,,,Tirunelveli,0.93
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.48
+,,,,,,,,,7/3/2023,0.45
+,,,,,,,,,Tirupathur,3.75
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,3.16
+,,,,,,,,,7/3/2023,0.59
+,,,,,,,,,Tiruppur,2.55
+,,,,,,,,,7/1/2023,0.2
+,,,,,,,,,7/2/2023,0.92
+,,,,,,,,,7/3/2023,1.43
+,,,,,,,,,Tiruvannamalai,5.93
+,,,,,,,,,7/1/2023,0.01
+,,,,,,,,,7/2/2023,3.15
+,,,,,,,,,7/3/2023,2.77
+,,,,,,,,,Tuticorin,0.24
+,,,,,,,,,7/1/2023,0.01
+,,,,,,,,,7/2/2023,0.02
+,,,,,,,,,7/3/2023,0.21
+,,,,,,,,,Vellore,6.66
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,1.85
+,,,,,,,,,7/3/2023,4.81
+,,,,,,,,,Villupuram,10.33
+,,,,,,,,,7/1/2023,0.55
+,,,,,,,,,7/2/2023,7.98
+,,,,,,,,,7/3/2023,1.8
+,,,,,,,,,Virudhunagar,1.08
+,,,,,,,,,7/1/2023,0.01
+,,,,,,,,,7/2/2023,0.47
+,,,,,,,,,7/3/2023,0.6
+,,,,,,,,,Telangana,181.35
+,,,,,,,,,Adilabad,1.39
+,,,,,,,,,7/1/2023,0.55
+,,,,,,,,,7/2/2023,0
+,,,,,,,,,7/3/2023,0.84
+,,,,,,,,,Bhadradri Kothagudem,0.47
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.14
+,,,,,,,,,7/3/2023,0.33
+,,,,,,,,,Hyderabad,9.42
+,,,,,,,,,7/2/2023,1.64
+,,,,,,,,,7/3/2023,7.78
+,,,,,,,,,Jagitial,1.28
+,,,,,,,,,7/1/2023,0.02
+,,,,,,,,,7/2/2023,0.01
+,,,,,,,,,7/3/2023,1.25
+,,,,,,,,,Jangoan,1.67
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,1.62
+,,,,,,,,,7/3/2023,0.05
+,,,,,,,,,Jayashankar Bhupalapally,0.25
+,,,,,,,,,7/2/2023,0.19
+,,,,,,,,,7/3/2023,0.06
+,,,,,,,,,Jogulamba Gadwal,11.35
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,1.84
+,,,,,,,,,7/3/2023,9.51
+,,,,,,,,,Kamareddy,19.38
+,,,,,,,,,7/1/2023,0.16
+,,,,,,,,,7/2/2023,8.77
+,,,,,,,,,7/3/2023,10.45
+,,,,,,,,,Karimnagar,0.63
+,,,,,,,,,7/1/2023,0.2
+,,,,,,,,,7/2/2023,0.22
+,,,,,,,,,7/3/2023,0.21
+,,,,,,,,,Khammam,2.15
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.87
+,,,,,,,,,7/3/2023,1.28
+,,,,,,,,,Kumuram Bheem Asifabad,0.5
+,,,,,,,,,7/1/2023,0.06
+,,,,,,,,,7/2/2023,0.14
+,,,,,,,,,7/3/2023,0.3
+,,,,,,,,,Mahabubabad,0.07
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.04
+,,,,,,,,,7/3/2023,0.03
+,,,,,,,,,Mahabubnagar,17.27
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,2.3
+,,,,,,,,,7/3/2023,14.97
+,,,,,,,,,Mancherial,0.11
+,,,,,,,,,7/1/2023,0.02
+,,,,,,,,,7/2/2023,0.09
+,,,,,,,,,7/3/2023,0
+,,,,,,,,,Medak,9.91
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,4.15
+,,,,,,,,,7/3/2023,5.76
+,,,,,,,,,Medchal Malkajgiri,5.45
+,,,,,,,,,7/2/2023,0.63
+,,,,,,,,,7/3/2023,4.82
+,,,,,,,,,Mulugu,0.65
+,,,,,,,,,7/1/2023,0.02
+,,,,,,,,,7/2/2023,0.08
+,,,,,,,,,7/3/2023,0.55
+,,,,,,,,,Nagarkurnool,1.9
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.77
+,,,,,,,,,7/3/2023,1.13
+,,,,,,,,,Nalgonda,6.51
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,2.35
+,,,,,,,,,7/3/2023,4.16
+,,,,,,,,,Narayanpet,8.76
+,,,,,,,,,7/2/2023,1.93
+,,,,,,,,,7/3/2023,6.83
+,,,,,,,,,Nirmal,5.42
+,,,,,,,,,7/1/2023,0.32
+,,,,,,,,,7/2/2023,0
+,,,,,,,,,7/3/2023,5.1
+,,,,,,,,,Nizamabad,6.54
+,,,,,,,,,7/1/2023,0.19
+,,,,,,,,,7/2/2023,0.4
+,,,,,,,,,7/3/2023,5.95
+,,,,,,,,,Peddapalli,0.01
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.01
+,,,,,,,,,7/3/2023,0
+,,,,,,,,,Rajanna Sircilla,3.97
+,,,,,,,,,7/1/2023,0.67
+,,,,,,,,,7/2/2023,3.04
+,,,,,,,,,7/3/2023,0.26
+,,,,,,,,,Ranga Reddy,6.28
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.87
+,,,,,,,,,7/3/2023,5.41
+,,,,,,,,,Sangareddy,14.35
+,,,,,,,,,7/1/2023,0.05
+,,,,,,,,,7/2/2023,3.52
+,,,,,,,,,7/3/2023,10.78
+,,,,,,,,,Siddipet,2.94
+,,,,,,,,,7/1/2023,0.01
+,,,,,,,,,7/2/2023,2.69
+,,,,,,,,,7/3/2023,0.24
+,,,,,,,,,Suryapet,0.71
+,,,,,,,,,7/1/2023,0.03
+,,,,,,,,,7/2/2023,0.49
+,,,,,,,,,7/3/2023,0.19
+,,,,,,,,,Vikarabad,34.46
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.72
+,,,,,,,,,7/3/2023,33.74
+,,,,,,,,,Wanaparthy,1.92
+,,,,,,,,,7/2/2023,0.54
+,,,,,,,,,7/3/2023,1.38
+,,,,,,,,,Warangal Rural,0.44
+,,,,,,,,,7/2/2023,0.39
+,,,,,,,,,7/3/2023,0.05
+,,,,,,,,,Warangal Urban,0.2
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,0.2
+,,,,,,,,,7/3/2023,0
+,,,,,,,,,Yadadri Bhuvanagiri,4.99
+,,,,,,,,,7/1/2023,0
+,,,,,,,,,7/2/2023,3.62
+,,,,,,,,,7/3/2023,1.37
+,,,,,,,,,Tripura,389.14
+,,,,,,,,,Dhalai,42.02
+,,,,,,,,,7/1/2023,21.46
+,,,,,,,,,7/2/2023,17
+,,,,,,,,,7/3/2023,3.56
+,,,,,,,,,Gomati,63.54
+,,,,,,,,,7/1/2023,44.26
+,,,,,,,,,7/2/2023,15.77
+,,,,,,,,,7/3/2023,3.51
+,,,,,,,,,Khowai,63.13
+,,,,,,,,,7/1/2023,21.91
+,,,,,,,,,7/2/2023,34.16
+,,,,,,,,,7/3/2023,7.06
+,,,,,,,,,North Tripura,24.36
+,,,,,,,,,7/1/2023,9.94
+,,,,,,,,,7/2/2023,11.92
+,,,,,,,,,7/3/2023,2.5
+,,,,,,,,,Sepahijala,74.51
+,,,,,,,,,7/1/2023,48.68
+,,,,,,,,,7/2/2023,25.8
+,,,,,,,,,7/3/2023,0.03
+,,,,,,,,,South Tripura,27.61
+,,,,,,,,,7/1/2023,24.13
+,,,,,,,,,7/2/2023,2.78
+,,,,,,,,,7/3/2023,0.7
+,,,,,,,,,Unakoti,28.02
+,,,,,,,,,7/1/2023,21.84
+,,,,,,,,,7/2/2023,5.44
+,,,,,,,,,7/3/2023,0.74
+,,,,,,,,,West Tripura,65.95
+,,,,,,,,,7/1/2023,26.68
+,,,,,,,,,7/2/2023,38.83
+,,,,,,,,,7/3/2023,0.44
+,,,,,,,,,Uttar Pradesh,3576.14
+,,,,,,,,,Agra,17.73
+,,,,,,,,,7/1/2023,6.23
+,,,,,,,,,7/2/2023,0.2
+,,,,,,,,,7/3/2023,11.3
+,,,,,,,,,Aligarh,16.66
+,,,,,,,,,7/1/2023,5.54
+,,,,,,,,,7/2/2023,0.11
+,,,,,,,,,7/3/2023,11.01
+,,,,,,,,,Ambedkar Nagar,135.15
+,,,,,,,,,7/1/2023,43.13
+,,,,,,,,,7/2/2023,70.32
+,,,,,,,,,7/3/2023,21.7
+,,,,,,,,,Amethi,53.13
+,,,,,,,,,7/1/2023,36.76
+,,,,,,,,,7/2/2023,12.89
+,,,,,,,,,7/3/2023,3.48
+,,,,,,,,,Amroha,2.48
+,,,,,,,,,7/1/2023,1.78
+,,,,,,,,,7/2/2023,0.42
+,,,,,,,,,7/3/2023,0.28
+,,,,,,,,,Auraiya,23.62
+,,,,,,,,,7/1/2023,11.74
+,,,,,,,,,7/2/2023,10.39
+,,,,,,,,,7/3/2023,1.49
+,,,,,,,,,Ayodhya,72.22
+,,,,,,,,,7/1/2023,32.02
+,,,,,,,,,7/2/2023,37.51
+,,,,,,,,,7/3/2023,2.69
+,,,,,,,,,Azamgarh,139.31
+,,,,,,,,,7/1/2023,34.81
+,,,,,,,,,7/2/2023,76.88
+,,,,,,,,,7/3/2023,27.62
+,,,,,,,,,Baghpat,0.6
+,,,,,,,,,7/1/2023,0.6
+,,,,,,,,,7/2/2023,0
+,,,,,,,,,7/3/2023,0
+,,,,,,,,,Bahraich,37.29
+,,,,,,,,,7/1/2023,14.56
+,,,,,,,,,7/2/2023,22.58
+,,,,,,,,,7/3/2023,0.15
+,,,,,,,,,Ballia,114.65
+,,,,,,,,,7/1/2023,17.55
+,,,,,,,,,7/2/2023,73.33
+,,,,,,,,,7/3/2023,23.77
+,,,,,,,,,Balrampur,160.85
+,,,,,,,,,7/1/2023,138.1
+,,,,,,,,,7/2/2023,22.18
+,,,,,,,,,7/3/2023,0.57
+,,,,,,,,,Banda,44.22
+,,,,,,,,,7/1/2023,22.78
+,,,,,,,,,7/2/2023,20.24
+,,,,,,,,,7/3/2023,1.2
+,,,,,,,,,Barabanki,73.32
+,,,,,,,,,7/1/2023,28.27
+,,,,,,,,,7/2/2023,34.59
+,,,,,,,,,7/3/2023,10.46
+,,,,,,,,,Bareilly,27.42
+,,,,,,,,,7/1/2023,13.48
+,,,,,,,,,7/2/2023,12.18
+,,,,,,,,,7/3/2023,1.76
+,,,,,,,,,Basti,85.31
+,,,,,,,,,7/1/2023,50.56
+,,,,,,,,,7/2/2023,32.59
+,,,,,,,,,7/3/2023,2.16
+,,,,,,,,,Bhadohi,58.26
+,,,,,,,,,7/1/2023,30.85
+,,,,,,,,,7/2/2023,24.87
+,,,,,,,,,7/3/2023,2.54
+,,,,,,,,,Bijnor,19.33
+,,,,,,,,,7/1/2023,2.57
+,,,,,,,,,7/2/2023,14.28
+,,,,,,,,,7/3/2023,2.48
+,,,,,,,,,Budaun,29.13
+,,,,,,,,,7/1/2023,16.99
+,,,,,,,,,7/2/2023,8.09
+,,,,,,,,,7/3/2023,4.05
+,,,,,,,,,Bulandshahr,2.93
+,,,,,,,,,7/1/2023,0.96
+,,,,,,,,,7/2/2023,0.04
+,,,,,,,,,7/3/2023,1.93
+,,,,,,,,,Chandauli,60.89
+,,,,,,,,,7/1/2023,14.3
+,,,,,,,,,7/2/2023,33.41
+,,,,,,,,,7/3/2023,13.18
+,,,,,,,,,Chitrakoot,25.04
+,,,,,,,,,7/1/2023,4.01
+,,,,,,,,,7/2/2023,15.46
+,,,,,,,,,7/3/2023,5.57
+,,,,,,,,,Deoria,60.31
+,,,,,,,,,7/1/2023,16.05
+,,,,,,,,,7/2/2023,24.98
+,,,,,,,,,7/3/2023,19.28
+,,,,,,,,,Etah,17.73
+,,,,,,,,,7/1/2023,13.13
+,,,,,,,,,7/2/2023,2.26
+,,,,,,,,,7/3/2023,2.34
+,,,,,,,,,Etawah,24.94
+,,,,,,,,,7/1/2023,18.24
+,,,,,,,,,7/2/2023,3.4
+,,,,,,,,,7/3/2023,3.3
+,,,,,,,,,Farrukhabad,19.46
+,,,,,,,,,7/1/2023,9.93
+,,,,,,,,,7/2/2023,8.29
+,,,,,,,,,7/3/2023,1.24
+,,,,,,,,,Fatehpur,62.27
+,,,,,,,,,7/1/2023,35.77
+,,,,,,,,,7/2/2023,25.23
+,,,,,,,,,7/3/2023,1.27
+,,,,,,,,,Firozabad,13.16
+,,,,,,,,,7/1/2023,12.89
+,,,,,,,,,7/2/2023,0.04
+,,,,,,,,,7/3/2023,0.23
+,,,,,,,,,Gautam Buddha Nagar,4.93
+,,,,,,,,,7/1/2023,4.93
+,,,,,,,,,7/2/2023,0
+,,,,,,,,,Ghaziabad,0.49
+,,,,,,,,,7/1/2023,0.49
+,,,,,,,,,7/2/2023,0
+,,,,,,,,,Ghazipur,81.3
+,,,,,,,,,7/1/2023,33.18
+,,,,,,,,,7/2/2023,34.08
+,,,,,,,,,7/3/2023,14.04
+,,,,,,,,,Gonda,71.17
+,,,,,,,,,7/1/2023,51.04
+,,,,,,,,,7/2/2023,20.04
+,,,,,,,,,7/3/2023,0.09
+,,,,,,,,,Gorakhpur,106.09
+,,,,,,,,,7/1/2023,42.16
+,,,,,,,,,7/2/2023,42.25
+,,,,,,,,,7/3/2023,21.68
+,,,,,,,,,Hamirpur,41.48
+,,,,,,,,,7/1/2023,34.11
+,,,,,,,,,7/2/2023,7.13
+,,,,,,,,,7/3/2023,0.24
+,,,,,,,,,Hapur,0.75
+,,,,,,,,,7/1/2023,0.75
+,,,,,,,,,7/3/2023,0
+,,,,,,,,,Hardoi,33.99
+,,,,,,,,,7/1/2023,12.04
+,,,,,,,,,7/2/2023,17.4
+,,,,,,,,,7/3/2023,4.55
+,,,,,,,,,Hathras,5.62
+,,,,,,,,,7/1/2023,5.18
+,,,,,,,,,7/2/2023,0.27
+,,,,,,,,,7/3/2023,0.17
+,,,,,,,,,Jalaun,44.14
+,,,,,,,,,7/1/2023,28.37
+,,,,,,,,,7/2/2023,13.41
+,,,,,,,,,7/3/2023,2.36
+,,,,,,,,,Jaunpur,78.69
+,,,,,,,,,7/1/2023,33.29
+,,,,,,,,,7/2/2023,34.44
+,,,,,,,,,7/3/2023,10.96
+,,,,,,,,,Jhansi,24.44
+,,,,,,,,,7/1/2023,18.13
+,,,,,,,,,7/2/2023,6.3
+,,,,,,,,,7/3/2023,0.01
+,,,,,,,,,Kannauj,80.66
+,,,,,,,,,7/1/2023,19.99
+,,,,,,,,,7/2/2023,26.9
+,,,,,,,,,7/3/2023,33.77
+,,,,,,,,,Kanpur Dehat,55.25
+,,,,,,,,,7/1/2023,21.73
+,,,,,,,,,7/2/2023,32.15
+,,,,,,,,,7/3/2023,1.37
+,,,,,,,,,Kanpur Nagar,49.48
+,,,,,,,,,7/1/2023,20.63
+,,,,,,,,,7/2/2023,24.78
+,,,,,,,,,7/3/2023,4.07
+,,,,,,,,,Kasganj,16.9
+,,,,,,,,,7/1/2023,11.46
+,,,,,,,,,7/2/2023,1.72
+,,,,,,,,,7/3/2023,3.72
+,,,,,,,,,Kaushambi,32.83
+,,,,,,,,,7/1/2023,14.79
+,,,,,,,,,7/2/2023,14.64
+,,,,,,,,,7/3/2023,3.4
+,,,,,,,,,Kheri,25.36
+,,,,,,,,,7/1/2023,11.54
+,,,,,,,,,7/2/2023,12.59
+,,,,,,,,,7/3/2023,1.23
+,,,,,,,,,Kushi Nagar,50.28
+,,,,,,,,,7/1/2023,17.63
+,,,,,,,,,7/2/2023,25.17
+,,,,,,,,,7/3/2023,7.48
+,,,,,,,,,Lalitpur,14.06
+,,,,,,,,,7/1/2023,1.28
+,,,,,,,,,7/2/2023,11.57
+,,,,,,,,,7/3/2023,1.21
+,,,,,,,,,Lucknow,55.14
+,,,,,,,,,7/1/2023,20.27
+,,,,,,,,,7/2/2023,28.05
+,,,,,,,,,7/3/2023,6.82
+,,,,,,,,,Maharajganj,107.01
+,,,,,,,,,7/1/2023,58.09
+,,,,,,,,,7/2/2023,38.81
+,,,,,,,,,7/3/2023,10.11
+,,,,,,,,,Mahoba,27.09
+,,,,,,,,,7/1/2023,12.38
+,,,,,,,,,7/2/2023,9.91
+,,,,,,,,,7/3/2023,4.8
+,,,,,,,,,Mainpuri,25.62
+,,,,,,,,,7/1/2023,16.58
+,,,,,,,,,7/2/2023,8.75
+,,,,,,,,,7/3/2023,0.29
+,,,,,,,,,Mathura,1.77
+,,,,,,,,,7/1/2023,1.76
+,,,,,,,,,7/2/2023,0
+,,,,,,,,,7/3/2023,0.01
+,,,,,,,,,Mau,94.71
+,,,,,,,,,7/1/2023,30.03
+,,,,,,,,,7/2/2023,45.19
+,,,,,,,,,7/3/2023,19.49
+,,,,,,,,,Meerut,2.59
+,,,,,,,,,7/1/2023,2.04
+,,,,,,,,,7/2/2023,0.55
+,,,,,,,,,7/3/2023,0
+,,,,,,,,,Mirzapur,42.65
+,,,,,,,,,7/1/2023,19.44
+,,,,,,,,,7/2/2023,19.86
+,,,,,,,,,7/3/2023,3.35
+,,,,,,,,,Moradabad,16.44
+,,,,,,,,,7/1/2023,4.85
+,,,,,,,,,7/2/2023,7.45
+,,,,,,,,,7/3/2023,4.14
+,,,,,,,,,Muzaffarnagar,6.12
+,,,,,,,,,7/1/2023,5.62
+,,,,,,,,,7/2/2023,0.5
+,,,,,,,,,7/3/2023,0
+,,,,,,,,,Pilibhit,14
+,,,,,,,,,7/1/2023,7.67
+,,,,,,,,,7/2/2023,6.27
+,,,,,,,,,7/3/2023,0.06
+,,,,,,,,,Pratapgarh,63.08
+,,,,,,,,,7/1/2023,34.42
+,,,,,,,,,7/2/2023,16.04
+,,,,,,,,,7/3/2023,12.62
+,,,,,,,,,Prayagraj,26.31
+,,,,,,,,,7/1/2023,18.14
+,,,,,,,,,7/2/2023,6.64
+,,,,,,,,,7/3/2023,1.53
+,,,,,,,,,Rae Bareli,79.39
+,,,,,,,,,7/1/2023,49.38
+,,,,,,,,,7/2/2023,25.74
+,,,,,,,,,7/3/2023,4.27
+,,,,,,,,,Rampur,14.18
+,,,,,,,,,7/1/2023,8.62
+,,,,,,,,,7/2/2023,3.92
+,,,,,,,,,7/3/2023,1.64
+,,,,,,,,,Saharanpur,1.18
+,,,,,,,,,7/1/2023,1.01
+,,,,,,,,,7/2/2023,0.07
+,,,,,,,,,7/3/2023,0.1
+,,,,,,,,,Sambhal,9.82
+,,,,,,,,,7/1/2023,6.59
+,,,,,,,,,7/2/2023,2.76
+,,,,,,,,,7/3/2023,0.47
+,,,,,,,,,Sant Kabeer Nagar,142.9
+,,,,,,,,,7/1/2023,71.31
+,,,,,,,,,7/2/2023,57.9
+,,,,,,,,,7/3/2023,13.69
+,,,,,,,,,Shahjahanpur,8.47
+,,,,,,,,,7/1/2023,2.36
+,,,,,,,,,7/2/2023,3.79
+,,,,,,,,,7/3/2023,2.32
+,,,,,,,,,Shamli,0.08
+,,,,,,,,,7/1/2023,0.07
+,,,,,,,,,7/2/2023,0
+,,,,,,,,,7/3/2023,0.01
+,,,,,,,,,Shravasti,75.66
+,,,,,,,,,7/1/2023,46.48
+,,,,,,,,,7/2/2023,29.18
+,,,,,,,,,7/3/2023,0
+,,,,,,,,,Siddharth Nagar,225.16
+,,,,,,,,,7/1/2023,182.87
+,,,,,,,,,7/2/2023,34.35
+,,,,,,,,,7/3/2023,7.94
+,,,,,,,,,Sitapur,33.18
+,,,,,,,,,7/1/2023,12.29
+,,,,,,,,,7/2/2023,19.44
+,,,,,,,,,7/3/2023,1.45
+,,,,,,,,,Sonbhadra,41.07
+,,,,,,,,,7/1/2023,15.84
+,,,,,,,,,7/2/2023,20.74
+,,,,,,,,,7/3/2023,4.49
+,,,,,,,,,Sultanpur,99.31
+,,,,,,,,,7/1/2023,53.66
+,,,,,,,,,7/2/2023,36.72
+,,,,,,,,,7/3/2023,8.93
+,,,,,,,,,Unnao,74.89
+,,,,,,,,,7/1/2023,24.21
+,,,,,,,,,7/2/2023,40.73
+,,,,,,,,,7/3/2023,9.95
+,,,,,,,,,Varanasi,73
+,,,,,,,,,7/1/2023,34.63
+,,,,,,,,,7/2/2023,32.2
+,,,,,,,,,7/3/2023,6.17
+,,,,,,,,,Uttarakhand,401.53
+,,,,,,,,,Almora,37.49
+,,,,,,,,,7/1/2023,8.72
+,,,,,,,,,7/2/2023,27.37
+,,,,,,,,,7/3/2023,1.4
+,,,,,,,,,Bageshwar,42.8
+,,,,,,,,,7/1/2023,21.58
+,,,,,,,,,7/2/2023,17.43
+,,,,,,,,,7/3/2023,3.79
+,,,,,,,,,Chamoli,28.45
+,,,,,,,,,7/1/2023,11.34
+,,,,,,,,,7/2/2023,12.39
+,,,,,,,,,7/3/2023,4.72
+,,,,,,,,,Champawat,43.36
+,,,,,,,,,7/1/2023,30.33
+,,,,,,,,,7/2/2023,12.69
+,,,,,,,,,7/3/2023,0.34
+,,,,,,,,,Dehradun,31.86
+,,,,,,,,,7/1/2023,7.2
+,,,,,,,,,7/2/2023,17.52
+,,,,,,,,,7/3/2023,7.14
+,,,,,,,,,Haridwar,18.7
+,,,,,,,,,7/1/2023,16.26
+,,,,,,,,,7/2/2023,1.58
+,,,,,,,,,7/3/2023,0.86
+,,,,,,,,,Nainital,40.92
+,,,,,,,,,7/1/2023,10.71
+,,,,,,,,,7/2/2023,24.88
+,,,,,,,,,7/3/2023,5.33
+,,,,,,,,,Pauri Garhwal,29.89
+,,,,,,,,,7/1/2023,14.01
+,,,,,,,,,7/2/2023,14.05
+,,,,,,,,,7/3/2023,1.83
+,,,,,,,,,Pithoragarh,25.45
+,,,,,,,,,7/1/2023,15.71
+,,,,,,,,,7/2/2023,6.35
+,,,,,,,,,7/3/2023,3.39
+,,,,,,,,,Rudra Prayag,13.84
+,,,,,,,,,7/1/2023,2.69
+,,,,,,,,,7/2/2023,8.1
+,,,,,,,,,7/3/2023,3.05
+,,,,,,,,,Tehri Garhwal,33.24
+,,,,,,,,,7/1/2023,10.1
+,,,,,,,,,7/2/2023,18.25
+,,,,,,,,,7/3/2023,4.89
+,,,,,,,,,Udam Singh Nagar,44.26
+,,,,,,,,,7/1/2023,20.78
+,,,,,,,,,7/2/2023,21.21
+,,,,,,,,,7/3/2023,2.27
+,,,,,,,,,Uttar Kashi,11.27
+,,,,,,,,,7/1/2023,3.39
+,,,,,,,,,7/2/2023,6.3
+,,,,,,,,,7/3/2023,1.58
+,,,,,,,,,West Bengal,1219.26
+,,,,,,,,,24 Paraganas North,16.69
+,,,,,,,,,7/1/2023,12.39
+,,,,,,,,,7/2/2023,2.44
+,,,,,,,,,7/3/2023,1.86
+,,,,,,,,,24 Paraganas South,6.92
+,,,,,,,,,7/1/2023,4.58
+,,,,,,,,,7/2/2023,0.23
+,,,,,,,,,7/3/2023,2.11
+,,,,,,,,,Alipurduar,137.25
+,,,,,,,,,7/1/2023,20.08
+,,,,,,,,,7/2/2023,88.17
+,,,,,,,,,7/3/2023,29
+,,,,,,,,,Bankura,41.54
+,,,,,,,,,7/1/2023,16.67
+,,,,,,,,,7/2/2023,22.84
+,,,,,,,,,7/3/2023,2.03
+,,,,,,,,,Birbhum,19.52
+,,,,,,,,,7/1/2023,2.84
+,,,,,,,,,7/2/2023,2.16
+,,,,,,,,,7/3/2023,14.52
+,,,,,,,,,Coochbehar,138.19
+,,,,,,,,,7/1/2023,39.54
+,,,,,,,,,7/2/2023,59.34
+,,,,,,,,,7/3/2023,39.31
+,,,,,,,,,Darjeeling,41.19
+,,,,,,,,,7/1/2023,11.69
+,,,,,,,,,7/2/2023,15.72
+,,,,,,,,,7/3/2023,13.78
+,,,,,,,,,Dinajpur Dakshin,118.3
+,,,,,,,,,7/1/2023,57.5
+,,,,,,,,,7/2/2023,14.21
+,,,,,,,,,7/3/2023,46.59
+,,,,,,,,,Dinajpur Uttar,92.22
+,,,,,,,,,7/1/2023,42.17
+,,,,,,,,,7/2/2023,4.36
+,,,,,,,,,7/3/2023,45.69
+,,,,,,,,,Hooghly,37.31
+,,,,,,,,,7/1/2023,23.52
+,,,,,,,,,7/2/2023,13.64
+,,,,,,,,,7/3/2023,0.15
+,,,,,,,,,Howrah,15.84
+,,,,,,,,,7/1/2023,9.32
+,,,,,,,,,7/2/2023,1.96
+,,,,,,,,,7/3/2023,4.56
+,,,,,,,,,Jalpaiguri,100.36
+,,,,,,,,,7/1/2023,19.31
+,,,,,,,,,7/2/2023,39.21
+,,,,,,,,,7/3/2023,41.84
+,,,,,,,,,Jhargram,28.93
+,,,,,,,,,7/1/2023,14.28
+,,,,,,,,,7/2/2023,12.02
+,,,,,,,,,7/3/2023,2.63
+,,,,,,,,,Kalimpong,102.44
+,,,,,,,,,7/1/2023,12.33
+,,,,,,,,,7/2/2023,47.68
+,,,,,,,,,7/3/2023,42.43
+,,,,,,,,,Kolkata,8.89
+,,,,,,,,,7/1/2023,3.26
+,,,,,,,,,7/2/2023,1.27
+,,,,,,,,,7/3/2023,4.36
+,,,,,,,,,Maldah,109.99
+,,,,,,,,,7/1/2023,48.59
+,,,,,,,,,7/2/2023,25.62
+,,,,,,,,,7/3/2023,35.78
+,,,,,,,,,Medinipur East,7.26
+,,,,,,,,,7/1/2023,5.54
+,,,,,,,,,7/2/2023,1.55
+,,,,,,,,,7/3/2023,0.17
+,,,,,,,,,Medinipur West,31.98
+,,,,,,,,,7/1/2023,16.6
+,,,,,,,,,7/2/2023,13.75
+,,,,,,,,,7/3/2023,1.63
+,,,,,,,,,Murshidabad,37.67
+,,,,,,,,,7/1/2023,15.14
+,,,,,,,,,7/2/2023,7.47
+,,,,,,,,,7/3/2023,15.06
+,,,,,,,,,Nadia,59.04
+,,,,,,,,,7/1/2023,40.45
+,,,,,,,,,7/2/2023,16.28
+,,,,,,,,,7/3/2023,2.31
+,,,,,,,,,Paschim Bardhaman,4.71
+,,,,,,,,,7/1/2023,1.07
+,,,,,,,,,7/2/2023,1.23
+,,,,,,,,,7/3/2023,2.41
+,,,,,,,,,Purba Bardhaman,38.48
+,,,,,,,,,7/1/2023,29.16
+,,,,,,,,,7/2/2023,9.14
+,,,,,,,,,7/3/2023,0.18
+,,,,,,,,,Purulia,24.54
+,,,,,,,,,7/1/2023,5.33
+,,,,,,,,,7/2/2023,9.58
+,,,,,,,,,7/3/2023,9.63
+,,,,,,,,,(blank),
+,,,,,,,,,(blank),
+,,,,,,,,,(blank),
+,,,,,,,,,Grand Total,21902.42
